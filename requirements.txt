@@ -1,0 +1,4 @@
+pandas==2.3.3
+python-docx==0.8.11
+openpyxl==3.11.0
+requests==2.31.0

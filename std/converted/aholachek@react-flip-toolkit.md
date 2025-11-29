@@ -1,0 +1,21 @@
+### Release Checklist
+
+Some unfortunately non-automated tasks that need to be done manually:
+
+1. Run test:all and make sure jest + mocha browser tests are passing (you'll need to check mocha tests in the browser)
+
+2. Make sure readme is up-to-date
+
+### Beta Version
+
+Publish a beta version by doing something like:
+
+`npm version version prepatch | preminor | premajor`
+
+`npm publish --tag beta`
+
+### Real release
+
+When making an actual release, provide an associated commit message to explain what the release does:
+
+`npm version patch -m "Upgrade to %s for reasons"`
