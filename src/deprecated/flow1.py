@@ -7,22 +7,22 @@ import pandas as pd
 # 调整路径以便导入 config 模块和访问数据文件
 project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 sys.path.insert(0, os.path.join(project_root, 'src'))
-os.chdir(project_root)  # 将工作目录改为项目根目录
+os.chdir(project_root) 
 
 from config import API_KEY, API_HOST, API_MODEL
 
 with open('prompt.md', 'r', encoding='utf-8') as f:
     prompt_content = f.read().strip()
 
-std_dir = "std"
-xlsx_files = [f for f in os.listdir(std_dir) if f.endswith('.xlsx') and not f.startswith('.')]
+data_dir = "data"
+xlsx_files = [f for f in os.listdir(data_dir) if f.endswith('.xlsx') and not f.startswith('.')]
 
 for xlsx_file in xlsx_files:
     print(xlsx_file)
     
     paragraphs_to_classify = []
     ground_truth = []
-    xlsx_path = os.path.join(std_dir, xlsx_file)
+    xlsx_path = os.path.join(data_dir, xlsx_file)
     
     df = pd.read_excel(xlsx_path, header=None)
     category_columns = {1: "CF", 2: "CT", 3: "TC", 4: "BW", 5: "DC", 6: "SC"}

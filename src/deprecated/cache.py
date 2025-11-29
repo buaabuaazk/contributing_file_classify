@@ -7,8 +7,8 @@ project_root = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(_
 os.chdir(project_root)  # 将工作目录改为项目根目录
 
 # 设置目标目录
-raw_dir = "std/raw"
-output_dir = "std/converted"  # 转换后的文件保存目录
+raw_dir = "data/raw"
+output_dir = "data/converted"  # 转换后的文件保存目录
 
 # 创建输出目录
 if not os.path.exists(output_dir):
