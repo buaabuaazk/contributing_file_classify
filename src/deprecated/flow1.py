@@ -14,7 +14,7 @@ from config import API_KEY, API_HOST, API_MODEL
 with open('prompt.md', 'r', encoding='utf-8') as f:
     prompt_content = f.read().strip()
 
-data_dir = "data"
+data_dir = "data/sheets_for_training"
 xlsx_files = [f for f in os.listdir(data_dir) if f.endswith('.xlsx') and not f.startswith('.')]
 
 for xlsx_file in xlsx_files:
