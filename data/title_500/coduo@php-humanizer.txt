@@ -1,0 +1,4 @@
+#A quick guide to contribute to the project:
+##Installing the dev environment
+##The actual contribution
+##Coding Standards

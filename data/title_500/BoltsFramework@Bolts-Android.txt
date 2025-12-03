@@ -1,0 +1,6 @@
+# Contributing to MyProject
+## Pull Requests
+## Contributor License Agreement ("CLA")
+## Issues
+## Coding Style
+## License

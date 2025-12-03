@@ -1,0 +1,20 @@
+# Contributing Guidelines
+# Our History and Ethos
+# Our Design
+# Development Process
+## Setting up for local development
+## Architecture of the codebase
+#### Packages inside Amplify JS
+## Steps towards contributions
+#### Build step:
+#### Testing:
+#### Test in a local sample app
+#### Verdaccio
+# Pull Requests
+# Debugging
+# Release
+## Finding contributions to work on
+## Related Repositories
+## Code of Conduct
+## Security issue notifications
+## Licensing

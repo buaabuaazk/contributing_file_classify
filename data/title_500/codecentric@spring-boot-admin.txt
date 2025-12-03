@@ -1,0 +1,4 @@
+# Contributing to Spring Boot Admin
+## Coding Conventions
+### Java / Server
+### JavaScript / Client

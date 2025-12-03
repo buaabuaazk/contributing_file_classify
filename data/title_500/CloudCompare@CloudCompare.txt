@@ -1,0 +1,12 @@
+## Naming
+### Specific cases
+### Files
+### Tabs and indentation
+### Summary
+## Unix compliance
+## File headers
+## Introduction
+## First steps
+### Modifying the sources
+#### Header file
+#### Source file

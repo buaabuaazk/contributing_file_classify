@@ -1,0 +1,5 @@
+# Contributing to Doctrine Extensions
+## Which Branch Should I Contribute To?
+## Pull Request Titles
+## Changelog
+## What You Can Contribute

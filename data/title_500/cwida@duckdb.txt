@@ -1,0 +1,10 @@
+# Contributing
+## Code of Conduct
+## **Did you find a bug?**
+## **Did you write a patch that fixes a bug?**
+## Branches
+## Testing
+## Formatting
+## C++ Guidelines
+## Error Handling
+## Naming Conventions

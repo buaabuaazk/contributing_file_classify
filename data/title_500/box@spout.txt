@@ -1,0 +1,12 @@
+# Contributing
+## Contributor License Agreement
+## How to contribute
+## Pull request best practices
+### Step 1: File an issue
+### Step 2: Fork this repository in GitHub
+### Step 3: Add the upstream source
+### Step 4: Create a feature branch
+### Step 5: Push your feature branch to your fork
+### Step 6: Rebase
+### Step 7: Run the tests
+### Step 8: Send the pull request

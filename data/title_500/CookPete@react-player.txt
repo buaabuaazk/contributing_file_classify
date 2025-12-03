@@ -1,0 +1,4 @@
+# Contributing to ReactPlayer
+## `dist` files
+## Linting
+## Testing

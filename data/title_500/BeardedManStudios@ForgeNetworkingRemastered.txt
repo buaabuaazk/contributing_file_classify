@@ -1,0 +1,11 @@
+# Contributing
+## Code standards
+### .editorconfig
+### Tabs vs spaces?
+### Accessors
+### Brackets
+### Comments
+### Line length
+### Var vs type name
+### Function length
+### Testing and TDD

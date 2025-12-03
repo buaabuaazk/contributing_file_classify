@@ -1,0 +1,6 @@
+# Contributing to PEV2
+## Project setup
+### Example Application
+#### Run the application locally
+#### Run the application with docker
+### Build library

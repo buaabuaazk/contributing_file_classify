@@ -1,0 +1,15 @@
+# Welcome to the contributing guide for PeerTube
+## Translate
+## Give your feedback
+## Write documentation
+## Improve the website
+## Develop
+### Prerequisites
+### Online development
+### Server side
+### Client side
+### Client and server side
+### Testing the federation of PeerTube servers
+### Unit tests
+### Emails
+## Plugins & Themes

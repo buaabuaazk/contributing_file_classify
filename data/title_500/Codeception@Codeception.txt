@@ -1,0 +1,7 @@
+# How to contribute
+## Coding Standards
+## Code
+## Tests
+## Documentation
+### Guides
+### Modules Documentation

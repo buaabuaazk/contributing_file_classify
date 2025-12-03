@@ -1,0 +1,6 @@
+### 1. **Fork**
+### 2. **Environment Setup**
+### 3. **Develop**
+### 4. **Test**
+### 5. **Push**
+### 6. **Make PR**

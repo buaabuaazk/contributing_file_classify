@@ -1,0 +1,5 @@
+# Contributing to Appium
+### Make changes to the Appium code or docs
+### Become an Appium Triager
+### Help out on our forums
+### Submit bug reports or feature requests

@@ -1,0 +1,4 @@
+# Contributing
+## Feature Requests
+## Bug Reports
+## Patches

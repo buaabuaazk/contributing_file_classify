@@ -1,0 +1,5 @@
+# Contributing
+## Before Submitting an Issue
+### Submitting an issue (bug)
+### Feature requests
+## New Feature and code contributions

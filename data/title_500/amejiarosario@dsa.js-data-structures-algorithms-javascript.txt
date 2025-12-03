@@ -1,0 +1,14 @@
+# Contributing
+## <a name="submit"></a> Submission Guidelines
+### <a name="submit-issue"></a> Submitting an Issue
+### <a name="submit-pr"></a> Submitting a Pull Request (PR)
+#### After your pull request is merged
+## <a name="commit"></a> Commit Message Guidelines
+### Commit Message Format
+### Revert
+### Type
+### Scope
+### Subject
+### Body
+### Footer
+## Generating Changelog

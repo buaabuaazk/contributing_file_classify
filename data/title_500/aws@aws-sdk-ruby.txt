@@ -1,0 +1,5 @@
+# Contributing to the AWS SDK for Ruby
+## Generated Code
+## What you should keep in mind
+## What we are looking for
+## Running the unit tests

@@ -1,0 +1,5 @@
+# Contribution guidelines
+## Bug reports
+## Code contributions
+### ChangeLog
+## Other resources

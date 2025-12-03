@@ -1,0 +1,5 @@
+## Contribute to Deco
+### Pull Requests
+### Pull Request Checklist
+### Copyright Notice
+### Contributor License Agreement

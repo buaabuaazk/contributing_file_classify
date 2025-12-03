@@ -1,0 +1,14 @@
+# Introduction to Contributing
+## Ground Rules
+### New to contributing to open-source?
+### Why become a contributor :robot:?
+### How can you contribute?
+## Your First Contribution in Botpress
+## Getting Started
+### Your Responsibilities
+### How to Report a Bug
+### Submitting Feature Requests
+### Commits & Commit Messages
+### Reviewing of pull-requests
+### Setting up Your Local Dev Environment
+### Community

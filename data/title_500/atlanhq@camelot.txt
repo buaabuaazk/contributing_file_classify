@@ -1,0 +1,11 @@
+# Contributor's Guide
+## Code Of Conduct
+## Your first contribution
+## Setting up a development environment
+## Pull Requests
+### Submit a pull request
+### Work on your pull request
+## Writing Documentation
+## Filing Issues
+### Questions
+### Bug Reports

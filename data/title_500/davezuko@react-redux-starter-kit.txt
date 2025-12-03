@@ -1,0 +1,7 @@
+# Contributing Guidelines
+### General
+### Linting
+### Commit Message Format
+#### Type
+#### Scope
+#### Subject

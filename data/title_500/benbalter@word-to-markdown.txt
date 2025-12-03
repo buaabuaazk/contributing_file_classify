@@ -1,0 +1,10 @@
+# Contributing to Word To Markdown
+## How to report a bug
+## How to suggest a feature or enhancement
+## What should I do if my document doesn&#39;t convert correctly
+## Your first contribution
+## How to propose changes
+## Bootstrapping your local development environment
+## Running tests
+## Code of conduct
+## Additional Resources

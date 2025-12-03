@@ -1,0 +1,6 @@
+# Feedback and Contribution
+## How To Contribute Code to Alatir
+### Setting Up Your Environment
+### Creating a Branch
+### Testing your Changes
+## Adding Examples

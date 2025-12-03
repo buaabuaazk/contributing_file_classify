@@ -1,0 +1,14 @@
+# Contributing
+## Developing KSQL
+### Building and running KSQL locally
+### Testing changes locally
+### Testing docker image
+## How to Contribute
+### Reporting Bugs and Issues
+### Guidelines for Contributing Code, Examples, Documentation
+#### Code Style
+#### Static code analysis
+#### Commit messages
+##### Breaking changes
+##### Commitlint
+### GitHub Workflow

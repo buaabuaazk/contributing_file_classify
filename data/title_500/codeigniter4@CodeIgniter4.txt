@@ -1,0 +1,12 @@
+# Contributing to CodeIgniter4
+## Contributions
+## Issues
+## Guidelines
+### PHP Style
+### Documentation
+### Compatibility
+### Branching
+### Signing
+## How-to Guide
+### Keeping your fork up-to-date
+## Translations Installation

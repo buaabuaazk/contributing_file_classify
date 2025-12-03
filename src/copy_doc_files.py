@@ -1,0 +1,46 @@
+import os
+import shutil
+
+# 定义文件夹路径
+docx_dir = "data/docx"
+sheets_dir = "data/sheets_500"
+output_dir = "data/docx_500"
+
+# 创建输出目录（如果不存在）
+if not os.path.exists(output_dir):
+    os.makedirs(output_dir)
+    print(f"[初始化] 创建目录: {output_dir}\n")
+
+# 获取 sheets_500 中所有文件的名称（不含后缀）
+sheets_files = os.listdir(sheets_dir)
+sheets_names = set()
+for f in sheets_files:
+    if os.path.isfile(os.path.join(sheets_dir, f)):
+        name_without_ext = os.path.splitext(f)[0]
+        sheets_names.add(name_without_ext)
+
+# 遍历 docx 文件夹中的所有文件
+docx_files = os.listdir(docx_dir)
+copied_count = 0
+
+for docx_file in docx_files:
+    docx_path = os.path.join(docx_dir, docx_file)
+    
+    if not os.path.isfile(docx_path):
+        continue
+    
+    # 获取文件名（不含后缀）
+    name_without_ext = os.path.splitext(docx_file)[0]
+    
+    # 检查是否在 sheets_500 中有同名文件
+    if name_without_ext in sheets_names:
+        # 复制文件到 docx_500
+        output_path = os.path.join(output_dir, docx_file)
+        try:
+            shutil.copy2(docx_path, output_path)
+            copied_count += 1
+        except Exception as e:
+            print(f"[错误] 复制 {docx_file} 失败: {str(e)}")
+
+print(f"✓ 完成！")
+print(f"共复制了 {copied_count} 个文件到 {output_dir}")

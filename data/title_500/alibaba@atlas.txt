@@ -1,0 +1,6 @@
+# Atlas Contributing Guide
+## Branch Management
+### Branch Name
+## Commit Log
+## Pull Request
+## Contributor License Agreement

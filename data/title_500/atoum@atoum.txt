@@ -1,0 +1,10 @@
+# Contributing to atoum
+## Opening Issues
+### Reporting bug
+### Requesting a new feature
+## Sending Pull Requests
+## Coding style
+### Compatibility
+### Naming Conventions
+### Global Variables
+## Code of Conduct

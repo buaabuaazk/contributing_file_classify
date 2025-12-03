@@ -1,0 +1,18 @@
+# Contributing to AngularJS Material
+## <a name="coc"></a> Code of Conduct
+## <a name="question"></a> Have a Question, Problem, or Idea?
+#### <a name="bug"></a> 1. Want to report a Bug or Issue?
+#### <a name="feature"></a> 2. Want to request an Enhancement?
+## <a name="submit"></a> Issue Guidelines
+#### Submitting an Issue
+#### <a name="submitpr"></a>Submitting Pull Requests
+## <a name="commit"></a> Git Commit Guidelines
+### <a name="commit-message-format"></a> Commit Message Format
+##### Type
+##### Scope
+##### Subject
+##### Body
+##### Footer
+##### Sample Commit messages:
+## <a name="pr_forks"></a> Guidelines for Developer Commit Authorizations
+## <a name="cla"></a> Signing the CLA

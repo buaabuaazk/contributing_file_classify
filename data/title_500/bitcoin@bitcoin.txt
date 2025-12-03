@@ -1,0 +1,18 @@
+### Good First Issue Label
+### Committing Patches
+### Creating the Pull Request
+### Translation changes
+### Work in Progress Changes and Requests for Comments
+### Address Feedback
+### Squashing Commits
+# n is normally the number of commits in the pull request.
+# Set commits (except the one in the first line) from 'pick' to 'squash', save and quit.
+# On the next screen, edit/refine commit messages.
+# Save and quit.
+### Rebasing Changes
+### Features
+### Refactoring
+### Peer Review
+#### Conceptual Review
+#### Code Review
+### Finding Reviewers

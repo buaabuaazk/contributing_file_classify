@@ -1,0 +1,7 @@
+# Contributing to SSHKit
+## Getting help
+## Ruby versions
+## Tests
+## Coding guidelines
+## Changelog
+## Breaking changes

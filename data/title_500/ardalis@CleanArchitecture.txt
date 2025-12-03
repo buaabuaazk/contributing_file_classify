@@ -1,0 +1,4 @@
+# Contributing to CleanArchitecture
+## Issues
+### Reporting an Issue
+## Pull Requests

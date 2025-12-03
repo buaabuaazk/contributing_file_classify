@@ -1,0 +1,9 @@
+# CONTRIBUTING
+## How to report a bug
+## How to suggest features and changes
+## Support request
+## Contributng code to onion
+### Ground rules
+### Getting Started
+### Adding your code to onion
+### Contributor License Agreement

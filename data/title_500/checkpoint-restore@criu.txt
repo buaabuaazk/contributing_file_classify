@@ -1,0 +1,17 @@
+## How to contribute to CRIU
+### Setting up the development environment
+### Get the source code
+### Compile
+## Edit the source code
+## Test your changes
+## Describe your changes
+## Separate your changes
+## Sign your work
+### Developer's Certificate of Origin 1.1
+## Submit your work upstream
+### Pull request guidelines
+### Mailing list submission
+### Make a patch
+### Mail patches
+### Wait for response
+## Continuous integration

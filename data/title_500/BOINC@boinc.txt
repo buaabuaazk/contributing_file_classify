@@ -1,0 +1,12 @@
+# Contributing to BOINC
+## How Can I Contribute?
+### Get Connected
+### Promote Volunteer Computing
+### Help Translate
+### Help Test
+### Report Bugs
+### Suggest Enhancements
+### Contribute Code
+## Styleguides
+### BOINC Coding Styles
+### Git Commit Messages

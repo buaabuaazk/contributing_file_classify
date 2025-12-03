@@ -1,0 +1,11 @@
+# Contributing to libui
+## Rules for contributing code
+### Commit messages and pull request description
+### Code formatting
+### Naming
+### API documentation
+### Other commenting
+### Compatibility
+### Windows-specific notes
+### GTK+-specific notes
+### OS X-specific notes

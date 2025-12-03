@@ -1,0 +1,15 @@
+# Contributing
+## Code Contributions
+### 1. Check if issue or feature is available to work on
+### 2. (Optional) Create an issue, and wait a few days for someone to respond
+### 3. Fork the repo
+### 4. Get it running locally
+### 5. Hack away
+### 6. Make a pull request
+### 7. Done!
+### Coding guidelines
+### Supported Versions of Ruby and Rails
+## Documentation Contributions
+## Reviewing Pull Requests
+## Troubleshooting
+### Models and Database Tables

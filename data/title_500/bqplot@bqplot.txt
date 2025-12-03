@@ -1,0 +1,4 @@
+# Contributing to bqplot
+## Governance and code of conduct
+## Questions
+## Help / Documentation

@@ -1,0 +1,6 @@
+# Contributing to MonoGame.Extended
+## How To Contribute
+## Quick Guidelines
+## Decompiler Tools
+## Licensing
+## Need More Help?

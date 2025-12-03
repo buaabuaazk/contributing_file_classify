@@ -1,0 +1,10 @@
+# Contribution Guide
+## Etiquette
+## Versioning
+## Coding Standards
+## Issues \ Bugs
+### Procedure
+### Which Branch?
+## Proposals
+### Procedure
+## Running Tests

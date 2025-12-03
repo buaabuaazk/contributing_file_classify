@@ -1,0 +1,9 @@
+# Contributing
+## Branch Structure
+## Filing Bugs
+## Instructions for Contributing Code
+### Contributing bug fixes
+### Contributing features
+## Legal
+## Housekeeping
+## Building and running tests

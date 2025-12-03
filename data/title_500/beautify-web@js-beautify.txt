@@ -1,0 +1,28 @@
+# Contributing
+## Report Issues and Request Changes
+## How to Make Changes (Implement Fixes and New Features)
+### 0. Prereqisites for development
+### 1. Build and Test Locally
+### 2. Ensure Feature Parity
+### 3. Update Documentation and Tools
+### 4. Submit a Pull Request
+# Folders
+## Root
+## `js`
+## `python`
+## `web`
+## `test`
+# Branches and Tags
+## Master
+## Release
+# Tags
+## Attic
+### PHP
+### Other Languages
+### Generic Eval Unpacker
+# How to publish a new version
+## Setup
+### Python
+### Node
+## Publish to Production
+## Publish to Beta Channel

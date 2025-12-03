@@ -1,0 +1,10 @@
+# How to Contribute to Abseil
+## Contributor License Agreement
+## Contribution Guidelines
+### Priorities
+### API Freeze Consequences
+## Coding Style
+## Guidelines for Pull Requests
+## Running Tests
+## Abseil Committers
+## Release Process

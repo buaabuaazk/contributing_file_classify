@@ -1,0 +1,23 @@
+# Contributor's Guide
+## Table of Contents
+## What should I Contribute?
+## Writing Code
+### When should I create an issue?
+### What should I include in my issue?
+### When should I create a pull request?
+### What should I include in my pull request?
+## Reviewing pull requests
+### Ensure contributions are linted and tested
+### Review the feature/fixes
+### Review architectural decisions
+### Verify localizations
+## Localization
+## Documentation
+## Design Principles
+### GraphQL
+#### Types
+#### Enumeration Types
+#### Mutation Types
+#### Access Permissions On Types
+#### Arrays of Items
+#### Documenting

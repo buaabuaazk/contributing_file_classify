@@ -1,0 +1,8 @@
+# How to Contribute to the Android Beacon Library
+## Style
+## API Changes
+## Testing
+### 1. Automated Robolectric tests:
+### 2. Manual tests:
+### 3. Changes that cannot be tested manually or with Robolectric
+## License

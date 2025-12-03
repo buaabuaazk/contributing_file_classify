@@ -1,0 +1,6 @@
+# How to contribute
+## Resources in the documentation
+## Submitting PRs
+## Coding conventions and guidelines
+### Commit messages
+### Coding guidelines

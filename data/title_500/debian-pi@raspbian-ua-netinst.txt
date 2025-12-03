@@ -1,0 +1,3 @@
+# Contributing to raspbian-ua-netinst
+## Reporting issues
+## Submitting Pull Requests

@@ -1,0 +1,11 @@
+## Contributing
+### Where do I go from here?
+### Fork & create a branch
+### Get the test suite running
+### Implement your fix or feature
+### View your changes in a Rails application
+### Get the style right
+### Make a Pull Request
+### Keeping your Pull Request updated
+### Merging a PR (maintainers only)
+### Shipping a release (maintainers only)

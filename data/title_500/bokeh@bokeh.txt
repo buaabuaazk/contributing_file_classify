@@ -1,0 +1,6 @@
+# How to contribute
+## Getting Set Up
+## Choosing something to work on
+## Opening a new issue
+## Creating a pull request (PR)
+## DOs and DON'Ts

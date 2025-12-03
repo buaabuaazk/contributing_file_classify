@@ -1,0 +1,8 @@
+          # Short description
+          #
+          # Longer description if needed
+          #
+          # +args+:: get documented using this syntax
+          # +args+:: please state the TYPE of every arg
+          #
+          # Returns goes here, please state the TYPE of what's returned, if anything

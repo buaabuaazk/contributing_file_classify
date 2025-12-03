@@ -1,0 +1,7 @@
+## Filing an issue
+## Setup
+## Building C3 from sources
+## Distribution
+## Running the tests
+## Building the document site (c3js.org)
+## Contributing your changes

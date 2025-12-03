@@ -1,0 +1,17 @@
+# Contributing to Kitten Tricks
+## <a name="coc"></a> Code of Conduct
+## <a name="question"></a> Got a Question or Problem?
+## <a name="issue"></a> Found an Issue?
+## <a name="feature"></a> Want a Feature?
+### <a name="submit-issue"></a> Submitting an Issue Before you submit an issue, search the archive, maybe your question was already answered.
+### <a name="submit-pr"></a> Submitting a Pull Request (PR)
+#### After your pull request is merged
+## <a name="rules"></a> Coding Rules
+## <a name="commit"></a> Commit Message Guidelines
+### Commit Message Format
+### Revert
+### Type
+### Scope
+### Subject
+### Body
+### Footer

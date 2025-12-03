@@ -1,0 +1,6 @@
+# Contributing to bitcoinjs-lib
+## Communication Channels
+## Workflow
+## Regarding TypeScript
+## We adhere to Bitcoin-Core policy
+#### TLDR

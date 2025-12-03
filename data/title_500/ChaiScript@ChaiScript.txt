@@ -1,0 +1,6 @@
+# Contributing to ChaiScript
+# Pull Requests
+# Issues
+## ChaiScript is Too Slow
+## ChaiScript Compiles Too Slowly
+## ChaiScript Needs More Documentation

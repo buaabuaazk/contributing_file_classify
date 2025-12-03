@@ -1,0 +1,9 @@
+# Code of Conduct
+# New Issues
+# Compilation problem
+# Contributing
+## Documentation
+## Reviewing Issues
+## Hacking
+## Forking & Pull Requests
+## Community

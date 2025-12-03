@@ -1,0 +1,10 @@
+# Contributing Guidelines
+## Integrating AWS SAM into your tool
+## Submitting feature requests
+## Adding features to AWS SAM
+## Reporting Bugs/Feature Requests
+## Contributing via Pull Requests
+## Finding contributions to work on
+## Code of Conduct
+## Security issue notifications
+## Licensing

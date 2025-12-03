@@ -1,0 +1,14 @@
+# Contributions
+## Helping out
+### Run the latest version from GitHub
+### Report bugs
+### Suggest changes (pull request)
+### Translations
+## Developer Guidelines
+## Code Guidelines
+### General
+### Comments
+### Functions
+### Variables
+## Pull Requests
+## Unlimited Rights

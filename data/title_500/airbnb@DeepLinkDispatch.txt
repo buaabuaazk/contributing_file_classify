@@ -1,0 +1,5 @@
+# DeepLinkDispatch is an Open Source Project
+## What?
+## Rules
+## Releases
+## Changes to this arrangement

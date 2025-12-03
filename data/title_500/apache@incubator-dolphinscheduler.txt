@@ -1,0 +1,7 @@
+# Development
+## Set up your dolphinscheduler GitHub Repository
+## Set git remote as ``upstream``
+## Create your feature branch
+## Commit changes
+## Push to the branch
+## Create a pull request

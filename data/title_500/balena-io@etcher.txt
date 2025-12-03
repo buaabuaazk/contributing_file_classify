@@ -1,0 +1,9 @@
+### Prerequisites
+#### Common
+#### Windows
+#### macOS
+#### Linux
+### Cloning the project
+### Installing npm dependencies
+### Running the application
+#### GUI

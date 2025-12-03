@@ -1,0 +1,16 @@
+# How to contribute
+## Code of Conduct
+## Setup
+### Testing
+## Submission Guidelines
+### Submitting a feature request
+### Submitting a bug report
+### Submitting a Pull Request
+## Commit Message Guidelines
+### Commit Message Format
+### Revert
+### Type
+### Scope
+### Subject
+### Body
+### Footer

@@ -1,0 +1,14 @@
+# Contributing
+## Not sure where to start?
+## Chat
+## Developing
+### Setup
+### Running linting/tests
+#### Troubleshooting Tests
+### Writing tests
+#### `@babel/plugin-x`
+#### `@babel/parser` (babylon)
+#### Bootstrapping expected output
+### Debugging code
+## Creating a new plugin (`spec-new`)
+## Internals

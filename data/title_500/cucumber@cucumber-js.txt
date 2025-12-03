@@ -1,0 +1,8 @@
+# Thank you!
+## Setup
+## Tests
+## Test browser example locally
+## Internals
+### Project Structure
+### Coding style
+## Release process

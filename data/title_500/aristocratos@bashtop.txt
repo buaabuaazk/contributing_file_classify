@@ -1,0 +1,5 @@
+# Contributing guidelines
+## When submitting pull requests
+## Formatting
+### Follow the current syntax design
+## Optimization

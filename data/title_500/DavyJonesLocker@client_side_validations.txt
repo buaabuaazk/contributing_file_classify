@@ -1,0 +1,7 @@
+# Contribution Guidelines #
+## Submitting a new issue ##
+## Making a pull request ##
+## Coding standards
+### Ruby
+### Commits
+## License

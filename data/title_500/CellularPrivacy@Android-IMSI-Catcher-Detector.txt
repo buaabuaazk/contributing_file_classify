@@ -1,0 +1,15 @@
+# Contribution Guide
+## DEVELOPING
+## TRANSLATING
+## TESTING
+## FORMATTING
+## DEBUGGING
+## SEEKING
+## DONATING
+## Code of Conduct
+### Our Pledge
+### Our Standards
+### Our Responsibilities
+### Scope
+### Enforcement
+### Attribution

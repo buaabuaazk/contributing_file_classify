@@ -1,0 +1,11 @@
+# Contributing to the AWS SDK for Java
+## Bug Reports
+### Before Submitting a Bug Report
+### Submitting a Bug Report
+## Feature Requests
+### Submitting a Feature Request
+## Code Contributions
+### Pull Request Readiness
+### Additional Pull Request Requirements
+#### Getting Your Pull Request Merged
+## Getting in Contact

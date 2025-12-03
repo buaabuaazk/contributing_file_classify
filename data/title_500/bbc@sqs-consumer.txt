@@ -1,0 +1,4 @@
+# Contributing
+## Reporting Issues
+## Contributing Code
+## Pull Request Process

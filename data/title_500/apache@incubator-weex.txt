@@ -1,0 +1,22 @@
+# Contributing to Weex
+## Table of Content
+# Code of Conduct
+# Mailing List
+# Ask or Answer Questions
+## Format of Github issue
+## Be patient
+# Development Process
+# Contribute Code or document
+## Contribute documentation
+## Contribute code
+### Before Coding
+#### Use master branch
+#### Check License
+#### Bug or Feature ?
+### Coding
+#### Code Style Guidelines
+##### Objective-C
+##### Java & Android
+##### C & C++
+### Publish your Change
+# Members and Governance Model

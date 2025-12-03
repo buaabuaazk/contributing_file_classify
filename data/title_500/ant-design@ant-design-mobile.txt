@@ -1,0 +1,9 @@
+# Contributing to Ant Design Mobile
+## Do your homework before asking a question
+### 1. Read the documentation.
+### 2. Make sure that your question is about Ant Design Mobile, not React
+### 3. Read the FAQ and search the issues list of Ant Design Mobile
+## Close your issue if it's solved
+## Providing a demo while reporting a bug
+## Tips about Feature Request
+## Tips about Pull Request

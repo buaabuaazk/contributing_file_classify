@@ -1,0 +1,16 @@
+# Contributing to Apache Tomcat
+## Code of Conduct
+## How Can I Contribute?
+### Reporting Bugs
+### Your First Code Contribution
+### Trouble Deciding How to Contribute?
+### How to Provide Your First Patch
+##### Choose Your Method of Submission
+##### Get the Sources
+###### Download The Source Distribution
+##### Manual Patch Generation
+##### GitHub
+#### Submitting Your Patch!
+#### Waiting For Feedback
+## Style Guide
+## Did we miss something?

@@ -1,0 +1,23 @@
+# Contributing to AdAway
+#### Table of contents
+## I don't want to read this whole thing I just have a question!!!
+## What should I know before I get started?
+### Discovering the project structure
+### Building the project
+#### Building with Gradle
+#### Running on emulator
+## How can I contribute?
+### Reporting bugs
+#### How do I submit a (good) bug report?
+### Suggesting enhancements
+#### How do I submit a (good) enhancement suggestion?
+### Translating to your language
+### Your first code contribution
+## Styleguides
+### Git commit messages
+### Java styleguide
+### XML styleguide
+## Additional notes
+### `tcpdump` and `webserver` modules
+#### Origin
+#### Changes

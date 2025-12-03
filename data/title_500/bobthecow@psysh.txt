@@ -1,0 +1,3 @@
+## Code style
+## Running tests
+## Building pre-compiled phars

@@ -1,0 +1,3 @@
+# Contribution Guidelines
+## Running pre-release Celluloid
+## Filing a bug report

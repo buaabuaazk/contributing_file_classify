@@ -1,0 +1,6 @@
+# Contributing to Cryptomator
+## Did you find a bug?
+## Did you write a patch that fixes a bug?
+## Do you intend to add a new feature or change an existing one?
+## Code of Conduct
+## Above all, thank you for your contributions

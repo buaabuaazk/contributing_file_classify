@@ -1,0 +1,5 @@
+# How to Contribute
+## GitHub Workflow
+### If your pull request shows conflicts with master
+## FAQ
+### Help! I merged changes from upstream and cannot figure out how to resolve conflicts when rebasing!

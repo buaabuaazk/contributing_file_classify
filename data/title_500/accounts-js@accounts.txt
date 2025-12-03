@@ -1,0 +1,14 @@
+# Contributing to Accounts
+## Getting Started
+## Development
+#### Useful Commands:
+## Pull Requests
+### Requirements
+#### All PRs:
+### Submission
+## Contributors with Commit Bit
+## Financial contributions
+## Credits
+### Contributors
+### Backers
+### Sponsors

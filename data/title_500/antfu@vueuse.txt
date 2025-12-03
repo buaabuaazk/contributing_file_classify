@@ -1,0 +1,11 @@
+# ? Contribute
+## Setup
+## Code Style
+## Development
+## Contributing to existing functions
+## Contributing to new functions
+## Contributing to new add-ons
+## Project Structure
+### Monorepo
+### Function Folder
+## Thanks

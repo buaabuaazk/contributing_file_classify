@@ -1,0 +1,8 @@
+## About to create a new Github Issue?
+### Xamarin Studio, UITest, and Test Cloud
+### CI Environments (Travis, Jenkins, Bamboo, Team City)
+## Contributing
+##### Git Flow Step-by-Step guide
+##### Git Best Practices
+##### git-flow command line tool
+## Start a Feature

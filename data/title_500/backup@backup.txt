@@ -1,0 +1,12 @@
+# Backup contribution guide
+## Vocabulary
+## Code of Conduct
+## Bugs
+## Asking for (or Giving) Help
+## Triage Issues [![Open Source Helpers](https://www.codetriage.com/backup/backup/badges/users.svg)](https://www.codetriage.com/backup/backup)
+## Pull Requests
+### PR standards
+## Becoming a Committer
+## TC Process
+### Adding new TC members
+### Release cutting

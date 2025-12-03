@@ -1,0 +1,5 @@
+## How to contribute to Material Angular Dashboard
+#### **Did you find a bug?**
+#### **Did you write a patch that fixes a bug?**
+#### **Do you intend to add a new feature or change an existing one?**
+#### **Do you have questions about the source code?**

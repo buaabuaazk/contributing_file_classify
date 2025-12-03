@@ -1,0 +1,8 @@
+# Contributing Guidelines
+## Development Guide
+## Reporting Bugs/Feature Requests
+## Contributing via Pull Requests
+## Finding contributions to work on
+## Code of Conduct
+## Security issue notifications
+## Licensing

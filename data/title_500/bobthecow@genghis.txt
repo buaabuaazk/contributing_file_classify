@@ -1,0 +1,5 @@
+# Contributions welcome!
+## Development requirements
+## Building Genghis
+## Running the API test suite
+## Opening a pull request

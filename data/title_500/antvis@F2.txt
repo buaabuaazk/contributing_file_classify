@@ -1,0 +1,11 @@
+# Contribution Guide
+## Reporting New Issues
+## Submitting Code
+### Pull Request Guide
+### Style Guide
+### Commit Message Format
+## Release
+### Branch Strategy
+### Release Strategy
+#### Preparation
+#### Before Release

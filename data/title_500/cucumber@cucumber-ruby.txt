@@ -1,0 +1,9 @@
+## About to create a new Github Issue?
+# Contributing to Cucumber
+## Talking with other devs
+## Installing your own gems
+## Note on Patches/Pull Requests
+## Running tests
+## First timer? No problem!
+## Release Process
+# Make sure you run gem signin as the cukebot@cucumber.io user before running the following step. Credentials can be found in 1Password

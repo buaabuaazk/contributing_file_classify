@@ -1,0 +1,8 @@
+## About to create a new Github Issue?
+# Contributing to cucumber-rails
+## Note on Patches/Pull Requests
+## Running tests
+# Then to run tests on one version-specific Gemfile (e.g. gemfiles/rails_6_0.gemfile), run
+# Or run tests across the full supported stack. Note that because we support many versions. This takes 5-10 minutes
+## Release Process
+## Gaining Release Karma

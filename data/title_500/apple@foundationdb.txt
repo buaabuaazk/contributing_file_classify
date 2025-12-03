@@ -1,0 +1,14 @@
+# Contributing to FoundationDB
+#### Table of Contents
+## Before you get started
+### Community Guidelines
+### Project Licensing
+### Governance and Decision Making
+## Contributing
+### Opening a Pull Request
+### Reporting issues
+#### Security issues
+## Project Communication
+### Community Forums
+### Using GitHub Issues and Community Forums
+### Project and Development Updates

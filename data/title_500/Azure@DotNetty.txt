@@ -1,0 +1,9 @@
+# Contributing to dotNetty
+### Checklist before creating a Pull Request
+#### Title and Description for the Pull Request ####
+### Getting started
+### Making changes
+### Handling updates from upstream
+### Making changes to a Pull request
+### All my commits are on dev. How do I get them to a new branch? ###
+## Code guidelines

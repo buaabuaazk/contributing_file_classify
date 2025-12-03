@@ -1,0 +1,3 @@
+# Contributing
+## Things to bear in mind
+# Development Environment

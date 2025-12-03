@@ -1,0 +1,8 @@
+# Contributing Guide
+## Branch Management
+## Branch Name
+## Commit Log
+## Issue
+## Pull Request And Contributor License Agreement
+## Code Style Guide
+### Java & Android

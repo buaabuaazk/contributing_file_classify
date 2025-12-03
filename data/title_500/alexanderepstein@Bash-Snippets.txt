@@ -1,0 +1,11 @@
+# Contributing
+### First off, thank you for considering contributing to Bash-Snippets.
+#### Where do I go from here?
+#### Otherwise if implementing a fix, feature or new component go through these steps
+#### 1. Fork & Clone The Repository
+#### 2. Implement your fix, feature or new component
+###### Fix/Feature
+###### New Component
+#### 3. Check The Script Runtime
+#### 4. Create A Pull Request
+#### 5. Bask In All The Glory Of Adding To A FOSS Application

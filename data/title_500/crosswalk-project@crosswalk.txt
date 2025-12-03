@@ -1,0 +1,6 @@
+# Contributing to Crosswalk
+## License
+## Submitting pull requests
+## Commit messages
+## Coding style
+## Updating the release notes

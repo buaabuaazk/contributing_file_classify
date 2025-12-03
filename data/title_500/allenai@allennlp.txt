@@ -1,0 +1,6 @@
+# Contributing
+## How Can I Contribute?
+### Bug fixes and new features
+### Making a pull request
+# replace BRANCH with whatever name you want to give it
+### New models

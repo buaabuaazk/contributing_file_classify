@@ -1,0 +1,3 @@
+### Before you contribute
+### Developer Certificate of Origin
+### Code reviews

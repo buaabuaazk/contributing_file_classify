@@ -1,0 +1,4 @@
+# Contributions welcome!
+### Here's a quick guide:
+### You can do some things to increase the chance that your pull request is accepted the first time:
+### Mustache.php follows the PSR-* coding standards:

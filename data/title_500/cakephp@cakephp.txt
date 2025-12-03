@@ -1,0 +1,9 @@
+# How to contribute
+## Code of Conduct
+## Getting Started
+## Making Changes
+## Which branch to base the work
+## Submitting Changes
+## Test cases and codesniffer
+## Reporting a Security Issue
+# Additional Resources

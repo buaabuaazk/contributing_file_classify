@@ -1,0 +1,5 @@
+# How to become a contributor and submit your own code
+## Contributing new samples
+## Code style and structure
+## Contributor License Agreements
+## Contributing A Patch

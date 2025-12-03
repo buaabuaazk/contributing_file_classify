@@ -1,0 +1,6 @@
+# Contributing to AzuraCast
+## Translating AzuraCast
+## Testing New Platforms
+## Contributing Code Changes
+## The "Do Nots" of Contributing
+## Financial contributions

@@ -1,0 +1,9 @@
+## 0x Contribution Guide
+### Getting started
+### Branch structure
+### CHANGELOGs
+### Development Tooling
+#### Linter
+#### Auto-formatter
+## Unenforced coding conventions
+### Fix `submit-coverage` CI failure

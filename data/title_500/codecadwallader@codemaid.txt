@@ -1,0 +1,6 @@
+# Contributing
+## Using the issue tracker
+## Bug reports
+## Feature requests
+## Pull requests
+## Code guidelines

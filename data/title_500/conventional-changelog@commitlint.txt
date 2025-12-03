@@ -1,0 +1,5 @@
+# commitlint
+## Found an Issue?
+## Want to contribute?
+## Coding Rules
+## Commit Rules

@@ -1,0 +1,7 @@
+## Redux and Typescript
+### Importing Types
+### Defining Component Prop Types
+### Connecting React components to Redux
+### Creating Reducers
+### Creating Action Types
+### Creating Action Creators

@@ -1,0 +1,16 @@
+# Reporting an Issue
+# Creating a Pull Request
+# Versioning
+# Coding Standards
+## Spacing
+## Formatting
+## Naming
+## Hacking
+## Documentation
+### Doxygen Generation
+### Intellisense Compatibility
+## Language Features
+# Changing the API
+## Adding a Virtual Function
+## Renaming a Function
+## Deprecating a Function

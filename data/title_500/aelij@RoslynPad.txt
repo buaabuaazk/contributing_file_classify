@@ -1,0 +1,3 @@
+# Contributing to RoslynPad
+## Submitting Pull Requests
+## Creating Issues

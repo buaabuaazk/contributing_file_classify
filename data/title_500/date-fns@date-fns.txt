@@ -1,0 +1,12 @@
+# Contributing Guide
+## Table of Contents
+## How to Help?
+## Contribution Guidelines
+## Getting Started
+## Testing
+## Before Sending a Pull Request
+## Code Style Guide
+### Lint the Code
+### Use EditorConfig
+## Documentation
+### JSDoc

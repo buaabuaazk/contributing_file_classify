@@ -1,0 +1,5 @@
+# Contributing Guidelines
+## Reporting Bugs/Feature Requests
+## Code of Conduct
+## Security issue notifications
+## Licensing

@@ -1,0 +1,16 @@
+# Contributing to Shields
+## Ways you can help
+### Financial contributions
+### Contributing code
+### Contributing documentation
+### Helping others
+### Suggesting improvements
+### Spreading the word
+## Getting help
+## Badge guidelines
+## Badge URLs
+## Coding guidelines
+### Prettier
+### Tests
+### Code organization
+### Logos

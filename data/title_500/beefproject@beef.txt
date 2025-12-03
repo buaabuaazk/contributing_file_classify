@@ -1,0 +1,11 @@
+# Contributing
+### Anyone is welcome to make BeEF better!
+###  We want any form of helpful contributions!
+# Ground Rules
+###  Responsibilities
+# Where to start
+### Looking to make your first contribution
+### Ruby best practise
+# Getting started
+### How to submit a contribution.
+# How to report a bug

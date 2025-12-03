@@ -1,0 +1,9 @@
+# Contributing
+## Overview
+## Commit guidelines
+### Commit structure
+### Commit examples
+## PR guidelines
+### PR approval
+### Commit squashing
+## balena-ci bot

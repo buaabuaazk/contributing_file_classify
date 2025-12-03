@@ -1,0 +1,15 @@
+# Contributing
+## Documentation
+## Bug
+## Feature request
+## Large contributions
+### General knowledge
+### Technologies
+#### `React`
+#### `Redux`
+#### Testing
+#### Performance
+#### Flow
+### Drag and drop problem space
+#### HTML5 drag and drop
+#### Prior work

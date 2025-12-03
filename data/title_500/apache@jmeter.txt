@@ -1,0 +1,11 @@
+# How to contribute
+## :beetle: Found a bug
+## :question: Need help
+## :bar_chart: What needs to be developed
+## Development setup
+### Gradle
+### <a name="intellij"></a>IntelliJ IDEA
+### Eclipse
+## :star2: Have a patch
+## :heart: Adding something new
+## :closed_book: Want to write docs

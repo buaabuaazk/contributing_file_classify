@@ -1,0 +1,4 @@
+# Contributing
+## Install
+## Testing
+## Comitting

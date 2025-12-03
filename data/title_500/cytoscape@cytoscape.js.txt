@@ -1,0 +1,5 @@
+# Contributing to Cytoscape.js
+## Submitting issues
+## Where to put changes
+## Code style
+## Testing

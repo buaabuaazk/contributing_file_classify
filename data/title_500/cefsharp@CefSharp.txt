@@ -1,0 +1,8 @@
+## CefSharp Project Contribution Guide
+### General
+### `CefSharp` vs `Chromium Embedded Framework(CEF)`
+### What should I include when creating an `Issue`?
+#### Help us help you
+### Change Requests
+### Pull Requests/Feature Branches
+### Coding Style

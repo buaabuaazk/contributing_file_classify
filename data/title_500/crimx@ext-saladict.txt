@@ -1,0 +1,11 @@
+# Contributing to Saladict
+## How to Contribute
+## How to get started
+## UI Tweaking
+## Testing
+## Building
+## How to add a dictionary
+### Develop the dictionary UI live
+### Add Testing
+## Code Style
+## Commit Style

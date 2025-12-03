@@ -1,0 +1,10 @@
+# General Contributing Guidelines
+# Commit Messages
+# Submitting Pull Requests
+## Upcoming Releases / Features
+## Supported Releases / Fixes
+# Releases & Versioning
+## Supported Releases
+## Unsupported Releases
+## Alpha, Beta, Release Candidate Releases
+# Testing

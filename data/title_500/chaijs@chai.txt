@@ -1,0 +1,12 @@
+# Chai Contribution Guidelines
+#### Table of Contents
+## TLDR;
+## Contributing
+### Bug Reports
+### Feature Requests
+### Pull Requests
+## Releasing
+### Publishing a Release
+## Support
+### Resources
+### Core Contributors

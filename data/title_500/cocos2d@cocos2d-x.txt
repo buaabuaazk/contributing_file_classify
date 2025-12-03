@@ -1,0 +1,6 @@
+# Contributing to cocos2d-x
+## For general questions
+## Reporting bugs
+## Submitting patches
+## Only _complete_ patches will be merged
+# Promoting cocos2d

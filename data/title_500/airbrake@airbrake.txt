@@ -1,0 +1,6 @@
+#### Airbrake config
+    # YOUR CONFIG
+    #
+    # Make sure to delete any sensitive information
+    # such as your project id and project key.
+#### Description

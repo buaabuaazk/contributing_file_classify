@@ -1,0 +1,12 @@
+### Imgbot Service
+#### Triggers
+#### Compression workflow
+#### Installation tokens
+#### Schedules
+#### Commit messages
+#### Image query
+#### Local Paths
+#### Webhooks
+### Imgbot website
+### Imgbot Docs
+### Tests

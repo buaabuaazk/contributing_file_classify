@@ -1,0 +1,31 @@
+# Contributing Guidelines
+## Welcome!
+## Table of contents
+## Quick links &#x1f517;
+## Contributor License Agreement
+## Code of conduct
+## Asking questions and reporting issues
+### Asking questions
+### Reporting issues
+### Updating or filing a new issue
+#### Information to include
+#### Installation issues
+#### Bugs/usage issues
+### On existing issues
+## Updating documentation
+## Environment setup
+## Workflow
+## Testing
+## Coding conventions
+### Formatting
+### Naming
+### Function declarations
+### Variable and parameter declarations
+### Command substitution
+### Process substitution
+### Conditionals and loops
+### Generating output
+### Signal names
+### Gotchas
+## Open Source License
+## Credits

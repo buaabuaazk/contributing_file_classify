@@ -1,0 +1,10 @@
+# Contributing to Moloch
+### Just have a question :question:
+### Where do I start? :traffic_light:
+### How do I contribute?
+#### Documentation! :page_with_curl:
+#### Bugs :bug: :beetle: :ant:
+#### Feature Requests :sparkles:
+#### Pull Requests :muscle:
+### Upgrading Cyberchef
+### :heart: Thanks,

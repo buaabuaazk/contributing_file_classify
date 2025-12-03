@@ -1,0 +1,9 @@
+# Contributing to YamlDotNet
+## Pull requests
+## Project organization
+## Building / multiplatform
+### Build targets
+### Target platforms
+### Build configurations
+## AOT compatibility
+## Coding style

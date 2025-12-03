@@ -1,0 +1,9 @@
+# Contributing to Attendize
+## Ways to Contribute
+### Bug Reports
+### Support
+### Pull Requests
+### Tests and Documentation
+### Comments, Feedback and Reviews
+## Licensing
+## Code of Conduct

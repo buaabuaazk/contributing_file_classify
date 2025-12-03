@@ -1,0 +1,4 @@
+# How to contribute
+## Branches
+## Testing
+### Using your own machine for building and testing.

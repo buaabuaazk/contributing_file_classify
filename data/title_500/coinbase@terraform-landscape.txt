@@ -1,0 +1,7 @@
+# Contributing to Terraform Landscape
+## Code of Conduct
+## Bug Reports
+## Feature Requests
+## Pull Requests
+### Development Setup
+## Support Requests

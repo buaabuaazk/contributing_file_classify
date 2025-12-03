@@ -1,0 +1,12 @@
+## Contributing to Mongoose
+### Reporting bugs
+### Requesting new features
+### Fixing bugs / Adding features
+### Running the tests
+### Documentation
+### Plugins website
+## Financial contributions
+## Credits
+### Contributors
+### Backers
+### Sponsors

@@ -1,0 +1,7 @@
+# Contributing
+## Coding style
+## Fix bugs by creating PR's
+## Share an RFC for new features or big changes
+### What is an RFC?
+## Report security issues
+## Be a part of community

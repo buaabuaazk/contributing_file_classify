@@ -1,0 +1,6 @@
+## Dependencies
+## Testing
+### Executing tests
+### Writing new tests
+### Parametrized testing SFTP and FTP
+### Travis CI

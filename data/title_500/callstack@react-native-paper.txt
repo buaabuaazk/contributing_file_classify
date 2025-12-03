@@ -1,0 +1,12 @@
+# Contributing to React Native Paper
+## Code of Conduct
+## Our Development Process
+### Development workflow
+### Commit message convention
+### Linting and tests
+### Sending a pull request
+### Running the example
+### Working on documentation
+### Publishing a release
+## Reporting issues
+## License

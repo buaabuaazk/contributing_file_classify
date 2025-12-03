@@ -1,0 +1,3 @@
+# Contributing to React Simple Animate
+## Pull Requests
+## Coding Style

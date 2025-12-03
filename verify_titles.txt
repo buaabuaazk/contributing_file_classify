@@ -1,0 +1,1299 @@
+=== Atlantic18@DoctrineExtensions.txt ===
+找到 3 个在 Excel 第一列中找不到的标题：
+  - 原始: ## [Unreleased]
+    清理后: [Unreleased]
+  - 原始: ### Loggable
+    清理后: Loggable
+  - 原始: #### Fixed
+    清理后: Fixed
+
+=== AutoMapper@AutoMapper.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始: #bugnumber (in this specific format)
+    清理后: bugnumber (in this specific format)
+
+=== Azure@DotNetty.txt ===
+找到 2 个在 Excel 第一列中找不到的标题：
+  - 原始: #### Title and Description for the Pull Request ####
+    清理后: Title and Description for the Pull Request ####
+  - 原始: ### All my commits are on dev. How do I get them to a new branch? ###
+    清理后: All my commits are on dev. How do I get them to a new branch? ###
+
+=== Azure@azure-sdk-for-net.txt ===
+找到 4 个在 Excel 第一列中找不到的标题：
+  - 原始: #region Snippet:<snippetName>
+    清理后: region Snippet:<snippetName>
+  - 原始: #endregion
+    清理后: endregion
+  - 原始: #pragma warning disable CA1707
+    清理后: pragma warning disable CA1707
+  - 原始: #pragma warning restore CA1707
+    清理后: pragma warning restore CA1707
+
+=== BlockchainCommons@Learning-Bitcoin-from-the-Command-Line.txt ===
+找到 2 个在 Excel 第一列中找不到的标题：
+  - 原始: ## Report Bugs using Github's [issues](https://github.com/briandk/transcriptase-atom/issues)
+    清理后: Report Bugs using Github's [issues](https://github.com/briandk/transcriptase-atom/issues)
+  - 原始: ### Use [Github Flow](https://guides.github.com/introduction/flow/index.html) for Pull Requests
+    清理后: Use [Github Flow](https://guides.github.com/introduction/flow/index.html) for Pull Requests
+
+=== BoostIO@Boostnote.txt ===
+找到 3 个在 Excel 第一列中找不到的标题：
+  - 原始: # Contributing to Boostnote (Français)
+    清理后: Contributing to Boostnote (Français)
+  - 原始: ### Lorsque vous signalez un problème ou un bug
+    清理后: Lorsque vous signalez un problème ou un bug
+  - 原始: ### À propos des droits d'auteurs et des requêtes (`Pull Request`)
+    清理后: À propos des droits d'auteurs et des requêtes (Pull Request)
+
+=== BrighterCommand@Brighter.txt ===
+找到 6 个在 Excel 第一列中找不到的标题：
+  - 原始: # **Contributors Wanted: Inquire Within** #
+    清理后: Contributors Wanted: Inquire Within #
+  - 原始: ## Getting Started ##
+    清理后: Getting Started ##
+  - 原始: ### Making Changes ###
+    清理后: Making Changes ###
+  - 原始: ### Submitting Changes ###
+    清理后: Submitting Changes ###
+  - 原始: ### Contributor Licence Agreement ###
+    清理后: Contributor Licence Agreement ###
+  - 原始: ### Contributor Code of Conduct ###
+    清理后: Contributor Code of Conduct ###
+
+=== BrowserSync@browser-sync.txt ===
+找到 8 个在 Excel 第一列中找不到的标题：
+  - 原始: ## <a name="question"></a> Got a Question or Problem?
+    清理后: <a name="question"></a> Got a Question or Problem?
+  - 原始: ## <a name="issue"></a> Found an Issue?
+    清理后: <a name="issue"></a> Found an Issue?
+  - 原始: ## <a name="tips"></a> Tips for a creating a great issue report
+    清理后: <a name="tips"></a> Tips for a creating a great issue report
+  - 原始: ## <a name="feature"></a> Want a Feature?
+    清理后: <a name="feature"></a> Want a Feature?
+  - 原始: ## <a name="docs"></a> Want a Doc Fix?
+    清理后: <a name="docs"></a> Want a Doc Fix?
+  - 原始: ## <a name="pull"></a> Submitting a Pull Request
+    清理后: <a name="pull"></a> Submitting a Pull Request
+  - 原始: ## <a name="rules"></a> Coding Advice
+    清理后: <a name="rules"></a> Coding Advice
+  - 原始: ## <a name="thanks"></a> Thank you!
+    清理后: <a name="thanks"></a> Thank you!
+
+=== CLIUtils@CLI11.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始: # OR
+    清理后: OR
+
+=== Chocobozzz@PeerTube.txt ===
+找到 2 个在 Excel 第一列中找不到的标题：
+  - 原始: # sudo -u postgres createuser -P peertube
+    清理后: sudo -u postgres createuser -P peertube
+  - 原始: # sudo -u postgres createdb -O peertube peertube_dev
+    清理后: sudo -u postgres createdb -O peertube peertube_dev
+
+=== CocoaPods@CocoaPods.txt ===
+找到 2 个在 Excel 第一列中找不到的标题：
+  - 原始: # Do’s and Don’ts
+    清理后: Do’s and Don’ts
+  - 原始: ## [No Brown M&M’s](https://en.wikipedia.org/wiki/Van_Halen#Contract_riders)
+    清理后: [No Brown M&M’s](https://en.wikipedia.org/wiki/Van_Halen#Contract_riders)
+
+=== DavyJonesLocker@client_side_validations.txt ===
+找到 3 个在 Excel 第一列中找不到的标题：
+  - 原始: # Contribution Guidelines #
+    清理后: Contribution Guidelines #
+  - 原始: ## Submitting a new issue ##
+    清理后: Submitting a new issue ##
+  - 原始: ## Making a pull request ##
+    清理后: Making a pull request ##
+
+=== aasm@aasm.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始: ## Contributing ##
+    清理后: Contributing ##
+
+=== actor-framework@actor-framework.txt ===
+找到 22 个在 Excel 第一列中找不到的标题：
+  - 原始: #pragma once
+    清理后: pragma once
+  - 原始: #include <string>
+    清理后: include <string>
+  - 原始: #include "caf/example/my_class.hpp"
+    清理后: include "caf/example/my_class.hpp"
+  - 原始: #include <iostream>
+    清理后: include <iostream>
+  - 原始: #define CAF_SUITE example.my_class    // name of this test suite
+    清理后: define CAF_SUITE example.my_class    // name of this test suite
+  - 原始: #include "caf/example/my_class.hpp"   // header-under-test
+    清理后: include "caf/example/my_class.hpp"   // header-under-test
+  - 原始: #include "caf/test/dsl.hpp"           // caf::test includes
+    清理后: include "caf/test/dsl.hpp"           // caf::test includes
+  - 原始: #include <iostream>                   // standard includes
+    清理后: include <iostream>                   // standard includes
+  - 原始:   #include <vector>
+    清理后: include <vector>
+  - 原始:   #include <sys/types.h>
+    清理后: include <sys/types.h>
+  - 原始:   #include "3rd/party.h"
+    清理后: include "3rd/party.h"
+  - 原始:   #include "caf/fwd.hpp"
+    清理后: include "caf/fwd.hpp"
+  - 原始:   #include "caf/example.hpp" // header for this .cpp file
+    清理后: include "caf/example.hpp" // header for this .cpp file
+  - 原始:   #include "caf/config.hpp" // needed for #ifdef guards
+    清理后: include "caf/config.hpp" // needed for #ifdef guards
+  - 原始:   #include <algorithm>
+    清理后: include <algorithm>
+  - 原始:   #ifdef CAF_WINDOWS
+    清理后: ifdef CAF_WINDOWS
+  - 原始:   #include <windows.h>
+    清理后: include <windows.h>
+  - 原始:   #else
+    清理后: else
+  - 原始:   #include <sys/socket.h>
+    清理后: include <sys/socket.h>
+  - 原始:   #endif
+    清理后: endif
+  - 原始:   #include "some/other/library.h"
+    清理后: include "some/other/library.h"
+  - 原始:   #include "caf/actor.hpp"
+    清理后: include "caf/actor.hpp"
+
+=== airbnb@nerve.txt ===
+找到 3 个在 Excel 第一列中找不到的标题：
+  - 原始: # Contributing Guidelines #
+    清理后: Contributing Guidelines #
+  - 原始: ## Writing Reporters ##
+    清理后: Writing Reporters ##
+  - 原始: ## Writing Checks ##
+    清理后: Writing Checks ##
+
+=== airbrake@airbrake.txt ===
+找到 5 个在 Excel 第一列中找不到的标题：
+  - 原始: #### Airbrake config
+    清理后: Airbrake config
+  - 原始:     # YOUR CONFIG
+    清理后: YOUR CONFIG
+  - 原始:     # Make sure to delete any sensitive information
+    清理后: Make sure to delete any sensitive information
+  - 原始:     # such as your project id and project key.
+    清理后: such as your project id and project key.
+  - 原始: #### Description
+    清理后: Description
+
+=== akkadotnet@akka.net.txt ===
+找到 2 个在 Excel 第一列中找不到的标题：
+  - 原始: ### All my commits are on dev. How do I get them to a new branch? ###
+    清理后: All my commits are on dev. How do I get them to a new branch? ###
+  - 原始: ### What to do with feature branch after the pull request is merged and closed ? ###
+    清理后: What to do with feature branch after the pull request is merged and closed ? ###
+
+=== akveo@kittenTricks.txt ===
+找到 8 个在 Excel 第一列中找不到的标题：
+  - 原始: ## <a name="coc"></a> Code of Conduct
+    清理后: <a name="coc"></a> Code of Conduct
+  - 原始: ## <a name="question"></a> Got a Question or Problem?
+    清理后: <a name="question"></a> Got a Question or Problem?
+  - 原始: ## <a name="issue"></a> Found an Issue?
+    清理后: <a name="issue"></a> Found an Issue?
+  - 原始: ## <a name="feature"></a> Want a Feature?
+    清理后: <a name="feature"></a> Want a Feature?
+  - 原始: ### <a name="submit-issue"></a> Submitting an Issue Before you submit an issue, search the archive, maybe your question was already answered.
+    清理后: <a name="submit-issue"></a> Submitting an Issue Before you submit an issue, search the archive, maybe your question was already answered.
+  - 原始: ### <a name="submit-pr"></a> Submitting a Pull Request (PR)
+    清理后: <a name="submit-pr"></a> Submitting a Pull Request (PR)
+  - 原始: ## <a name="rules"></a> Coding Rules
+    清理后: <a name="rules"></a> Coding Rules
+  - 原始: ## <a name="commit"></a> Commit Message Guidelines
+    清理后: <a name="commit"></a> Commit Message Guidelines
+
+=== akveo@nebular.txt ===
+找到 8 个在 Excel 第一列中找不到的标题：
+  - 原始: ## <a name="coc"></a> Code of Conduct
+    清理后: <a name="coc"></a> Code of Conduct
+  - 原始: ## <a name="question"></a> Got a Question or Problem?
+    清理后: <a name="question"></a> Got a Question or Problem?
+  - 原始: ## <a name="issue"></a> Found an Issue?
+    清理后: <a name="issue"></a> Found an Issue?
+  - 原始: ## <a name="feature"></a> Want a Feature?
+    清理后: <a name="feature"></a> Want a Feature?
+  - 原始: ### <a name="submit-issue"></a> Submitting an Issue
+    清理后: <a name="submit-issue"></a> Submitting an Issue
+  - 原始: ### <a name="submit-pr"></a> Submitting a Pull Request (PR)
+    清理后: <a name="submit-pr"></a> Submitting a Pull Request (PR)
+  - 原始: ## <a name="rules"></a> Coding Rules
+    清理后: <a name="rules"></a> Coding Rules
+  - 原始: ## <a name="commit"></a> Commit Message Guidelines
+    清理后: <a name="commit"></a> Commit Message Guidelines
+
+=== akveo@ngx-admin.txt ===
+找到 8 个在 Excel 第一列中找不到的标题：
+  - 原始: ## <a name="coc"></a> Code of Conduct
+    清理后: <a name="coc"></a> Code of Conduct
+  - 原始: ## <a name="question"></a> Got a Question or Problem?
+    清理后: <a name="question"></a> Got a Question or Problem?
+  - 原始: ## <a name="issue"></a> Found an Issue?
+    清理后: <a name="issue"></a> Found an Issue?
+  - 原始: ## <a name="feature"></a> Want a Feature?
+    清理后: <a name="feature"></a> Want a Feature?
+  - 原始: ### <a name="submit-issue"></a> Submitting an Issue
+    清理后: <a name="submit-issue"></a> Submitting an Issue
+  - 原始: ### <a name="submit-pr"></a> Submitting a Pull Request (PR)
+    清理后: <a name="submit-pr"></a> Submitting a Pull Request (PR)
+  - 原始: ## <a name="rules"></a> Coding Rules
+    清理后: <a name="rules"></a> Coding Rules
+  - 原始: ## <a name="commit"></a> Commit Message Guidelines
+    清理后: <a name="commit"></a> Commit Message Guidelines
+
+=== alibaba@ice.txt ===
+找到 10 个在 Excel 第一列中找不到的标题：
+  - 原始: # 1. clone and setup
+    清理后: 1. clone and setup
+  - 原始: # 2. watch packages
+    清理后: 2. watch packages
+  - 原始: # 1. ?? ?? ?? Checking the working tree status...
+    清理后: 1. ?? ?? ?? Checking the working tree status...
+  - 原始: # 2. ? ? ? Building packages...
+    清理后: 2. ? ? ? Building packages...
+  - 原始: # 3. ? ? ? Update package version automatically...
+    清理后: 3. ? ? ? Update package version automatically...
+  - 原始: # 4. ? ? ? Start publishing...
+    清理后: 4. ? ? ? Start publishing...
+  - 原始: # 5. ? ? ? Commit & Create tag'...
+    清理后: 5. ? ? ? Commit & Create tag'...
+  - 原始: # 6. ? ? ? Start syncing...
+    清理后: 6. ? ? ? Start syncing...
+  - 原始: # rollback packages
+    清理后: rollback packages
+  - 原始: # sync packages
+    清理后: sync packages
+
+=== allenai@allennlp.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始:         # replace BRANCH with whatever name you want to give it
+    清理后: replace BRANCH with whatever name you want to give it
+
+=== amejiarosario@dsa.js-data-structures-algorithms-javascript.txt ===
+找到 6 个在 Excel 第一列中找不到的标题：
+  - 原始: ## <a name="submit"></a> Submission Guidelines
+    清理后: <a name="submit"></a> Submission Guidelines
+  - 原始: ### <a name="submit-issue"></a> Submitting an Issue
+    清理后: <a name="submit-issue"></a> Submitting an Issue
+  - 原始: ### <a name="submit-pr"></a> Submitting a Pull Request (PR)
+    清理后: <a name="submit-pr"></a> Submitting a Pull Request (PR)
+  - 原始: ## <a name="commit"></a> Commit Message Guidelines
+    清理后: <a name="commit"></a> Commit Message Guidelines
+  - 原始: # example
+    清理后: example
+  - 原始: # examples
+    清理后: examples
+
+=== androidannotations@androidannotations.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始: ### Either way, you could read about [contribution in general](https://github.com/androidannotations/androidannotations/wiki/Contributing).
+    清理后: Either way, you could read about [contribution in general](https://github.com/androidannotations/androidannotations/wiki/Contributing).
+
+=== andsens@homeshick.txt ===
+找到 10 个在 Excel 第一列中找不到的标题：
+  - 原始: # Contribution guidelines #
+    清理后: Contribution guidelines #
+  - 原始: ## Reporting issues ##
+    清理后: Reporting issues ##
+  - 原始: ### Questions ###
+    清理后: Questions ###
+  - 原始: ### Description ###
+    清理后: Description ###
+  - 原始: ### Reproducing ###
+    清理后: Reproducing ###
+  - 原始: ## Pull requests ##
+    清理后: Pull requests ##
+  - 原始: ### Code style ###
+    清理后: Code style ###
+  - 原始: ### Content ###
+    清理后: Content ###
+  - 原始: ### Description ###
+    清理后: Description ###
+  - 原始: ### Testing ###
+    清理后: Testing ###
+
+=== angular-gantt@angular-gantt.txt ===
+找到 8 个在 Excel 第一列中找不到的标题：
+  - 原始: ## <a name="issue"></a> Issues Guidelines
+    清理后: <a name="issue"></a> Issues Guidelines
+  - 原始: ## <a name="coding"></a> Coding Rules
+    清理后: <a name="coding"></a> Coding Rules
+  - 原始: ## <a name="branching"></a> Branching Guidelines
+    清理后: <a name="branching"></a> Branching Guidelines
+  - 原始: ## <a name="pull-request"></a> Pull Request Guidelines
+    清理后: <a name="pull-request"></a> Pull Request Guidelines
+  - 原始: ## <a name="commit"></a> Git Commit Guidelines (from AngularJS)
+    清理后: <a name="commit"></a> Git Commit Guidelines (from AngularJS)
+  - 原始: ###Body
+    清理后: Body
+  - 原始: ###Footer
+    清理后: Footer
+  - 原始: ## <a name="release"></a> Release Guidelines
+    清理后: <a name="release"></a> Release Guidelines
+
+=== angular-ui@ui-grid.txt ===
+找到 4 个在 Excel 第一列中找不到的标题：
+  - 原始:    # Clone your fork of the repo into the current directory
+    清理后: Clone your fork of the repo into the current directory
+  - 原始:    # Navigate to the newly cloned directory
+    清理后: Navigate to the newly cloned directory
+  - 原始:    # Assign the original repo to a remote called "upstream"
+    清理后: Assign the original repo to a remote called "upstream"
+  - 原始: ## <a name="commit"></a> Git Commit Guidelines
+    清理后: <a name="commit"></a> Git Commit Guidelines
+
+=== angular@angular-cli.txt ===
+找到 11 个在 Excel 第一列中找不到的标题：
+  - 原始: ## <a name="coc"></a> Code of Conduct
+    清理后: <a name="coc"></a> Code of Conduct
+  - 原始: ## <a name="question"></a> Got a Question or Problem?
+    清理后: <a name="question"></a> Got a Question or Problem?
+  - 原始: ## <a name="issue"></a> Found an Issue?
+    清理后: <a name="issue"></a> Found an Issue?
+  - 原始: ## <a name="feature"></a> Want a Feature?
+    清理后: <a name="feature"></a> Want a Feature?
+  - 原始: ## <a name="submit"></a> Submission Guidelines
+    清理后: <a name="submit"></a> Submission Guidelines
+  - 原始: ### <a name="submit-issue"></a> Submitting an Issue
+    清理后: <a name="submit-issue"></a> Submitting an Issue
+  - 原始: ### <a name="submit-pr"></a> Submitting a Pull Request (PR)
+    清理后: <a name="submit-pr"></a> Submitting a Pull Request (PR)
+  - 原始: ## <a name="rules"></a> Coding Rules
+    清理后: <a name="rules"></a> Coding Rules
+  - 原始: ## <a name="commit"></a> Commit Message Guidelines
+    清理后: <a name="commit"></a> Commit Message Guidelines
+  - 原始: ## <a name="cla"></a> Signing the CLA
+    清理后: <a name="cla"></a> Signing the CLA
+  - 原始: ## <a name="public-api"></a> Updating the Public API
+    清理后: <a name="public-api"></a> Updating the Public API
+
+=== angular@angular.js.txt ===
+找到 9 个在 Excel 第一列中找不到的标题：
+  - 原始: ## <a name="coc"></a> Code of Conduct
+    清理后: <a name="coc"></a> Code of Conduct
+  - 原始: ## <a name="requests"></a> Questions, Bugs, Features
+    清理后: <a name="requests"></a> Questions, Bugs, Features
+  - 原始: ### <a name="question"></a> Got a Question or Problem?
+    清理后: <a name="question"></a> Got a Question or Problem?
+  - 原始: ### <a name="issue"></a> Found an Issue or Bug?
+    清理后: <a name="issue"></a> Found an Issue or Bug?
+  - 原始: ### <a name="feature"></a> Missing a Feature?
+    清理后: <a name="feature"></a> Missing a Feature?
+  - 原始: ### <a name="docs"></a> Want a Doc Fix?
+    清理后: <a name="docs"></a> Want a Doc Fix?
+  - 原始: ## <a name="submit"></a> Issue Submission Guidelines
+    清理后: <a name="submit"></a> Issue Submission Guidelines
+  - 原始: ## <a name="submit-pr"></a> Pull Request Submission Guidelines
+    清理后: <a name="submit-pr"></a> Pull Request Submission Guidelines
+  - 原始: ## <a name="cla"></a> Signing the Contributor License Agreement (CLA)
+    清理后: <a name="cla"></a> Signing the Contributor License Agreement (CLA)
+
+=== angular@angular.txt ===
+找到 11 个在 Excel 第一列中找不到的标题：
+  - 原始: ## <a name="coc"></a> Code of Conduct
+    清理后: <a name="coc"></a> Code of Conduct
+  - 原始: ## <a name="question"></a> Got a Question or Problem?
+    清理后: <a name="question"></a> Got a Question or Problem?
+  - 原始: ## <a name="issue"></a> Found a Bug?
+    清理后: <a name="issue"></a> Found a Bug?
+  - 原始: ## <a name="feature"></a> Missing a Feature?
+    清理后: <a name="feature"></a> Missing a Feature?
+  - 原始: ## <a name="submit"></a> Submission Guidelines
+    清理后: <a name="submit"></a> Submission Guidelines
+  - 原始: ### <a name="submit-issue"></a> Submitting an Issue
+    清理后: <a name="submit-issue"></a> Submitting an Issue
+  - 原始: ### <a name="submit-pr"></a> Submitting a Pull Request (PR)
+    清理后: <a name="submit-pr"></a> Submitting a Pull Request (PR)
+  - 原始: ## <a name="rules"></a> Coding Rules
+    清理后: <a name="rules"></a> Coding Rules
+  - 原始: ## <a name="commit"></a> Commit Message Format
+    清理后: <a name="commit"></a> Commit Message Format
+  - 原始: #### <a href="commit-header"></a>Commit Message Header
+    清理后: <a href="commit-header"></a>Commit Message Header
+  - 原始: ## <a name="cla"></a> Signing the CLA
+    清理后: <a name="cla"></a> Signing the CLA
+
+=== angular@angularfire.txt ===
+找到 11 个在 Excel 第一列中找不到的标题：
+  - 原始: ## <a name="coc"></a> Code of Conduct
+    清理后: <a name="coc"></a> Code of Conduct
+  - 原始: ## <a name="question"></a> Got a Question or Problem?
+    清理后: <a name="question"></a> Got a Question or Problem?
+  - 原始: ## <a name="issue"></a> Found an Issue?
+    清理后: <a name="issue"></a> Found an Issue?
+  - 原始: ## <a name="feature"></a> Want a Feature?
+    清理后: <a name="feature"></a> Want a Feature?
+  - 原始: ## <a name="setup"></a> Initial Setup
+    清理后: <a name="setup"></a> Initial Setup
+  - 原始: ## <a name="submit"></a> Submission Guidelines
+    清理后: <a name="submit"></a> Submission Guidelines
+  - 原始: ### <a name="submit-issue"></a> Submitting an Issue
+    清理后: <a name="submit-issue"></a> Submitting an Issue
+  - 原始: ### <a name="submit-pr"></a> Submitting a Pull Request (PR)
+    清理后: <a name="submit-pr"></a> Submitting a Pull Request (PR)
+  - 原始: #### <a name="submit-before"></a> Before you submit:
+    清理后: <a name="submit-before"></a> Before you submit:
+  - 原始: #### <a name="submit-how"></a> How to submit:
+    清理后: <a name="submit-how"></a> How to submit:
+  - 原始: ## <a name="cla"></a> Signing the CLA
+    清理后: <a name="cla"></a> Signing the CLA
+
+=== angular@components.txt ===
+找到 9 个在 Excel 第一列中找不到的标题：
+  - 原始: ## <a name="coc"></a> Code of Conduct
+    清理后: <a name="coc"></a> Code of Conduct
+  - 原始: ## <a name="question"></a> Got a Question or Problem?
+    清理后: <a name="question"></a> Got a Question or Problem?
+  - 原始: ## <a name="issue"></a> Found an Issue?
+    清理后: <a name="issue"></a> Found an Issue?
+  - 原始: ## <a name="feature"></a> Want a Feature?
+    清理后: <a name="feature"></a> Want a Feature?
+  - 原始: ### <a name="submit-issue"></a> Submitting an Issue
+    清理后: <a name="submit-issue"></a> Submitting an Issue
+  - 原始: ### <a name="submit-pr"></a> Submitting a Pull Request (PR)
+    清理后: <a name="submit-pr"></a> Submitting a Pull Request (PR)
+  - 原始: ## <a name="rules"></a> Coding Rules
+    清理后: <a name="rules"></a> Coding Rules
+  - 原始: ## <a name="commit"></a> Commit Message Guidelines
+    清理后: <a name="commit"></a> Commit Message Guidelines
+  - 原始: ## <a name="cla"></a> Signing the CLA
+    清理后: <a name="cla"></a> Signing the CLA
+
+=== angular@flex-layout.txt ===
+找到 9 个在 Excel 第一列中找不到的标题：
+  - 原始: ## <a name="coc"></a> Code of Conduct
+    清理后: <a name="coc"></a> Code of Conduct
+  - 原始: ## <a name="question"></a> Got a Question or Problem?
+    清理后: <a name="question"></a> Got a Question or Problem?
+  - 原始: ## <a name="issue"></a> Found an Issue?
+    清理后: <a name="issue"></a> Found an Issue?
+  - 原始: ## <a name="feature"></a> Want a Feature?
+    清理后: <a name="feature"></a> Want a Feature?
+  - 原始: ### <a name="submit-issue"></a> Submitting an Issue
+    清理后: <a name="submit-issue"></a> Submitting an Issue
+  - 原始: ### <a name="submit-pr"></a> Submitting a Pull Request (PR)
+    清理后: <a name="submit-pr"></a> Submitting a Pull Request (PR)
+  - 原始: ## <a name="rules"></a> Coding Rules
+    清理后: <a name="rules"></a> Coding Rules
+  - 原始: ## <a name="commit"></a> Commit Message Guidelines
+    清理后: <a name="commit"></a> Commit Message Guidelines
+  - 原始: ## <a name="cla"></a> Signing the CLA
+    清理后: <a name="cla"></a> Signing the CLA
+
+=== angular@material.txt ===
+找到 10 个在 Excel 第一列中找不到的标题：
+  - 原始: ## <a name="coc"></a> Code of Conduct
+    清理后: <a name="coc"></a> Code of Conduct
+  - 原始: ## <a name="question"></a> Have a Question, Problem, or Idea?
+    清理后: <a name="question"></a> Have a Question, Problem, or Idea?
+  - 原始: #### <a name="bug"></a> 1. Want to report a Bug or Issue?
+    清理后: <a name="bug"></a> 1. Want to report a Bug or Issue?
+  - 原始: #### <a name="feature"></a> 2. Want to request an Enhancement?
+    清理后: <a name="feature"></a> 2. Want to request an Enhancement?
+  - 原始: ## <a name="submit"></a> Issue Guidelines
+    清理后: <a name="submit"></a> Issue Guidelines
+  - 原始: #### <a name="submitpr"></a>Submitting Pull Requests
+    清理后: <a name="submitpr"></a>Submitting Pull Requests
+  - 原始: ## <a name="commit"></a> Git Commit Guidelines
+    清理后: <a name="commit"></a> Git Commit Guidelines
+  - 原始: ### <a name="commit-message-format"></a> Commit Message Format
+    清理后: <a name="commit-message-format"></a> Commit Message Format
+  - 原始: ## <a name="pr_forks"></a> Guidelines for Developer Commit Authorizations
+    清理后: <a name="pr_forks"></a> Guidelines for Developer Commit Authorizations
+  - 原始: ## <a name="cla"></a> Signing the CLA
+    清理后: <a name="cla"></a> Signing the CLA
+
+=== angular@universal.txt ===
+找到 10 个在 Excel 第一列中找不到的标题：
+  - 原始: ## <a name="coc"></a> Code of Conduct
+    清理后: <a name="coc"></a> Code of Conduct
+  - 原始: ## <a name="question"></a> Got a Question or Problem?
+    清理后: <a name="question"></a> Got a Question or Problem?
+  - 原始: ## <a name="issue"></a> Found an Issue?
+    清理后: <a name="issue"></a> Found an Issue?
+  - 原始: ## <a name="feature"></a> Want a Feature?
+    清理后: <a name="feature"></a> Want a Feature?
+  - 原始: ## <a name="submit"></a> Submission Guidelines
+    清理后: <a name="submit"></a> Submission Guidelines
+  - 原始: ### <a name="submit-issue"></a> Submitting an Issue
+    清理后: <a name="submit-issue"></a> Submitting an Issue
+  - 原始: ### <a name="submit-pr"></a> Submitting a Pull Request (PR)
+    清理后: <a name="submit-pr"></a> Submitting a Pull Request (PR)
+  - 原始: ## <a name="rules"></a> Coding Rules
+    清理后: <a name="rules"></a> Coding Rules
+  - 原始: ## <a name="commit"></a> Commit Message Guidelines
+    清理后: <a name="commit"></a> Commit Message Guidelines
+  - 原始: ## <a name="cla"></a> Signing the CLA
+    清理后: <a name="cla"></a> Signing the CLA
+
+=== antfu@vueuse.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始: # useMyFunction
+    清理后: useMyFunction
+
+=== antvis@F2.txt ===
+找到 3 个在 Excel 第一列中找不到的标题：
+  - 原始: # Create a new branch for development. The name of branch should be semantic, avoiding words like 'update' or 'tmp'. We suggest to use feature/xxx, if the modification is about to implement a new feature.
+    清理后: Create a new branch for development. The name of branch should be semantic, avoiding words like 'update' or 'tmp'. We suggest to use feature/xxx, if the modification is about to implement a new feature.
+  - 原始: # Run the test after you finish your modification. Add new test cases or change old ones if you feel necessary
+    清理后: Run the test after you finish your modification. Add new test cases or change old ones if you feel necessary
+  - 原始: # If your modification pass the tests, congradulations it's time to push your work back to us. Notice that the commit message should be wirtten in the following format.
+    清理后: If your modification pass the tests, congradulations it's time to push your work back to us. Notice that the commit message should be wirtten in the following format.
+
+=== antvis@G2.txt ===
+找到 3 个在 Excel 第一列中找不到的标题：
+  - 原始: # Create a new branch for development. The name of branch should be semantic, avoiding words like 'update' or 'tmp'. We suggest to use feature/xxx, if the modification is about to implement a new feature.
+    清理后: Create a new branch for development. The name of branch should be semantic, avoiding words like 'update' or 'tmp'. We suggest to use feature/xxx, if the modification is about to implement a new feature.
+  - 原始: # Run the test after you finish your modification. Add new test cases or change old ones if you feel necessary
+    清理后: Run the test after you finish your modification. Add new test cases or change old ones if you feel necessary
+  - 原始: # If your modification pass the tests, congradulations it's time to push your work back to us. Notice that the commit message should be wirtten in the following format.
+    清理后: If your modification pass the tests, congradulations it's time to push your work back to us. Notice that the commit message should be wirtten in the following format.
+
+=== antvis@G2Plot.txt ===
+找到 3 个在 Excel 第一列中找不到的标题：
+  - 原始: # Create a new branch for development. The name of branch should be semantic, avoiding words like 'update' or 'tmp'. We suggest to use feature/xxx, if the modification is about to implement a new feature.
+    清理后: Create a new branch for development. The name of branch should be semantic, avoiding words like 'update' or 'tmp'. We suggest to use feature/xxx, if the modification is about to implement a new feature.
+  - 原始: # Run the test after you finish your modification. Add new test cases or change old ones if you feel necessary
+    清理后: Run the test after you finish your modification. Add new test cases or change old ones if you feel necessary
+  - 原始: # If your modification pass the tests, congradulations it's time to push your work back to us. Notice that the commit message should be wirtten in the following format.
+    清理后: If your modification pass the tests, congradulations it's time to push your work back to us. Notice that the commit message should be wirtten in the following format.
+
+=== antvis@G6.txt ===
+找到 3 个在 Excel 第一列中找不到的标题：
+  - 原始: # Create a new branch for development. The name of branch should be semantic, avoiding words like 'update' or 'tmp'. We suggest to use feature/xxx, if the modification is about to implement a new feature.
+    清理后: Create a new branch for development. The name of branch should be semantic, avoiding words like 'update' or 'tmp'. We suggest to use feature/xxx, if the modification is about to implement a new feature.
+  - 原始: # Run the test after you finish your modification. Add new test cases or change old ones if you feel necessary
+    清理后: Run the test after you finish your modification. Add new test cases or change old ones if you feel necessary
+  - 原始: # If your modification pass the tests, congradulations it's time to push your work back to us. Notice that the commit message should be wirtten in the following format.
+    清理后: If your modification pass the tests, congradulations it's time to push your work back to us. Notice that the commit message should be wirtten in the following format.
+
+=== apache@cordova-android.txt ===
+找到 14 个在 Excel 第一列中找不到的标题：
+  - 原始: # Licensed to the Apache Software Foundation (ASF) under one
+    清理后: Licensed to the Apache Software Foundation (ASF) under one
+  - 原始: # or more contributor license agreements.  See the NOTICE file
+    清理后: or more contributor license agreements.  See the NOTICE file
+  - 原始: # distributed with this work for additional information
+    清理后: distributed with this work for additional information
+  - 原始: # regarding copyright ownership.  The ASF licenses this file
+    清理后: regarding copyright ownership.  The ASF licenses this file
+  - 原始: # to you under the Apache License, Version 2.0 (the
+    清理后: to you under the Apache License, Version 2.0 (the
+  - 原始: # "License"); you may not use this file except in compliance
+    清理后: "License"); you may not use this file except in compliance
+  - 原始: # with the License.  You may obtain a copy of the License at
+    清理后: with the License.  You may obtain a copy of the License at
+  - 原始: # http://www.apache.org/licenses/LICENSE-2.0
+    清理后: http://www.apache.org/licenses/LICENSE-2.0
+  - 原始: # Unless required by applicable law or agreed to in writing,
+    清理后: Unless required by applicable law or agreed to in writing,
+  - 原始: # software distributed under the License is distributed on an
+    清理后: software distributed under the License is distributed on an
+  - 原始: # "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+    清理后: "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+  - 原始: #  KIND, either express or implied.  See the License for the
+    清理后: KIND, either express or implied.  See the License for the
+  - 原始: # specific language governing permissions and limitations
+    清理后: specific language governing permissions and limitations
+  - 原始: # under the License.
+    清理后: under the License.
+
+=== apache@incubator-superset.txt ===
+找到 29 个在 Excel 第一列中找不到的标题：
+  - 原始: # Create a virtual environemnt and activate it (recommended)
+    清理后: Create a virtual environemnt and activate it (recommended)
+  - 原始: # Install external dependencies
+    清理后: Install external dependencies
+  - 原始: # Install Superset in editable (development) mode
+    清理后: Install Superset in editable (development) mode
+  - 原始: # Create an admin user in your metadata database
+    清理后: Create an admin user in your metadata database
+  - 原始: # Initialize the database
+    清理后: Initialize the database
+  - 原始: # Create default roles and permissions
+    清理后: Create default roles and permissions
+  - 原始: # Load some data to play with
+    清理后: Load some data to play with
+  - 原始: # Start the Flask dev web server from inside your virtualenv.
+    清理后: Start the Flask dev web server from inside your virtualenv.
+  - 原始: # Note that your page may not have css at this point.
+    清理后: Note that your page may not have css at this point.
+  - 原始: # See instructions below how to build the front-end assets.
+    清理后: See instructions below how to build the front-end assets.
+  - 原始: # From the root of the repository
+    清理后: From the root of the repository
+  - 原始: # Install dependencies from `package-lock.json`
+    清理后: Install dependencies from package-lock.json
+  - 原始: # Run the dev server
+    清理后: Run the dev server
+  - 原始: # Run the dev server on a non-default port
+    清理后: Run the dev server on a non-default port
+  - 原始: # Run the dev server proxying to a Flask server on a non-default port
+    清理后: Run the dev server proxying to a Flask server on a non-default port
+  - 原始: # Or proxy it to a remote backend so you can test frontend changes without
+    清理后: Or proxy it to a remote backend so you can test frontend changes without
+  - 原始: # starting the backend locally
+    清理后: starting the backend locally
+  - 原始: # Start a watcher that recompiles your assets as you modify them (but have to manually reload your browser to see changes.)
+    清理后: Start a watcher that recompiles your assets as you modify them (but have to manually reload your browser to see changes.)
+  - 原始: # Compile the TypeScript/JavaScript and CSS in production/optimized mode for official releases
+    清理后: Compile the TypeScript/JavaScript and CSS in production/optimized mode for official releases
+  - 原始: # for python
+    清理后: for python
+  - 原始: # for frontend
+    清理后: for frontend
+  - 原始: # run tests from a specific file
+    清理后: run tests from a specific file
+  - 原始: # run specific file with video capture
+    清理后: run specific file with video capture
+  - 原始: # to open the cypress ui
+    清理后: to open the cypress ui
+  - 原始: # In the case of JS translation, we need to convert the PO file into a JSON file, and we need the global download of the npm package po2json.
+    清理后: In the case of JS translation, we need to convert the PO file into a JSON file, and we need the global download of the npm package po2json.
+  - 原始: # Convert the en PO file into a JSON file
+    清理后: Convert the en PO file into a JSON file
+  - 原始: # Or to link all core superset-ui and plugin packages:
+    清理后: Or to link all core superset-ui and plugin packages:
+  - 原始: # npm link ../../superset-ui/{packages,plugins}/*
+    清理后: npm link ../../superset-ui/{packages,plugins}/
+  - 原始: # Start developing
+    清理后: Start developing
+
+=== apache@jmeter.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始: ### <a name="intellij"></a>IntelliJ IDEA
+    清理后: <a name="intellij"></a>IntelliJ IDEA
+
+=== apache@thrift.txt ===
+找到 10 个在 Excel 第一列中找不到的标题：
+  - 原始: # How to Contribute #
+    清理后: How to Contribute #
+  - 原始: ## GitHub pull requests ##
+    清理后: GitHub pull requests ##
+  - 原始: ## If you want to build the project locally ##
+    清理后: If you want to build the project locally ##
+  - 原始: ## If you want to review open issues... ##
+    清理后: If you want to review open issues... ##
+  - 原始: ## If you discovered a defect... ##
+    清理后: If you discovered a defect... ##
+  - 原始: ## Contributing via Patch ##
+    清理后: Contributing via Patch ##
+  - 原始: ## GitHub recipes for Pull Requests ##
+    清理后: GitHub recipes for Pull Requests ##
+  - 原始: ### Squash your changes ###
+    清理后: Squash your changes ###
+  - 原始: ### Rebase your pull request ###
+    清理后: Rebase your pull request ###
+  - 原始: ### Fix a bad merge ###
+    清理后: Fix a bad merge ###
+
+=== apexcharts@apexcharts.js.txt ===
+找到 3 个在 Excel 第一列中找不到的标题：
+  - 原始: # Inside your own copy of `apexcharts.js` package...
+    清理后: Inside your own copy of apexcharts.js package...
+  - 原始: # Then hack away, and commit your changes:
+    清理后: Then hack away, and commit your changes:
+  - 原始: # Push your local changes back to your fork
+    清理后: Push your local changes back to your fork
+
+=== api-platform@core.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始:     # or if you prefer using the PHP built-in web server
+    清理后: or if you prefer using the PHP built-in web server
+
+=== arrayfire@arrayfire.txt ===
+找到 4 个在 Excel 第一列中找不到的标题：
+  - 原始: # Contributing to ArrayFire #
+    清理后: Contributing to ArrayFire #
+  - 原始: ## Reporting Issues ##
+    清理后: Reporting Issues ##
+  - 原始: ## Contributing Code ##
+    清理后: Contributing Code ##
+  - 原始: ##ArrayFire Based Projects##
+    清理后: ArrayFire Based Projects##
+
+=== atom@atom.txt ===
+找到 9 个在 Excel 第一列中找不到的标题：
+  - 原始:  # spec here
+    清理后: spec here
+  - 原始:   # spec here
+    清理后: spec here
+  - 原始: # Public: Disable the package with the given name.
+    清理后: Public: Disable the package with the given name.
+  - 原始: # * `name`    The {String} name of the package to disable.
+    清理后:  name    The {String} name of the package to disable.
+  - 原始: # * `options` (optional) The {Object} with disable options (default: {}):
+    清理后:  options (optional) The {Object} with disable options (default: {}):
+  - 原始: #   * `trackTime`     A {Boolean}, `true` to track the amount of time taken.
+    清理后:  trackTime     A {Boolean}, true to track the amount of time taken.
+  - 原始: #   * `ignoreErrors`  A {Boolean}, `true` to catch and ignore errors thrown.
+    清理后:  ignoreErrors  A {Boolean}, true to catch and ignore errors thrown.
+  - 原始: # * `callback` The {Function} to call after the package has been disabled.
+    清理后:  callback The {Function} to call after the package has been disabled.
+  - 原始: # Returns `undefined`.
+    清理后: Returns undefined.
+
+=== atoum@atoum.txt ===
+找到 4 个在 Excel 第一列中找不到的标题：
+  - 原始: # Chaining multiple hasConstant assertions fails
+    清理后: Chaining multiple hasConstant assertions fails
+  - 原始: ## Example
+    清理后: Example
+  - 原始: ## Actual result
+    清理后: Actual result
+  - 原始: ## Expected result
+    清理后: Expected result
+
+=== aws@aws-cdk.txt ===
+找到 8 个在 Excel 第一列中找不到的标题：
+  - 原始: # runs an npm script via lerna for a the current module
+    清理后: runs an npm script via lerna for a the current module
+  - 原始: # runs "yarn build" (build + test) for the current module
+    清理后: runs "yarn build" (build + test) for the current module
+  - 原始: # runs "yarn watch" for the current module (recommended to run in a separate terminal session):
+    清理后: runs "yarn watch" for the current module (recommended to run in a separate terminal session):
+  - 原始: # Install GNU parallel (may require uninstall 'moreutils' if you have it)
+    清理后: Install GNU parallel (may require uninstall 'moreutils' if you have it)
+  - 原始: # Only works after at least one full build to generate source files
+    清理后: Only works after at least one full build to generate source files
+  - 原始: # Also works to start a project-wide watch compile
+    清理后: Also works to start a project-wide watch compile
+  - 原始: # (For tests names test.xxx.ts)
+    清理后: (For tests names test.xxx.ts)
+  - 原始: # (For tests names xxxx.test.ts)
+    清理后: (For tests names xxxx.test.ts)
+
+=== aws@aws-cli.txt ===
+找到 9 个在 Excel 第一列中找不到的标题：
+  - 原始:     # Clone the repo and set up the remotes.
+    清理后: Clone the repo and set up the remotes.
+  - 原始:     # Now to create a feature branch:
+    清理后: Now to create a feature branch:
+  - 原始:     # Now add your commits for your features.
+    清理后: Now add your commits for your features.
+  - 原始:     # Make sure our commit message matches format described in the
+    清理后: Make sure our commit message matches format described in the
+  - 原始:     # previous section.
+    清理后: previous section.
+  - 原始:     # If we want to sync with the latest upstream changes before
+    清理后: If we want to sync with the latest upstream changes before
+  - 原始:     # sending our pull request we can run:
+    清理后: sending our pull request we can run:
+  - 原始:     # When you're ready to send a PR, make sure you push your commits
+    清理后: When you're ready to send a PR, make sure you push your commits
+  - 原始:     # to your fork:
+    清理后: to your fork:
+
+=== awslabs@serverless-application-model.txt ===
+找到 3 个在 Excel 第一列中找不到的标题：
+  - 原始:         # Name of API endpoint
+    清理后: Name of API endpoint
+  - 原始:         # Path to their endpoint. Example: /hello
+    清理后: Path to their endpoint. Example: /hello
+  - 原始:         # HTTP Method for their endpoint. Example: GET, POST etc
+    清理后: HTTP Method for their endpoint. Example: GET, POST etc
+
+=== axios@axios.txt ===
+找到 2 个在 Excel 第一列中找不到的标题：
+  - 原始: # Open 127.0.0.1:3000
+    清理后: Open 127.0.0.1:3000
+  - 原始: # Open 127.0.0.1:3000
+    清理后: Open 127.0.0.1:3000
+
+=== babel@babel.txt ===
+找到 4 个在 Excel 第一列中找不到的标题：
+  - 原始: # ~6 sec on a MacBook Pro (Mid 2015)
+    清理后: ~6 sec on a MacBook Pro (Mid 2015)
+  - 原始: # ~46 sec on a MacBook Pro (Mid 2015)
+    清理后: ~46 sec on a MacBook Pro (Mid 2015)
+  - 原始: # ~40 sec on a MacBook Pro (Mid 2015)
+    清理后: ~40 sec on a MacBook Pro (Mid 2015)
+  - 原始: # Run tests for the @babel/plugin-transform-classes package.
+    清理后: Run tests for the @babel/plugin-transform-classes package.
+
+=== backup@backup.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始: ## Triage Issues [![Open Source Helpers](https://www.codetriage.com/backup/backup/badges/users.svg)](https://www.codetriage.com/backup/backup)
+    清理后: Triage Issues [![Open Source Helpers](https://www.codetriage.com/backup/backup/badges/users.svg)](https://www.codetriage.com/backup/backup)
+
+=== balena-io@etcher.txt ===
+找到 2 个在 Excel 第一列中找不到的标题：
+  - 原始: # Build the GUI
+    清理后: Build the GUI
+  - 原始: # Start Electron
+    清理后: Start Electron
+
+=== bats-core@bats-core.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始: ## Quick links &#x1f517;
+    清理后: Quick links &#x1f517;
+
+=== benbalter@word-to-markdown.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始: ## What should I do if my document doesn&#39;t convert correctly
+    清理后: What should I do if my document doesn&#39;t convert correctly
+
+=== bitcoin@bitcoin.txt ===
+找到 4 个在 Excel 第一列中找不到的标题：
+  - 原始:     # n is normally the number of commits in the pull request.
+    清理后: n is normally the number of commits in the pull request.
+  - 原始:     # Set commits (except the one in the first line) from 'pick' to 'squash', save and quit.
+    清理后: Set commits (except the one in the first line) from 'pick' to 'squash', save and quit.
+  - 原始:     # On the next screen, edit/refine commit messages.
+    清理后: On the next screen, edit/refine commit messages.
+  - 原始:     # Save and quit.
+    清理后: Save and quit.
+
+=== bobthecow@mustache.php.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始: ### Mustache.php follows the PSR-* coding standards:
+    清理后: Mustache.php follows the PSR- coding standards:
+
+=== bookshelf@bookshelf.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始: # This starts the test databases
+    清理后: This starts the test databases
+
+=== botpress@botpress.txt ===
+找到 15 个在 Excel 第一列中找不到的标题：
+  - 原始:   # macOS
+    清理后: macOS
+  - 原始:   # Windows PowerShell
+    清理后: Windows PowerShell
+  - 原始:    # botpress terminal window
+    清理后: botpress terminal window
+  - 原始:    # create and navigate to the `bar` directory
+    清理后: create and navigate to the bar directory
+  - 原始:    # Clone the forked repo locally
+    清理后: Clone the forked repo locally
+  - 原始:    # Install Yarn globally
+    清理后: Install Yarn globally
+  - 原始:    # Navigate to the botpress directory
+    清理后: Navigate to the botpress directory
+  - 原始:    # Setup the dev environment
+    清理后: Setup the dev environment
+  - 原始:    # Start the botpress server
+    清理后: Start the botpress server
+  - 原始:    # Create our test bot called `foobot`
+    清理后: Create our test bot called foobot
+  - 原始:    # Navigate to the foobot directory
+    清理后: Navigate to the foobot directory
+  - 原始:    # Start the bot normally
+    清理后: Start the bot normally
+  - 原始:   # Ctl-C to end watch
+    清理后: Ctl-C to end watch
+  - 原始:   # Start botpress
+    清理后: Start botpress
+  - 原始:   # Ctl-C to stop bot
+    清理后: Ctl-C to stop bot
+
+=== brave@brave-browser.txt ===
+找到 2 个在 Excel 第一列中找不到的标题：
+  - 原始: # root where project is cloned
+    清理后: root where project is cloned
+  - 原始: # root for the `brave-core` repo
+    清理后: root for the brave-core repo
+
+=== bvaughn@react-virtualized.txt ===
+找到 3 个在 Excel 第一列中找不到的标题：
+  - 原始:    # Clone your fork of the repo into the current directory
+    清理后: Clone your fork of the repo into the current directory
+  - 原始:    # Navigate to the newly cloned directory
+    清理后: Navigate to the newly cloned directory
+  - 原始:    # Assign the original repo to a remote called "upstream"
+    清理后: Assign the original repo to a remote called "upstream"
+
+=== calabash@calabash-ios.txt ===
+找到 3 个在 Excel 第一列中找不到的标题：
+  - 原始: # If you don't already have the develop branch
+    清理后: If you don't already have the develop branch
+  - 原始: # If you already have the develop branch
+    清理后: If you already have the develop branch
+  - 原始: # Publish your branch and make a pull-request on `develop`
+    清理后: Publish your branch and make a pull-request on develop
+
+=== callstack@linaria.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始: ## [Code of Conduct](/CODE_OF_CONDUCT.md)
+    清理后: [Code of Conduct](/CODE_OF_CONDUCT.md)
+
+=== capistrano@capistrano.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始: ## If you’re looking for help or have a question
+    清理后: If you’re looking for help or have a question
+
+=== carhartl@jquery-cookie.txt ===
+找到 6 个在 Excel 第一列中找不到的标题：
+  - 原始: ##Issues
+    清理后: Issues
+  - 原始: ##Pull requests
+    清理后: Pull requests
+  - 原始: ###Tools
+    清理后: Tools
+  - 原始: ###Getting started 
+    清理后: Getting started
+  - 原始: ###Tests
+    清理后: Tests
+  - 原始: ###Automatic build
+    清理后: Automatic build
+
+=== catchorg@Catch2.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始: # Cool feature
+    清理后: Cool feature
+
+=== ceph@ceph-container.txt ===
+找到 3 个在 Excel 第一列中找不到的标题：
+  - 原始: # Most specific
+    清理后: Most specific
+  - 原始: # Least specific
+    清理后: Least specific
+  - 原始: # Example
+    清理后: Example
+
+=== chaijs@chai.txt ===
+找到 4 个在 Excel 第一列中找不到的标题：
+  - 原始: # Clone your fork of the repo into the current directory
+    清理后: Clone your fork of the repo into the current directory
+  - 原始: # Navigate to the newly cloned directory
+    清理后: Navigate to the newly cloned directory
+  - 原始: # Assign the original repo to a remote called "upstream"
+    清理后: Assign the original repo to a remote called "upstream"
+  - 原始: # when finished running tests...
+    清理后: when finished running tests...
+
+=== chakra-ui@chakra-ui.txt ===
+找到 5 个在 Excel 第一列中找不到的标题：
+  - 原始: # in a terminal, cd to parent directory where you want your clone to be, then
+    清理后: in a terminal, cd to parent directory where you want your clone to be, then
+  - 原始: # or
+    清理后: or
+  - 原始: # to build
+    清理后: to build
+  - 原始: # to test
+    清理后: to test
+  - 原始: # to lint
+    清理后: to lint
+
+=== checkstyle@checkstyle.txt ===
+找到 9 个在 Excel 第一列中找不到的标题：
+  - 原始: #### [Reporting issues](https://checkstyle.org/report_issue.html)
+    清理后: [Reporting issues](https://checkstyle.org/report_issue.html)
+  - 原始: #### [How to report a bug?](https://checkstyle.org/report_issue.html#How_to_report_a_bug.3F)
+    清理后: [How to report a bug?](https://checkstyle.org/report_issue.html#How_to_report_a_bug.3F)
+  - 原始: #### [Issue Template](https://github.com/checkstyle/checkstyle/blob/master/.github/ISSUE_TEMPLATE.md)
+    清理后: [Issue Template](https://github.com/checkstyle/checkstyle/blob/master/.github/ISSUE_TEMPLATE.md)
+  - 原始: #### [Pull Request Template](https://github.com/checkstyle/checkstyle/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
+    清理后: [Pull Request Template](https://github.com/checkstyle/checkstyle/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
+  - 原始: #### [Beginning Development](https://checkstyle.org/beginning_development.html)
+    清理后: [Beginning Development](https://checkstyle.org/beginning_development.html)
+  - 原始: #### [Contribution Guidelines](https://checkstyle.org/contributing.html)
+    清理后: [Contribution Guidelines](https://checkstyle.org/contributing.html)
+  - 原始: #### [Importing checkstyle project to IntelliJ](https://checkstyle.org/idea.html)
+    清理后: [Importing checkstyle project to IntelliJ](https://checkstyle.org/idea.html)
+  - 原始: #### [Importing checkstyle project to Eclipse](https://checkstyle.org/eclipse.html)
+    清理后: [Importing checkstyle project to Eclipse](https://checkstyle.org/eclipse.html)
+  - 原始: #### [Importing checkstyle project to Netbeans](https://checkstyle.org/netbeans.html)
+    清理后: [Importing checkstyle project to Netbeans](https://checkstyle.org/netbeans.html)
+
+=== cherow@cherow.txt ===
+找到 7 个在 Excel 第一列中找不到的标题：
+  - 原始: ### Step 1: Create a new branch<a name="step1"></a>
+    清理后: Step 1: Create a new branch<a name="step1"></a>
+  - 原始: ### Step 2: Make your changes<a name="step2"></a>
+    清理后: Step 2: Make your changes<a name="step2"></a>
+  - 原始: ### Step 3: Rebase onto upstream<a name="step3"></a>
+    清理后: Step 3: Rebase onto upstream<a name="step3"></a>
+  - 原始: ### Step 4: Run the tests<a name="step4"></a>
+    清理后: Step 4: Run the tests<a name="step4"></a>
+  - 原始: ### Step 5: Double check your submission<a name="step5"></a>
+    清理后: Step 5: Double check your submission<a name="step5"></a>
+  - 原始: ### Step 6: Push your changes<a name="step6"></a>
+    清理后: Step 6: Push your changes<a name="step6"></a>
+  - 原始: ### Step 7: Send the pull request<a name="step7"></a>
+    清理后: Step 7: Send the pull request<a name="step7"></a>
+
+=== chocolatey@choco.txt ===
+找到 2 个在 Excel 第一列中找不到的标题：
+  - 原始: ## Code Contributions
+    清理后: Code Contributions
+  - 原始: ##### [Automated Tests](TESTING.md)
+    清理后: [Automated Tests](TESTING.md)
+
+=== cinder@Cinder.txt ===
+找到 4 个在 Excel 第一列中找不到的标题：
+  - 原始: #pragma once
+    清理后: pragma once
+  - 原始: #inclue "cinder/includes/first.h"
+    清理后: inclue "cinder/includes/first.h"
+  - 原始: #include <system/includes/next>
+    清理后: include <system/includes/next>
+  - 原始: #include "cinder/SomeClass.h"
+    清理后: include "cinder/SomeClass.h"
+
+=== citusdata@citus.txt ===
+找到 4 个在 Excel 第一列中找不到的标题：
+  - 原始: # Uncrustify changes the way it formats code every release a bit. To make sure
+    清理后: Uncrustify changes the way it formats code every release a bit. To make sure
+  - 原始: # everyone formats consistently we use version 0.68.1:
+    清理后: everyone formats consistently we use version 0.68.1:
+  - 原始: #!/bin/bash
+    清理后: !/bin/bash
+  - 原始: #include "udfs/myudf/9.0-1.sql"
+    清理后: include "udfs/myudf/9.0-1.sql"
+
+=== cnvs@canvas.txt ===
+找到 2 个在 Excel 第一列中找不到的标题：
+  - 原始: # remove the existing assets from the Laravel app
+    清理后: remove the existing assets from the Laravel app
+  - 原始: # go inside the empty directory and create a symlink
+    清理后: go inside the empty directory and create a symlink
+
+=== cocos2d@cocos2d-x.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始: ## Only _complete_ patches will be merged
+    清理后: Only _complete_ patches will be merged
+
+=== codecadwallader@codemaid.txt ===
+找到 3 个在 Excel 第一列中找不到的标题：
+  - 原始:    # Clone your fork of the repo into the current directory
+    清理后: Clone your fork of the repo into the current directory
+  - 原始:    # Navigate to the newly cloned directory
+    清理后: Navigate to the newly cloned directory
+  - 原始:    # Assign the original repo to a remote called "upstream"
+    清理后: Assign the original repo to a remote called "upstream"
+
+=== coderwall@coderwall-legacy.txt ===
+找到 4 个在 Excel 第一列中找不到的标题：
+  - 原始:         # still in ~/assemblymade/coderwall
+    清理后: still in ~/assemblymade/coderwall
+  - 原始:         # whoa!
+    清理后: whoa!
+  - 原始:         # We're not in localhost any longer... well, you get what I mean
+    清理后: We're not in localhost any longer... well, you get what I mean
+  - 原始:         # we're still SSH'ed into Vbox
+    清理后: we're still SSH'ed into Vbox
+
+=== codesandbox@codesandbox-client.txt ===
+找到 2 个在 Excel 第一列中找不到的标题：
+  - 原始:     # Clone your fork
+    清理后: Clone your fork
+  - 原始:     # Navigate to the newly cloned directory
+    清理后: Navigate to the newly cloned directory
+
+=== codetriage@CodeTriage.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始:   # ... code goes here
+    清理后: ... code goes here
+
+=== coduo@php-humanizer.txt ===
+找到 4 个在 Excel 第一列中找不到的标题：
+  - 原始: #A quick guide to contribute to the project:
+    清理后: A quick guide to contribute to the project:
+  - 原始: ##Installing the dev environment
+    清理后: Installing the dev environment
+  - 原始: ##The actual contribution
+    清理后: The actual contribution
+  - 原始: ##Coding Standards
+    清理后: Coding Standards
+
+=== colmena@colmena.txt ===
+找到 8 个在 Excel 第一列中找不到的标题：
+  - 原始: ## <a name="coc"></a> Code of Conduct
+    清理后: <a name="coc"></a> Code of Conduct
+  - 原始: ## <a name="question"></a> Got a Question or Problem?
+    清理后: <a name="question"></a> Got a Question or Problem?
+  - 原始: ## <a name="issue"></a> Found a Bug?
+    清理后: <a name="issue"></a> Found a Bug?
+  - 原始: ## <a name="feature"></a> Missing a Feature?
+    清理后: <a name="feature"></a> Missing a Feature?
+  - 原始: ## <a name="submit"></a> Submission Guidelines
+    清理后: <a name="submit"></a> Submission Guidelines
+  - 原始: ### <a name="submit-issue"></a> Submitting an Issue
+    清理后: <a name="submit-issue"></a> Submitting an Issue
+  - 原始: ### <a name="submit-pr"></a> Submitting a Pull Request (PR)
+    清理后: <a name="submit-pr"></a> Submitting a Pull Request (PR)
+  - 原始: ## <a name="commit"></a> Commit Message Guidelines
+    清理后: <a name="commit"></a> Commit Message Guidelines
+
+=== compodoc@compodoc.txt ===
+找到 7 个在 Excel 第一列中找不到的标题：
+  - 原始: ## <a name="issue"></a> Found an Issue?
+    清理后: <a name="issue"></a> Found an Issue?
+  - 原始: ## <a name="feature"></a> Want a Feature?
+    清理后: <a name="feature"></a> Want a Feature?
+  - 原始: ## <a name="submit"></a> Submission Guidelines
+    清理后: <a name="submit"></a> Submission Guidelines
+  - 原始: ### <a name="submit-issue"></a> Submitting an Issue
+    清理后: <a name="submit-issue"></a> Submitting an Issue
+  - 原始: ### <a name="submit-pr"></a> Submitting a Pull Request (PR)
+    清理后: <a name="submit-pr"></a> Submitting a Pull Request (PR)
+  - 原始: ## <a name="rules"></a> Coding Rules
+    清理后: <a name="rules"></a> Coding Rules
+  - 原始: ## <a name="commit"></a> Commit Message Guidelines
+    清理后: <a name="commit"></a> Commit Message Guidelines
+
+=== conan-io@conan.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始: # -*- coding: utf-8 -*-
+    清理后: - coding: utf-8 --
+
+=== cookiecutter@cookiecutter.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始: ## x.y.z (Development)
+    清理后: x.y.z (Development)
+
+=== coralproject@talk.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始: # usage: ./scripts/i18n/validate.ts <locale>
+    清理后: usage: ./scripts/i18n/validate.ts <locale>
+
+=== coreinfrastructure@best-practices-badge.txt ===
+找到 5 个在 Excel 第一列中找不到的标题：
+  - 原始: ## <span id="how_to_report_vulnerabilities">Vulnerability reporting (security issues)</a>
+    清理后: <span id="how_to_report_vulnerabilities">Vulnerability reporting (security issues)</a>
+  - 原始: # frozen_string_literal: true
+    清理后: frozen_string_literal: true
+  - 原始: # Copyright 2015-2017, the Linux Foundation, IDA, and the
+    清理后: Copyright 2015-2017, the Linux Foundation, IDA, and the
+  - 原始: # CII Best Practices badge contributors
+    清理后: CII Best Practices badge contributors
+  - 原始: # SPDX-License-Identifier: MIT
+    清理后: SPDX-License-Identifier: MIT
+
+=== cuberite@cuberite.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始: #!/bin/sh
+    清理后: !/bin/sh
+
+=== cucumber@aruba.txt ===
+找到 16 个在 Excel 第一列中找不到的标题：
+  - 原始: # Run the test suite
+    清理后: Run the test suite
+  - 原始: # Run the whole test suite
+    清理后: Run the whole test suite
+  - 原始: # Run RSpec tests
+    清理后: Run RSpec tests
+  - 原始: # Run Cucumber features
+    清理后: Run Cucumber features
+  - 原始: # Run Cucumber features which are "WORK IN PROGRESS" and are allowed to fail
+    清理后: Run Cucumber features which are "WORK IN PROGRESS" and are allowed to fail
+  - 原始: # Build the docker container
+    清理后: Build the docker container
+  - 原始: # Alternative: Build with disabled cache
+    清理后: Alternative: Build with disabled cache
+  - 原始: # Build image with version tag
+    清理后: Build image with version tag
+  - 原始: # Run the whole test suite in "docker"-container
+    清理后: Run the whole test suite in "docker"-container
+  - 原始: # Run only selected scenario
+    清理后: Run only selected scenario
+  - 原始: # Build your copy
+    清理后: Build your copy
+  - 原始: # Build and install your copy
+    清理后: Build and install your copy
+  - 原始: # Build and install your copy without network access
+    清理后: Build and install your copy without network access
+  - 原始: # update dependencies
+    清理后: update dependencies
+  - 原始: # Run test suite
+    清理后: Run test suite
+  - 原始: # Release gem
+    清理后: Release gem
+
+=== cucumber@cucumber-rails.txt ===
+找到 2 个在 Excel 第一列中找不到的标题：
+  - 原始:     # Then to run tests on one version-specific Gemfile (e.g. gemfiles/rails_6_0.gemfile), run
+    清理后: Then to run tests on one version-specific Gemfile (e.g. gemfiles/rails_6_0.gemfile), run
+  - 原始:     # Or run tests across the full supported stack. Note that because we support many versions. This takes 5-10 minutes
+    清理后: Or run tests across the full supported stack. Note that because we support many versions. This takes 5-10 minutes
+
+=== cucumber@cucumber-ruby.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始:     # Make sure you run gem signin as the cukebot@cucumber.io user before running the following step. Credentials can be found in 1Password
+    清理后: Make sure you run gem signin as the cukebot@cucumber.io user before running the following step. Credentials can be found in 1Password
+
+=== cyberark@bash-lib.txt ===
+找到 5 个在 Excel 第一列中找不到的标题：
+  - 原始: # source support and assert libraries
+    清理后: source support and assert libraries
+  - 原始: # source the library under test
+    清理后: source the library under test
+  - 原始: # define a test that calls a library function
+    清理后: define a test that calls a library function
+  - 原始:   # run is a wrapper that catches failures so that assertsions can be run,
+    清理后: run is a wrapper that catches failures so that assertsions can be run,
+  - 原始:   # otherwise the test would immediately fail.
+    清理后: otherwise the test would immediately fail.
+
+=== cypress-io@cypress.txt ===
+找到 5 个在 Excel 第一列中找不到的标题：
+  - 原始: # add a new dep to the root of the repo
+    清理后: add a new dep to the root of the repo
+  - 原始: # add a new dep to a specific package
+    清理后: add a new dep to a specific package
+  - 原始: # Run test-unit only within cypress package (./cli)
+    清理后: Run test-unit only within cypress package (./cli)
+  - 原始: # Run test-unit only within the cypress and server packages (./cli & ./packages/server)
+    清理后: Run test-unit only within the cypress and server packages (./cli & ./packages/server)
+  - 原始: # Run test-unit in all packages with the name starting with `@packages/`
+    清理后: Run test-unit in all packages with the name starting with @packages/
+
+=== dalelotts@angular-bootstrap-datetimepicker.txt ===
+找到 7 个在 Excel 第一列中找不到的标题：
+  - 原始: ## <a name="question"></a> Got a Question or Problem?
+    清理后: <a name="question"></a> Got a Question or Problem?
+  - 原始: ## <a name="issue"></a> Found an Issue?
+    清理后: <a name="issue"></a> Found an Issue?
+  - 原始: ## <a name="feature"></a> Want a Feature?
+    清理后: <a name="feature"></a> Want a Feature?
+  - 原始: ## <a name="docs"></a> Want a Doc Fix?
+    清理后: <a name="docs"></a> Want a Doc Fix?
+  - 原始: ## <a name="submit"></a> Submission Guidelines
+    清理后: <a name="submit"></a> Submission Guidelines
+  - 原始: ## <a name="rules"></a> Coding Rules
+    清理后: <a name="rules"></a> Coding Rules
+  - 原始: ## <a name="commit"></a> Git Commit Guidelines
+    清理后: <a name="commit"></a> Git Commit Guidelines
+
+=== danger@danger-js.txt ===
+找到 1 个在 Excel 第一列中找不到的标题：
+  - 原始: # if you don't have yarn installed
+    清理后: if you don't have yarn installed
+
+=== darktable-org@darktable.txt ===
+找到 2 个在 Excel 第一列中找不到的标题：
+  - 原始: # format everything
+    清理后: format everything
+  - 原始: # If there are whitespace errors, print the offending file names and fail.
+    清理后: If there are whitespace errors, print the offending file names and fail.
+
+=== davetron5000@gli.txt ===
+找到 5 个在 Excel 第一列中找不到的标题：
+  - 原始:           # Short description
+    清理后: Short description
+  - 原始:           # Longer description if needed
+    清理后: Longer description if needed
+  - 原始:           # +args+:: get documented using this syntax
+    清理后: +args+:: get documented using this syntax
+  - 原始:           # +args+:: please state the TYPE of every arg
+    清理后: +args+:: please state the TYPE of every arg
+  - 原始:           # Returns goes here, please state the TYPE of what's returned, if anything
+    清理后: Returns goes here, please state the TYPE of what's returned, if anything
+
+=== davezuko@react-redux-starter-kit.txt ===
+找到 4 个在 Excel 第一列中找不到的标题：
+  - 原始:  #271 feat(standard): add style config and refactor to match
+    清理后: 271 feat(standard): add style config and refactor to match
+  - 原始:  #270 fix(config): only override publicPath when served by webpack 
+    清理后: 270 fix(config): only override publicPath when served by webpack
+  - 原始:  #269 feat(eslint-config-defaults): replace eslint-config-airbnb 
+    清理后: 269 feat(eslint-config-defaults): replace eslint-config-airbnb
+  - 原始:  #268 feat(config): allow user to configure webpack stats output 
+    清理后: 268 feat(config): allow user to configure webpack stats output
+

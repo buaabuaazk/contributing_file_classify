@@ -1,0 +1,26 @@
+# Contributing
+## Are You In the Right Place?
+### Reporting an Issue/Bug?
+#### SolutionVersion.cs
+### Package Issue?
+### Package Request? Package Missing?
+### Submitting an Enhancement / Feature Request?
+#### Submitting an Enhancement For Choco
+## Code Contributions
+### Prerequisites
+#### Definition of Trivial Contributions
+#### Is the CLA Really Required?
+## Contributing Process
+### Get Buyoff Or Find Open Community Issues/Features
+### Set Up Your Environment
+### Code Format / Design
+#### CSharp
+#### PowerShell
+### Debugging / Testing
+#### Visual Studio
+##### [Automated Tests](TESTING.md)
+#### Chocolatey Build
+### Prepare Commits
+### Submit Pull Request (PR)
+### Respond to Feedback on Pull Request
+## Other General Information

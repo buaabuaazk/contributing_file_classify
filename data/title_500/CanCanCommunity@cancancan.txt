@@ -1,0 +1,3 @@
+## Contributing to CanCanCan
+### Reporting an Issue
+### Adding new Features or Bugfixes

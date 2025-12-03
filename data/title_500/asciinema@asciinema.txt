@@ -1,0 +1,7 @@
+# Contributing to asciinema
+## Reporting bugs
+## Submitting patches with bug fixes
+## Requesting new features
+## Proposing features/changes (pull requests)
+## Asking for help
+## Reporting security issues

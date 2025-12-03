@@ -1,0 +1,5 @@
+# Contributing to the AWS SDK for PHP
+## Things to keep in mind
+## Changelog Documents
+#### Changelog Types
+#### Changelog Categories

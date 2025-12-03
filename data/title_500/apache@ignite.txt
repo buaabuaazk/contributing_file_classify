@@ -1,0 +1,10 @@
+# Contributing to Apache Ignite
+## Joining Community and it's communication channels
+## Needed Contributions
+## How To Contribute
+## Contributing Documentation
+## Blogs
+## Contributing Code
+### Project Initial Setup
+### Code inspections, styles and abbreviation rules.
+### Building project

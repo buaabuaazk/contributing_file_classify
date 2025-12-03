@@ -1,0 +1,69 @@
+# Contributing
+## Table of Contents
+## Orientation
+## Types of Contributions
+### Report Bug
+### Submit Ideas or Feature Requests
+### Fix Bugs
+### Implement Features
+### Improve Documentation
+### Add Translations
+### Ask Questions
+## Pull Request Guidelines
+### Protocol
+#### Authoring
+#### Reviewing
+#### Merging
+#### Post-merge Responsibility
+## Managing Issues and PRs
+## Revert Guidelines
+## Setup Local Environment for Development
+### Documentation
+#### Images
+#### API documentation
+### Flask server
+#### OS Dependencies
+#### Logging to the browser console
+### Frontend Assets
+#### nvm and node
+#### Prerequisite
+#### Installing Dependencies
+#### Building
+#### Docker (docker-compose)
+#### Updating NPM packages
+#### Feature flags
+## Git Hooks
+## Linting
+## Conventions
+### Python
+## Typing
+### Python
+### TypeScript
+## Testing
+### Python Testing
+### Frontend Testing
+### Integration Testing
+### Storybook
+## Translating
+### Enabling language selection
+### Extracting new strings for translation
+### Creating a new language dictionary
+## Tips
+### Adding a new datasource
+### Improving visualizations
+### Visualization Plugins
+### Adding a DB migration
+### Merging DB migrations
+### SQL Lab Async
+## Chart Parameters
+### Datasource & Chart Type
+### Time
+### GROUP BY
+### NOT GROUPED BY
+### Y Axis 1
+### Y Axis 2
+### Query
+### Chart Options
+### Y Axis
+### Other
+### Unclassified

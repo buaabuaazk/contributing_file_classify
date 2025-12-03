@@ -1,0 +1,3 @@
+# Contributing to ClickHouse
+## Technical Info
+## Legal Info

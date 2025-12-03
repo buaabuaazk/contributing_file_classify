@@ -1,0 +1,13 @@
+# Contributing to API Platform
+## Reporting Bugs
+## Pull Requests
+### Writing a Pull Request
+# or if you prefer using the PHP built-in web server
+### Matching Coding Standards
+### Sending a Pull Request
+### Tests
+#### PHPUnit and Coverage Generation
+#### Behat
+## Squash your Commits
+# License and Copyright Attribution
+# Releases

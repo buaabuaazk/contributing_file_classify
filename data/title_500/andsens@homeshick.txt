@@ -1,0 +1,11 @@
+# Contribution guidelines #
+## Reporting issues ##
+### Questions ###
+### Description ###
+### Reproducing ###
+## Pull requests ##
+### Branching
+### Code style ###
+### Content ###
+### Description ###
+### Testing ###

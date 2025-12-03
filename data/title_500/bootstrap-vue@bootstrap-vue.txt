@@ -1,0 +1,8 @@
+# Contributing
+## Playground & Issue reports
+## Setup
+## Work on components
+## Test inside your project
+## Pull requests
+## Financial contributions
+## Contributors

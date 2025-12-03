@@ -1,0 +1,15 @@
+## Contributing to Apache Camel
+## Table of Contents
+## Getting in touch
+## Improving the documentation
+## If you find a bug or problem
+## Working on the code
+## Running checkstyle
+## Verify Karaf features
+## Apache Camel committers should work on the ASF git repo
+## Creating patches
+## Pull request at Github
+## Manual patch files
+## Submitting patches
+## Using the issue tracker
+## Becoming a committer

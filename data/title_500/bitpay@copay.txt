@@ -1,0 +1,6 @@
+# Contributing to Copay
+## Using the issue tracker
+## Bug reports
+## Feature requests
+## Support requests
+## Pull requests

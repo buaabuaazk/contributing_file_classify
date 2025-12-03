@@ -1,0 +1,7 @@
+# Contributing to this project
+## Using the issue tracker
+## Bug reports
+## Feature requests
+## Pull requests
+## Running Local Demo
+## Running Tests

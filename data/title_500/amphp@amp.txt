@@ -1,0 +1,4 @@
+## Submitting useful bug reports
+## Development ideology
+## Code style
+## Running the tests

@@ -43,7 +43,7 @@ if not os.path.exists(OUTPUT_JSON_DIR):
 with open('resources/prompts/prompt.md', 'r', encoding='utf-8') as f:
     prompt_content = f.read().strip()
 
-data_dir = "data"
+data_dir = "data/sheets_500"
 xlsx_files = [f for f in os.listdir(data_dir) if f.endswith('.xlsx') and not f.startswith('.')]
 
 # 根据配置选择要处理的文件

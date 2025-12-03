@@ -1,0 +1,15 @@
+# Write good commit messages
+# Test that your changes don't break existing functionality
+## Using tox and pyenv
+# Check for potential bugs
+# Changes in the tools that we use
+# Short (and incomplete) cheat-sheet for contributions
+## To start contributing
+## Making your changes
+### See what you changed
+### Select what you want to commit
+### See what changes will make into your commit
+### Once you are satisfied with your changes
+### Send your changes to github
+# Release procedure
+## Docker

@@ -1,0 +1,8 @@
+# Compiling MonoTorrent
+### Pre-requisites
+### MSBuild:
+### Makefiles:
+### Using an IDE:
+## How to use the sample applications
+### MonoTorrent Client
+### The Tracker

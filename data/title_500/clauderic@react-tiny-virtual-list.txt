@@ -1,0 +1,8 @@
+# Contributing to this project
+## Using the issue tracker
+## Feature requests
+## Pull requests
+## Prerequisites
+## Installation
+## Demo
+## Building

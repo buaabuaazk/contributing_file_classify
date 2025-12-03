@@ -1,0 +1,6 @@
+# Contributing to Brunch
+### Did you find a bug?
+### Do you want to write a patch yourself?
+#### The Process
+#### Brunch internals overview
+#### How to set up the dev env

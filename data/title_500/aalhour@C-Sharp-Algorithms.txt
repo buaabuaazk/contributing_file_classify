@@ -1,0 +1,7 @@
+# Contribution Guidelines
+## Types of Contributions
+## Communication and Issues
+## Submitting a Pull Requests
+## Coding Conventions
+## NuGet and 3rd Party Libraries
+## Source Code Testing

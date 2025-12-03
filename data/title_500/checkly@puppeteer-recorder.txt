@@ -1,0 +1,8 @@
+# Contributing
+## New feature guidelines
+## Getting set up
+## Code reviews
+## Code Style
+## Commit Messages
+## Adding New Dependencies
+## Writing Tests

@@ -1,0 +1,3 @@
+## How to contribute to Avored
+#### **Bug Reporting**
+#### **Did you fix a bug?**

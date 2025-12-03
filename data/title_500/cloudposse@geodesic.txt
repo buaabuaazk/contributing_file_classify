@@ -1,0 +1,3 @@
+## Contributing
+### Bug Reports & Feature Requests
+### Developing

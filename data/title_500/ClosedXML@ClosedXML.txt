@@ -1,0 +1,4 @@
+# Developer guidelines
+## Working with Excel file internals
+### Comparing the internals of Excel files
+## Code conventions

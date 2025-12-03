@@ -1,0 +1,9 @@
+# Contributing to Babylon.js
+## Golden rules
+### Backward compatibility
+### Performance
+### Simplicity
+## Forum and Github issues
+## Online one-click setup for Contributing
+## Pull requests
+## What should go where

@@ -1,0 +1,225 @@
+开始处理 500 个文件...
+
+================================================================================
+
+[有问题] Azure@azure-sdk-for-net.txt
+  标题总数: 34
+  [未匹配] txt行365: #pragma warning disable CA1707
+    从Excel行123开始查找
+  [未匹配] txt行367: #pragma warning restore CA1707
+    从Excel行123开始查找
+
+[有问题] BlockchainCommons@Learning-Bitcoin-from-the-Command-Line.txt
+  标题总数: 9
+  [未匹配] txt行14: ## Report Bugs using Github's [issues](https://github.com/briandk/transcriptase-atom/issues)
+    从Excel行10开始查找
+  [未匹配] txt行46: ### Use [Github Flow](https://guides.github.com/introduction/flow/index.html) for Pull Requests
+    从Excel行28开始查找
+
+[有问题] BoostIO@Boostnote.txt
+  标题总数: 21
+  [未匹配] txt行131: # Contributing to Boostnote (Français)
+    从Excel行62开始查找
+  [未匹配] txt行133: ### Lorsque vous signalez un problème ou un bug
+    从Excel行62开始查找
+  [未匹配] txt行141: ### À propos des droits d'auteurs et des requêtes (`Pull Request`)
+    从Excel行62开始查找
+
+[有问题] CocoaPods@CocoaPods.txt
+  标题总数: 5
+  [未匹配] txt行1: # Do’s and Don’ts
+    从Excel行2开始查找
+  [未匹配] txt行97: ## [No Brown M&M’s](https://en.wikipedia.org/wiki/Van_Halen#Contract_riders)
+    从Excel行27开始查找
+
+[有问题] allenai@allennlp.txt
+  标题总数: 6
+  [未匹配] txt行108: # replace BRANCH with whatever name you want to give it
+    从Excel行19开始查找
+
+[有问题] androidannotations@androidannotations.txt
+  标题总数: 4
+  [未匹配] txt行11: ### Either way, you could read about [contribution in general](https://github.com/androidannotations/androidannotations/wiki/Contributing).
+    从Excel行6开始查找
+
+[有问题] angular-gantt@angular-gantt.txt
+  标题总数: 13
+  [未匹配] txt行12: ## <a name="issue"></a> Issues Guidelines
+    从Excel行3开始查找
+  [未匹配] txt行25: ## <a name="coding"></a> Coding Rules
+    从Excel行3开始查找
+  [未匹配] txt行97: ###Body
+    从Excel行58开始查找
+  [未匹配] txt行101: ###Footer
+    从Excel行58开始查找
+
+[有问题] api-platform@core.txt
+  标题总数: 13
+  [未匹配] txt行42: # or if you prefer using the PHP built-in web server
+    从Excel行15开始查找
+
+[有问题] arrayfire@arrayfire.txt
+  标题总数: 4
+  [未匹配] txt行33: ##ArrayFire Based Projects##
+    从Excel行13开始查找
+
+[有问题] aws@aws-cli.txt
+  标题总数: 15
+  [未匹配] txt行57: # Clone the repo and set up the remotes.
+    从Excel行35开始查找
+  [未匹配] txt行65: # Now to create a feature branch:
+    从Excel行35开始查找
+  [未匹配] txt行68: # Now add your commits for your features.
+    从Excel行35开始查找
+  [未匹配] txt行71: # Make sure our commit message matches format described in the
+    从Excel行35开始查找
+  [未匹配] txt行72: # previous section.
+    从Excel行35开始查找
+  [未匹配] txt行75: # If we want to sync with the latest upstream changes before
+    从Excel行35开始查找
+  [未匹配] txt行76: # sending our pull request we can run:
+    从Excel行35开始查找
+  [未匹配] txt行80: # When you're ready to send a PR, make sure you push your commits
+    从Excel行35开始查找
+  [未匹配] txt行81: # to your fork:
+    从Excel行35开始查找
+
+[有问题] backup@backup.txt
+  标题总数: 12
+  [未匹配] txt行48: ## Triage Issues [![Open Source Helpers](https://www.codetriage.com/backup/backup/badges/users.svg)](https://www.codetriage.com/backup/backup)
+    从Excel行21开始查找
+
+[有问题] bats-core@bats-core.txt
+  标题总数: 31
+  [未匹配] txt行58: ## Quick links &#x1f517;
+    从Excel行11开始查找
+
+[有问题] benbalter@word-to-markdown.txt
+  标题总数: 10
+  [未匹配] txt行35: ## What should I do if my document doesn&#39;t convert correctly
+    从Excel行18开始查找
+
+[有问题] bitcoin@bitcoin.txt
+  标题总数: 18
+  [未匹配] txt行204: # n is normally the number of commits in the pull request.
+    从Excel行69开始查找
+  [未匹配] txt行205: # Set commits (except the one in the first line) from 'pick' to 'squash', save and quit.
+    从Excel行69开始查找
+  [未匹配] txt行206: # On the next screen, edit/refine commit messages.
+    从Excel行69开始查找
+  [未匹配] txt行207: # Save and quit.
+    从Excel行69开始查找
+
+[有问题] callstack@linaria.txt
+  标题总数: 15
+  [未匹配] txt行3: ## [Code of Conduct](/CODE_OF_CONDUCT.md)
+    从Excel行3开始查找
+
+[有问题] capistrano@capistrano.txt
+  标题总数: 4
+  [未匹配] txt行8: ## If you’re looking for help or have a question
+    从Excel行2开始查找
+
+[有问题] carhartl@jquery-cookie.txt
+  标题总数: 7
+  [未匹配] txt行1: ##Issues
+    从Excel行2开始查找
+  [未匹配] txt行6: ##Pull requests
+    从Excel行2开始查找
+  [未匹配] txt行13: ###Tools
+    从Excel行10开始查找
+  [未匹配] txt行20: ###Getting started
+    从Excel行10开始查找
+  [未匹配] txt行38: ###Tests
+    从Excel行10开始查找
+  [未匹配] txt行48: ###Automatic build
+    从Excel行10开始查找
+
+[有问题] ceph@ceph-container.txt
+  标题总数: 18
+  [未匹配] txt行134: #### Source specific to a single Ceph release - `ceph-releases/<ceph release>`
+    从Excel行40开始查找
+
+[有问题] checkstyle@checkstyle.txt
+  标题总数: 11
+  [未匹配] txt行4: #### [Reporting issues](https://checkstyle.org/report_issue.html)
+    从Excel行3开始查找
+  [未匹配] txt行5: #### [How to report a bug?](https://checkstyle.org/report_issue.html#How_to_report_a_bug.3F)
+    从Excel行3开始查找
+  [未匹配] txt行6: #### [Issue Template](https://github.com/checkstyle/checkstyle/blob/master/.github/ISSUE_TEMPLATE.md)
+    从Excel行3开始查找
+  [未匹配] txt行16: #### [Pull Request Template](https://github.com/checkstyle/checkstyle/blob/master/.github/PULL_REQUEST_TEMPLATE.md)
+    从Excel行9开始查找
+  [未匹配] txt行19: #### [Beginning Development](https://checkstyle.org/beginning_development.html)
+    从Excel行9开始查找
+  [未匹配] txt行20: #### [Contribution Guidelines](https://checkstyle.org/contributing.html)
+    从Excel行9开始查找
+  [未匹配] txt行23: #### [Importing checkstyle project to IntelliJ](https://checkstyle.org/idea.html)
+    从Excel行9开始查找
+  [未匹配] txt行24: #### [Importing checkstyle project to Eclipse](https://checkstyle.org/eclipse.html)
+    从Excel行9开始查找
+  [未匹配] txt行25: #### [Importing checkstyle project to Netbeans](https://checkstyle.org/netbeans.html)
+    从Excel行9开始查找
+
+[有问题] cocos2d@cocos2d-x.txt
+  标题总数: 6
+  [未匹配] txt行51: ## Only _complete_ patches will be merged
+    从Excel行19开始查找
+
+[有问题] coderwall@coderwall-legacy.txt
+  标题总数: 16
+  [未匹配] txt行104: # still in ~/assemblymade/coderwall
+    从Excel行29开始查找
+  [未匹配] txt行106: # whoa!
+    从Excel行29开始查找
+  [未匹配] txt行110: # We're not in localhost any longer... well, you get what I mean
+    从Excel行29开始查找
+  [未匹配] txt行114: # we're still SSH'ed into Vbox
+    从Excel行29开始查找
+
+[有问题] coduo@php-humanizer.txt
+  标题总数: 4
+  [未匹配] txt行1: #A quick guide to contribute to the project:
+    从Excel行2开始查找
+  [未匹配] txt行3: ##Installing the dev environment
+    从Excel行2开始查找
+  [未匹配] txt行11: ##The actual contribution
+    从Excel行2开始查找
+  [未匹配] txt行17: ##Coding Standards
+    从Excel行2开始查找
+
+[有问题] coreinfrastructure@best-practices-badge.txt
+  标题总数: 40
+  [未匹配] txt行420: # frozen_string_literal: true
+    从Excel行75开始查找
+  [未匹配] txt行422: # Copyright 2015-2017, the Linux Foundation, IDA, and the
+    从Excel行75开始查找
+  [未匹配] txt行423: # CII Best Practices badge contributors
+    从Excel行75开始查找
+  [未匹配] txt行424: # SPDX-License-Identifier: MIT
+    从Excel行75开始查找
+
+[有问题] cucumber@cucumber-rails.txt
+  标题总数: 8
+  [未匹配] txt行32: # Then to run tests on one version-specific Gemfile (e.g. gemfiles/rails_6_0.gemfile), run
+    从Excel行21开始查找
+  [未匹配] txt行34: # Or run tests across the full supported stack. Note that because we support many versions. This takes 5-10 minutes
+    从Excel行21开始查找
+
+[有问题] cucumber@cucumber-ruby.txt
+  标题总数: 9
+  [未匹配] txt行70: # Make sure you run gem signin as the cukebot@cucumber.io user before running the following step. Credentials can be found in 1Password
+    从Excel行32开始查找
+
+================================================================================
+✓ 处理完成！
+文件总数: 500
+有效文件数（有标题的）: 458
+完美匹配文件数（所有标题都匹配）: 433
+文件匹配率: 94.54%
+
+标题总数: 3665
+成功匹配（1对1）: 3598
+未匹配到: 67
+匹配到多个: 0
+标题匹配率: 98.17%

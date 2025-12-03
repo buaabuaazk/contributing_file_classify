@@ -1,0 +1,5 @@
+# Lucene.NET Contributor's Guide
+## Getting Started
+## Up For Grabs
+## Other Ways To Help
+## Thank You For Your Help!

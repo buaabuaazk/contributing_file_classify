@@ -1,0 +1,8 @@
+# How to Contribute to this Project
+## Code of conduct
+## Reporting an issue
+## Solving an issue
+## Coding conventions
+## Contributors
+### Core team members
+### All other contributors

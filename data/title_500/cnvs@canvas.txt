@@ -1,0 +1,10 @@
+# Contributing Guide
+## Table of Contents
+## Before you get started
+## Development Setup
+### Git
+### Database
+### Authentication
+### Directories
+### Installation
+### Developing

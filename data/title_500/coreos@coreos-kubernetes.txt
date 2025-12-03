@@ -1,0 +1,6 @@
+# How to Contribute
+# Certificate of Origin
+# Email and Chat
+## Getting Started
+## Contribution Flow
+### Format of the Commit Message

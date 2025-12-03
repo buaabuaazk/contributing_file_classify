@@ -1,0 +1,18 @@
+### The concept of staging
+#### Staging override order
+#### Basic templating in staging
+##### Variable file replacements
+##### Environment variable replacements
+#### Staging development aids
+#### Building images from staging
+### Where does (should) source code live?
+#### Core source base of ceph-container - `src/`
+#### Source shared by all Ceph releases - `ceph-releases/ALL/`
+#### Source specific to a single Ceph release - `ceph-releases/<ceph release>`
+### General suggestions
+### Fixing a bug
+### Adding a feature
+### Adding a Ceph release
+### Adding a distro build
+### Jenkins
+### Travis

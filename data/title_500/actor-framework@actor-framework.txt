@@ -1,0 +1,22 @@
+#pragma once
+#include <string>
+#include "caf/example/my_class.hpp"
+#include <iostream>
+#define CAF_SUITE example.my_class    // name of this test suite
+#include "caf/example/my_class.hpp"   // header-under-test
+#include "caf/test/dsl.hpp"           // caf::test includes
+#include <iostream>                   // standard includes
+  #include <vector>
+  #include <sys/types.h>
+  #include "3rd/party.h"
+  #include "caf/fwd.hpp"
+  #include "caf/example.hpp" // header for this .cpp file
+  #include "caf/config.hpp" // needed for #ifdef guards
+  #include <algorithm>
+  #ifdef CAF_WINDOWS
+  #include <windows.h>
+  #else
+  #include <sys/socket.h>
+  #endif
+  #include "some/other/library.h"
+  #include "caf/actor.hpp"

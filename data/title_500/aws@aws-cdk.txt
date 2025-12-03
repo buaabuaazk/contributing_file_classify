@@ -1,0 +1,47 @@
+# Contributing to the AWS Cloud Development Kit
+## Getting Started
+### Gitpod
+### Local dependencies
+## Pull Requests
+### Pull Request Checklist
+### Step 1: Open Issue
+### Step 2: Design (optional)
+### Step 3: Work your Magic
+#### Integration Tests
+### Step 4: Commit
+### Step 5: Pull Request
+### Step 6: Merge
+## Tools
+### Main build scripts
+### Partial build tools
+### Useful aliases
+### Linters
+#### eslint
+#### pkglint
+#### awslint
+### cfn2ts
+### scripts/foreach.sh
+### Jetbrains support (WebStorm/IntelliJ)
+## Workflows
+### Full clean build
+### Full Docker build
+### Partial build
+### Partial pack
+### Quick Iteration
+### Linking against this repository
+### Running integration tests in parallel
+### Visualizing dependencies in a CloudFormation Template
+### Adding Dependencies
+### Finding dependency cycles between packages
+### Updating all Dependencies
+### Running CLI integration tests
+### Changing Cloud Assembly Schema
+### API Compatibility Checks
+### Examples
+### Feature Flags
+### Versioning
+## Troubleshooting
+## Debugging
+### Connecting the VS Code Debugger
+### Run a CDK unit test in the debugger
+## Related Repositories

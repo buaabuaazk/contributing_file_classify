@@ -1,0 +1,13 @@
+# Contributing
+### Reporting Issues
+### Submitting Pull Requests
+### Style Guide
+#### Naming
+#### Spacing and Line Breaks
+#### Types
+#### Class inheritance
+#### Comments
+#### Example: Class Declaration
+#### Example: Class Implementation
+#### Notes on shared_ptr usage
+#### Error Handling

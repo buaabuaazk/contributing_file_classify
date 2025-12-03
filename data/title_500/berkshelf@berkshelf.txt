@@ -1,0 +1,7 @@
+# Contributing
+## Developing
+## Testing
+### Install prerequisites
+### Running unit (RSpec) and acceptance (Cucumber) tests
+### Debugging Issues
+## Releasing

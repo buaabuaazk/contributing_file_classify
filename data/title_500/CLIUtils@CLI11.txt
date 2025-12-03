@@ -1,0 +1,6 @@
+## Adding functionality
+## Things you should know:
+## Pre-commit
+## For developers releasing to Conan.io
+## For maintainers: remember to add contributions
+## For maintainers: Making a release

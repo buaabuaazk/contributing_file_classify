@@ -1,0 +1,9 @@
+# Contributing to Angel
+## Issues
+### Search Known Issues First
+### Reporting New Issues
+## Pull Requests
+### Branch Management
+### Make Pull Requests
+## Code Style Guide
+## License

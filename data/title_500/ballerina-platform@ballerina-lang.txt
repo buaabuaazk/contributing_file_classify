@@ -1,0 +1,8 @@
+# Contributing to Ballerina
+## Get started
+## Build the source code
+## Set up the development environment
+### Set up the Ballerina plugins
+### Set up the ANTLR4 plugin
+## Submit your contribution
+## Propose changes to Ballerina

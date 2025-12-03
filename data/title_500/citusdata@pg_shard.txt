@@ -1,0 +1,6 @@
+# Contributing to `pg_shard`
+## Using Issues
+## Bug Reports
+## Feature Requests
+## Pull Requests
+## License

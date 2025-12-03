@@ -1,0 +1,7 @@
+# Cucumber Community Contributing Guide 1.0
+## Newcomers
+## Vocabulary
+# Logging Issues
+# Contributions
+# Becoming a Committer
+# TC Process

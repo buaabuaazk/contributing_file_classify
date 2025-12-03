@@ -1,0 +1,8 @@
+# Contributing to AVA
+## How can I contribute?
+### Improve documentation
+### Improve issues
+### Give feedback on issues
+### Help out
+### Hang out in our chat
+## Contributing code

@@ -1,0 +1,8 @@
+# Contributing to Jetpack
+## Beta Testing
+## Create Bug Reports
+## Write and submit a patch
+### Get started
+### We’re Here To Help
+## Translate the plugin
+## License

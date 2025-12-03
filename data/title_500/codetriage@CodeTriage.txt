@@ -1,0 +1,15 @@
+# Contributing to CodeTriage
+## Code Changes Happen Through Pull Requests
+## Report bugs using Github's issues
+## Write bug reports with detail, background, and sample code
+# Run CodeTriage
+### Dependencies
+### Install Redis
+### Database
+### Environment
+### Running the app
+## Tests
+## Writing tests
+## Modifying Tests
+## Flow
+## Any contributions you make will be under the MIT Software License

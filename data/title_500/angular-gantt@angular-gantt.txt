@@ -1,0 +1,9 @@
+# Contribute
+## <a name="branching"></a> Branching Guidelines
+## <a name="pull-request"></a> Pull Request Guidelines
+## <a name="commit"></a> Git Commit Guidelines (from AngularJS)
+### Commit Message Format
+### Type
+### Scope
+### Subject
+## <a name="release"></a> Release Guidelines

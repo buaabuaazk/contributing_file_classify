@@ -1,0 +1,8 @@
+# How to contribute
+## General feedback and discussions
+## Platform
+## Building
+## Bugs and feature requests?
+## Other discussions
+## Filing issues
+## Contributing code and content

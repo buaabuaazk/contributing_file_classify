@@ -1,0 +1,15 @@
+# Contribution guidelines
+## How can you contribute?
+### Help triage issues
+### Updating documentation
+### Help with translations
+### Work on the code
+## Getting started
+### Making changes
+### Keeping your fork up to sync
+### Pull requests
+#### Considerations before submitting a pull request
+#### Each pull request should include
+#### Employees should
+### Closing issues
+### Triage help

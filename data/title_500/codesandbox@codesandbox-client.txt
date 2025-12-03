@@ -1,0 +1,7 @@
+# Contributing to CodeSandbox Client
+## Table of Contents
+## Code of Conduct
+## Code Organization
+## Setting Up the project locally
+## Submitting a Pull Request
+## Add yourself as a contributor

@@ -1,0 +1,4 @@
+# How to contribute to the ArduPilot project?
+# How to make a good bug report...
+# Submitting patches
+# Development Team

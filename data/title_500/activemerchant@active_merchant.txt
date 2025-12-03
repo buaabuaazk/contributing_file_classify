@@ -1,0 +1,6 @@
+# Contributing guidelines
+## New Gateways
+## Issues & Bugfixes
+### Reporting issues
+### Pull request guidelines
+## Version/Release Management

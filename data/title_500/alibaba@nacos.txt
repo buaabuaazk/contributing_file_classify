@@ -1,0 +1,8 @@
+# Contributing to Nacos
+## Before you get started
+### Code of Conduct
+## Contributing
+#### Open / pickup an issue for preparation
+#### Begin your contribute
+### Code review guidance
+### Now how about try become a committer?

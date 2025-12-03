@@ -1,0 +1,3 @@
+# Contributing to blazingSQL
+## Code contributions
+## Attribution

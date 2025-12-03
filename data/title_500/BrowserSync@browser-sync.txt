@@ -1,0 +1,9 @@
+# Contributing to Browsersync
+## <a name="question"></a> Got a Question or Problem?
+## <a name="issue"></a> Found an Issue?
+## <a name="tips"></a> Tips for a creating a great issue report
+## <a name="feature"></a> Want a Feature?
+## <a name="docs"></a> Want a Doc Fix?
+## <a name="pull"></a> Submitting a Pull Request
+## <a name="rules"></a> Coding Advice
+## <a name="thanks"></a> Thank you!

@@ -1,0 +1,15 @@
+# Contributing
+## Reporting Issues
+## Contributing Code
+## Git Commits and Workflow
+### Example Git Workflow
+# Clone the repo and set up the remotes.
+# Now to create a feature branch:
+# Now add your commits for your features.
+# Make sure our commit message matches format described in the
+# previous section.
+# If we want to sync with the latest upstream changes before
+# sending our pull request we can run:
+# When you're ready to send a PR, make sure you push your commits
+# to your fork:
+## CLI Development Version

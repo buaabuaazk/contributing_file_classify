@@ -1,0 +1,5 @@
+# Contributing to Squib
+## Need Help?
+## Pull Requests
+## Get Involved in the Community
+## Testing Pre-Builds

@@ -1,0 +1,12 @@
+# Contributing to Authlogic
+## Issues
+### Security Issues
+### Non-Security Issues
+### Usage Questions
+## Development
+### Testing
+### Test MySQL
+### Test PostgreSQL
+### Linting
+### Version Control Branches
+### A normal release (no backport)

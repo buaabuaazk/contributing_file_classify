@@ -1,0 +1,13 @@
+# Contributing
+## Basic Guidelines
+#### Use an IDE.
+#### Always test your changes.
+#### Do not make large changes before discussing them first.
+## Style Guidelines
+#### Follow the formatting guidelines.
+#### Do not use incompatible Java features (java.util.function, java.awt).
+#### Use `arc` collections and classes when possible.
+#### Avoid boxed types (Integer, Boolean)
+#### Do not allocate anything if possible.
+#### Avoid bloated code and unnecessary getters/setters.
+#### Do not create methods unless necessary.

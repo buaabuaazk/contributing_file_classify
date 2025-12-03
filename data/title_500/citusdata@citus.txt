@@ -1,0 +1,9 @@
+# Contributing to Citus
+### Getting and building
+#### Mac
+#### Debian-based Linux (Ubuntu, Debian)
+#### Red Hat-based Linux (RHEL, CentOS, Fedora)
+### Following our coding conventions
+### Making SQL changes
+#### Changing or creating functions
+#### Other SQL

@@ -1,0 +1,9 @@
+# Contributing to the IRremoteESP8266 library
+#### Table Of Contents
+## Code of Conduct
+## How Can I Contribute?
+### Reporting Bugs
+#### Before Submitting A Bug Report
+#### How Do I Submit A (Good) Bug Report?
+### Pull Requests
+### Git Commit Messages

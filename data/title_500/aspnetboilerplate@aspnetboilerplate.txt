@@ -1,0 +1,11 @@
+# Contributing to ASP.NET Boilerplate
+## Code Contribution
+### Bug Fixes & Enhancements
+### Feature Requests
+## Document Contribution
+## Resource Localization
+## Writing a New Module
+## Blog Posts & Tutorials
+## Bug Report
+## GitHub Issues
+### Stack Overflow

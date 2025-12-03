@@ -1,0 +1,8 @@
+# Contributing
+## Before starting development
+### Use a correct version of Python
+### Install all dependencies
+### Ensure that files are correctly formatted
+### Ensure that tests pass
+## Before creating a pull request
+### Confirm formatting and test passage

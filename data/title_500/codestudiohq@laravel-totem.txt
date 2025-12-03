@@ -1,0 +1,5 @@
+# Code Studio Contribution Guide
+## Which Branch?
+## Pull Requests
+### Feature Requests
+## Coding Guidelines

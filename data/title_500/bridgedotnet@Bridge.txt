@@ -1,0 +1,9 @@
+# How To Contribute
+## About Rights
+## Getting Started
+## Forking
+## Submitting Changes
+## My Feature Is Awesomesauce!
+## Bug Or Feature?
+## Will I Get Paid For Bugs Or Features?
+## Additional Resources

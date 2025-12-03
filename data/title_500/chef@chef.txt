@@ -1,0 +1,10 @@
+# Contributing to Chef Projects
+## Submitting Issues
+## Contribution Process
+### Pull Request Requirements
+### Code Review Process
+### Developer Certification of Origin (DCO)
+#### DCO Sign-Off Methods
+### Chef Obvious Fix Policy
+## Release Cycles
+## Chef Community

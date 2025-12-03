@@ -1,0 +1,6 @@
+# How to Contribute
+## Finding things to contribute to
+## Pull Requests
+#### Use a separate branch (not `master`)
+#### Testing
+#### If you make changes to the docs

@@ -1,0 +1,64 @@
+# Contributing to Cypress
+## Table of Contents
+## CI status
+## Code of Conduct
+## Opening Issues
+### Update Cypress
+### Getting more information
+### Fill out our Issue Template
+### Describe Problems
+### Reproducibility
+## Triaging Issues
+### Is this a question?
+### Does this issue belong in this repository?
+#### Other open source repos
+#### Our Dashboard Service
+### Is this already an open issue?
+### Does the issue provide all the information from our issue template?
+### Are they running the current version of Cypress?
+### Is the fix or feature within our vision for Cypress?
+### Is what they are describing actually happening?
+#### 1. You can not recreate the bug
+#### 2. You can recreate the bug
+#### 3. You can tell the problem is a user error
+### Has the issue gone stale?
+#### Not enough information ever provided
+#### They already solved their issue
+## Writing Documentation
+## Writing code
+### What you need to know before getting started
+#### Cypress and Packages
+### Requirements
+### Getting Started
+#### Adding new Dependencies
+#### Tasks
+##### Common Top Level Tasks
+##### Package-Level Scripts
+#### Debugging
+### Coding Style
+### Adding links within code
+### Tests
+#### Docker
+##### Troubleshooting
+#### Docker for built binary
+### Packages
+## Committing Code
+### Branches
+### Pull Requests
+### Testing
+### Dependencies
+## Reviewing Code
+### Some rules about Code Review
+### Steps to take during Code Review
+### Code Review Checklist
+#### User Experience
+#### Functionality
+#### Maintainability
+#### Quality
+#### Internal
+### Code Review of Dependency Updates
+#### Dependency Update Instructions
+#### Dependency Updates Checklist
+## Deployment
+## Known problems
+### ENFILE or EMFILE

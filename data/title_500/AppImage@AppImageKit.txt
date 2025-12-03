@@ -1,0 +1,8 @@
+# Contributing
+## How to contribute
+### I would like to request an AppImage for an application
+### I would like to provide an AppImage for my application
+### I would like to have my AppImage included in the AppImageHub central directory of available AppImages
+### I would like to contribute to AppImageKit development
+## Project governance
+## Rules for contributing

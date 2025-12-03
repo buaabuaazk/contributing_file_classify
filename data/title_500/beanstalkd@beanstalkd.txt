@@ -1,0 +1,5 @@
+# Contributing to beanstalkd
+## General
+## Issues
+## Good commit messages
+## Pull Requests

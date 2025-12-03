@@ -1,0 +1,7 @@
+# Code base
+## Config parsing
+## Variables resolution
+# Testing
+## testing with unittest
+## testing with bash scripts
+# Documentation

@@ -1,0 +1,11 @@
+# Contribution Guide
+## Pre submit pull request/issue flight checks
+### Is this a simple bug fix?
+### Is this an architecture improvement?
+## Workflow
+### Step 1: Fork in the cloud
+### Step 2: Clone fork to local storage and develop
+### Step 3: Create a pull request
+### Step 4: get a code review
+## Code style
+## Commit message style

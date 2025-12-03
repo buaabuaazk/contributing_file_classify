@@ -1,0 +1,9 @@
+# Contributing to Anchor
+### What branch do I work from? How do I even pull request?
+#### Feature branches
+#### Bugfix branches
+### Why won't you merge my PR?
+### I've translated Anchor to 'X' language, how do I submit this?
+### How to submit feature requests
+### How to submit issues
+### When writing your code, always follow standards

@@ -1,0 +1,11 @@
+# Contributing to AngularJS
+## <a name="coc"></a> Code of Conduct
+## <a name="requests"></a> Questions, Bugs, Features
+### <a name="question"></a> Got a Question or Problem?
+### <a name="issue"></a> Found an Issue or Bug?
+### <a name="feature"></a> Missing a Feature?
+### <a name="docs"></a> Want a Doc Fix?
+## <a name="submit"></a> Issue Submission Guidelines
+## <a name="submit-pr"></a> Pull Request Submission Guidelines
+#### After your pull request is merged
+## <a name="cla"></a> Signing the Contributor License Agreement (CLA)

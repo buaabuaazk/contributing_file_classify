@@ -1,0 +1,4 @@
+## HOW TO CONTRIBUTE TO AXEL DEVELOPMENT
+## Submitting Changes
+### Coding style
+### Licensing Rules

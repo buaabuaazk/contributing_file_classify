@@ -1,0 +1,5 @@
+# Contribution guide
+## Developing commitizen
+## Creating releases
+## Gotchas
+### Atom removes lines with just spaces, breaking tests

@@ -1,0 +1,10 @@
+# How to Contribute to Bookshelf.js
+## Development Environment Setup
+### Using Docker Containers
+### Manual Database Servers Setup
+#### MySQL
+#### PostgreSQL
+### Using a Configuration File
+#### Database Creation
+### Running the Tests
+## Publishing a New Release

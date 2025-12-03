@@ -1,0 +1,12 @@
+# Contributing to Catch2
+## Using Git(Hub)
+## Testing your changes
+## Writing documentation
+### Technicalities
+### Contents
+## Writing code
+### Formatting
+### Code constructs to watch out for
+#### Naked exceptions and exceptions-related function
+#### Unqualified usage of functions from C's stdlib
+## CoC

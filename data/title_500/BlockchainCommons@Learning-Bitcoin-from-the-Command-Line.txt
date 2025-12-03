@@ -1,0 +1,9 @@
+# Contributing
+## We Develop with Github
+## Report Bugs using Github's [issues](https://github.com/briandk/transcriptase-atom/issues)
+### Write Bug Reports with Detail, Background, and Sample Code
+## Submit Code Changes through Pull Requests
+### Use a Consistent Coding Style
+### Use [Github Flow](https://guides.github.com/introduction/flow/index.html) for Pull Requests
+### Submit Under the BSD-2-Clause Plus Patent License
+## References

@@ -1,0 +1,12 @@
+# Contributing to Sentinel
+## Before you get started
+### Code of Conduct
+### Setting up your development environment
+## Contributing
+### GitHub workflow
+### Open an issue / PR
+### Code review
+## Community
+### Contact us
+#### Mailing list
+#### Gitter

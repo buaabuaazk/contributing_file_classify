@@ -1,0 +1,19 @@
+# Contribution Guide
+## Set up a development environment
+### Step 1: Install Node.js
+### Step 2: Install yarn & lerna
+### Step 3: Fork and checkout your own Cherow repository
+### Step 4: Add the upstream source
+### Step 5: Run the tests
+## Working with Code
+### Step 1: Create a new branch<a name="step1"></a>
+### Step 2: Make your changes<a name="step2"></a>
+### Step 3: Rebase onto upstream<a name="step3"></a>
+### Step 4: Run the tests<a name="step4"></a>
+### Step 5: Double check your submission<a name="step5"></a>
+### Step 6: Push your changes<a name="step6"></a>
+### Step 7: Send the pull request<a name="step7"></a>
+## Following Up
+### Updating the Commit Message
+### Updating the Code
+### Rebasing

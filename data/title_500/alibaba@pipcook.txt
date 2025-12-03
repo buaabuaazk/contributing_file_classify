@@ -1,0 +1,5 @@
+# How to Contribute
+## Reporting Issues
+## Pull Request Guidelines
+## Git Commit Specific
+## Providing Feedback

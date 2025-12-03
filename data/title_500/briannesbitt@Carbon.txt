@@ -1,0 +1,8 @@
+# Contributing to Carbon
+## Issue Contributions
+## Code Contributions
+### Where to begin
+### Develop locally, then submit changes
+## Versioning
+### Note about Semantic Versioning and breaking changes
+### Long term support

@@ -1,0 +1,4 @@
+## How to contribute to CTFd
+#### **Did you find a bug?**
+#### **Did you write a patch that fixes a bug or implements a new feature?**
+#### **Did you fix whitespace, format code, or make a purely cosmetic patch?**

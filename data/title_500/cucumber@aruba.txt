@@ -1,0 +1,20 @@
+# Contributing to the Cucumber Aruba Project
+## Introduction
+### As a **User**
+### As a **Contributor**
+## Contributing to the Aruba project
+### Issues
+### Pull Requests
+#### Contributors
+#### Maintainers
+### Development style guidelines
+## Getting started as a "Contributor"
+### Requirements
+### Running tests
+### Installing your own gems used for development
+### Running a developer console
+### Linting
+### Building and installing your local Aruba version
+## Getting started as a "Maintainer"
+### Release Process
+### Gaining Release Karma

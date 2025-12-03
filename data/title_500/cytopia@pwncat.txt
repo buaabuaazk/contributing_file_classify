@@ -1,0 +1,6 @@
+# Contributing
+### Generel
+### Documentation
+### Packages
+###  Code
+### Other

@@ -1,0 +1,11 @@
+# Contributing
+## Reporting Issues and Asking Questions
+### Help Us Help You
+## Development
+### Setting up your environment
+### Testing, style & Linting
+### Docs
+#### Installing Gitbook
+#### Building the Docs
+#### Publishing the Docs
+### Sending a Pull Request

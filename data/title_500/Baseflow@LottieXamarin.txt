@@ -1,0 +1,3 @@
+# Contributing to Lottie
+## Finding an issue to work on
+## Setting up a development environment

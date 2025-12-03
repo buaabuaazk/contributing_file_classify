@@ -1,0 +1,12 @@
+# Contributing
+## Project Scope
+## Code License
+## Becoming a Contributor
+## Working on AngleSharp
+### Issue Discussion
+### Modifying the code
+### Code Conventions
+### Development Workflow
+### Basic Files
+### Versioning
+#### Code style

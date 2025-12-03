@@ -1,0 +1,6 @@
+# Contribution Guidelines
+## Compiler Compatibility:
+## Formatting:
+## Classes:
+## Scoping:
+## Commenting Code:

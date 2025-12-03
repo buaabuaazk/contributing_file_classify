@@ -1,0 +1,31 @@
+# Contributing
+## Types of Contributions
+### Create Cookiecutter Templates
+### Report Bugs
+### Fix Bugs
+### Implement Features
+### Write Documentation
+### Submit Feedback
+## Setting Up the Code for Local Development
+## Contributor Guidelines
+### Pull Request Guidelines
+### Coding Standards
+## Testing with tox
+## Core Committer Guide
+### Vision and Scope
+#### Command-Line Accessible
+#### API Accessible
+#### Being Jinja2-specific
+#### Extensible
+#### Fast and Focused
+#### Inclusive
+#### Stable
+#### VCS-Hosted Templates
+### Process: Pull Requests
+### Process: Issues
+### Process: Roadmap
+### Process: Pull Request merging and HISTORY.md maintenance
+### Process: Accepting Template Pull Requests
+### Process: Your own code changes
+### Responsibilities
+### Becoming a Core Committer

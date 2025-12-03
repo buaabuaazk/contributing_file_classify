@@ -1,0 +1,40 @@
+# Contributing
+## General information
+### Pull requests and different branches recommended
+### How we handle proposals
+### Two-person review
+### Developer Certificate of Origin (DCO)
+### License (MIT)
+### We are proactive
+### No trailing whitespace
+## <span id="how_to_report_vulnerabilities">Vulnerability reporting (security issues)</a>
+## Documentation changes
+## Translations
+## Criteria changes
+## Code changes
+### Ruby
+# frozen_string_literal: true
+# Copyright 2015-2017, the Linux Foundation, IDA, and the
+# CII Best Practices badge contributors
+# SPDX-License-Identifier: MIT
+### JavaScript
+### Shell
+### HTML
+### Automated tests
+### Security, privacy, and performance
+## How to check proposed changes before submitting them
+### Standard checks
+### Expected noise from 'rake'
+### Handling test failures
+### Other tools
+### Testing during continuous integration
+## Git commit messages
+## Reuse (supply chain)
+### Requirements for reused components
+#### Requirements for reused Ruby gems
+#### Requirements for reused components in general
+#### License requirements for reused components
+### Updating reused components
+#### Updating Ruby gems
+#### Updating Ruby (and handling Ruby updates)
+## Keeping up with external changes

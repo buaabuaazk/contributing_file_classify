@@ -1,0 +1,5 @@
+# Contributing to Ransack
+## Filing an issue
+## Pull requests
+### Postgres
+### MySQL

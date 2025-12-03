@@ -1,0 +1,15 @@
+# New Issues are for bug reports or feature requests only!!  Questions on how to use the grid should be posted to Stack Overflow or Gitter https://gitter.im/angular-ui/ui-grid.
+# Contributing to UI Grid
+## Developer guidelines
+## Using the issue tracker
+## Bug reports
+## Feature requests
+## Pull requests
+## <a name="commit"></a> Git Commit Guidelines
+### Commit Message Format
+### Revert
+### Type
+### Scope
+### Subject
+### Body
+### Footer

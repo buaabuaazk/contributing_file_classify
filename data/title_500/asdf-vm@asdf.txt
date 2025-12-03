@@ -1,0 +1,5 @@
+# How to Contribute to asdf
+## Did you find a bug?
+## Did you write a patch that fixes a bug?
+## Did you create a plugin for asdf?
+## Do you want to contribute the asdf documentation?

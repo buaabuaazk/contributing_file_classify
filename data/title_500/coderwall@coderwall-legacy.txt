@@ -1,0 +1,16 @@
+# Contributing
+# How to set up the environment
+## Check out our video tutorials on how to get started with developing on Coderwall
+### How to work on Coderwall using Vagrant on VirtualBox
+#### Vagrant! I already know what to do.
+#### Vagrant? VirtualBox? Let's take this one step at a time.
+# still in ~/assemblymade/coderwall
+# whoa!
+# We're not in localhost any longer... well, you get what I mean
+# we're still SSH'ed into Vbox
+## External Dependencies
+### Stripe configuration
+## Github configuration
+## How to run Coderwall locally.
+## **Protip for Contributors**
+# Code Conventions and Style Guide

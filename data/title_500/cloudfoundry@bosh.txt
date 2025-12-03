@@ -1,0 +1,4 @@
+# Contributing to BOSH
+## Contributor License Agreement
+## Creating a Local Development Release
+## Commit messages

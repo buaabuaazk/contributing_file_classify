@@ -1,0 +1,5 @@
+# How to contribute to Phinx
+## Considerations
+## Getting Started
+## Getting Started with docker
+## Documentation

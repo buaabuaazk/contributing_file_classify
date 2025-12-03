@@ -1,0 +1,5 @@
+# Contributing to Sucrase
+## Intro
+## What kinds of contributions make sense?
+## Getting started
+## Code structure

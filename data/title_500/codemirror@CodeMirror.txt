@@ -1,0 +1,6 @@
+# How to contribute
+## Getting help
+## Submitting bug reports
+### Reporting bugs effectively
+## Contributing code
+### Coding standards

@@ -1,0 +1,6 @@
+## Contributing
+## Code of Conduct
+### Where do I go from here?
+### How Do I Submit A (Good) Bug Report?
+## Submitting changes
+## Coding conventions

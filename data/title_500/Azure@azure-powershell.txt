@@ -1,0 +1,18 @@
+# Contributing to Azure PowerShell
+## Basics
+## Before Starting
+### Onboarding
+### Code of Conduct
+### GitHub Basics
+#### GitHub Workflow
+#### Forking the Azure/azure-powershell repository
+## Filing Issues
+## Submitting Changes
+### Pull Requests
+### Pull Request Guidelines
+#### General guidelines
+#### Testing guidelines
+#### Cmdlet guidelines
+#### Parameter guidelines
+#### Piping guidelines
+#### Module guidelines

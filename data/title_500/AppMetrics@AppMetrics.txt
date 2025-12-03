@@ -1,0 +1,6 @@
+## How to contribute to App Metrics
+### **Coding Style**
+### **Have you found a bug?**
+### **Did you write a patch that fixes a bug?**
+### **Requesting a new feature?**
+### **Contributing to the documentation**

@@ -1,0 +1,10 @@
+# How to Contribute #
+## GitHub pull requests ##
+## If you want to build the project locally ##
+## If you want to review open issues... ##
+## If you discovered a defect... ##
+## Contributing via Patch ##
+## GitHub recipes for Pull Requests ##
+### Squash your changes ###
+### Rebase your pull request ###
+### Fix a bad merge ###

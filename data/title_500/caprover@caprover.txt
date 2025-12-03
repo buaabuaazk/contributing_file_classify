@@ -1,0 +1,15 @@
+# Before Contributing
+## IMPORTANT: CapRover Goals & Scope
+## Pull Request Process
+## Running dev environment
+### front end development:
+### CLI development:
+### Backend development:
+### Security Issues
+## Code of Conduct
+### Our Pledge
+### Our Standards
+### Our Responsibilities
+### Scope
+### Enforcement
+### Attribution

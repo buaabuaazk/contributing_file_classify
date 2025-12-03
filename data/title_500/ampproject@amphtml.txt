@@ -1,0 +1,9 @@
+# Contributing to AMP HTML
+## Report a bug
+## Make a suggestion
+## Contribute code/features
+## Get started with open source
+## Ongoing participation
+### Discussion channels
+### Working groups
+### Weekly design reviews

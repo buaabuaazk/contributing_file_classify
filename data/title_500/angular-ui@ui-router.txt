@@ -1,0 +1,8 @@
+# Report an Issue
+#### Purple Labels
+# Contribute
+# Developing
+## Fetch the source code
+## Install dependencies
+## Link the directories
+## Develop

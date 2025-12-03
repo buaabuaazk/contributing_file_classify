@@ -1,0 +1,6 @@
+# How to contribute
+## Setup
+### How does Danger JS work?
+### What is the TODO?
+### Releasing a new version of Danger
+## License, Contributor's Guidelines and Code of Conduct

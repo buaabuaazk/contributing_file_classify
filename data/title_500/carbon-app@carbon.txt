@@ -1,0 +1,3 @@
+# Contributing
+### Automated Setup
+### Adding themes/languages

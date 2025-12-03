@@ -1,0 +1,6 @@
+# Contribute to Doris
+## Initial contact
+## Doris's code and documentation
+## Improving documentation
+## If a Bug or problem is found
+## Modify the code and submit PR (Pull Request)

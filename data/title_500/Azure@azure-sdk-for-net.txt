@@ -1,0 +1,32 @@
+# Contributing
+# Prerequisites:
+## GENERAL THINGS TO KNOW:
+# Management Libraries
+## TO BUILD:
+### Single Service from Command Line
+### Create single nuget package
+## TO TEST:
+### Using Visual Studio:
+### Using the command line:
+### Non-Windows command line build
+### Update build tools
+## TO CREATE NEW LIBRARY USING TEMPLATE
+# Client Libraries
+## TO BUILD:
+### Single Service from Command Line
+### Single Service from Visual Studio
+### All Client Services from Command Line
+### Support for Visual Studio Code & Dev Containers
+## TO TEST:
+### Single Service from Command Line
+### Single Service from Visual Studio
+### All Client Services from Command Line
+### Live testing
+### Testing Against Latest Versions of Client Libraries
+## Public API additions
+## Updating Sample Snippets
+## Updating Source on Build
+## API Compatibility Verification
+### How it works
+### Releasing a new version of a GA'ed libary
+## Dev Feed

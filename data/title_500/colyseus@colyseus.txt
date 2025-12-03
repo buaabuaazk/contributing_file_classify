@@ -1,0 +1,5 @@
+## How to contribute to Colyseus
+#### **Did you find a bug?**
+#### **Did you write a patch that fixes a bug?**
+#### **Did you fix whitespace, format code, or make a purely cosmetic patch?**
+#### **Do you have questions about the source code?**

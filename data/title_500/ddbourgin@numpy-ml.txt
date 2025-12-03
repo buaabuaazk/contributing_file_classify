@@ -1,0 +1,7 @@
+## Contributing
+### General guidelines
+### Specific guidelines
+#### I have a new model / model component to contribute
+#### I have a major new enhancement / adjustment that will affect multiple models
+#### I found a bug
+#### I fixed a bug

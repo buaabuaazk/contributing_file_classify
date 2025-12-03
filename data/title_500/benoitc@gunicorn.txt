@@ -1,0 +1,15 @@
+# Contributing to Gunicorn
+## Contribution guidelines
+### Pull requests are always welcome
+### Discuss your design on the mailing list
+### Create issues...
+### ...but check for existing issues first!
+### Conventions
+## Decision process
+### How are decisions made?
+### Who decides what?
+### I'm a maintainer, should I make pull requests too?
+### Who assigns maintainers?
+### How can I become a maintainer?
+### What are a maintainer's responsibility?
+### How is this process changed?

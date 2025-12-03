@@ -1,0 +1,3 @@
+# Contributing to ArrayFire #
+## Reporting Issues ##
+## Contributing Code ##

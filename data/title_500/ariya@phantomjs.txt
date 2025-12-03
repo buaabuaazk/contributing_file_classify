@@ -1,0 +1,7 @@
+# Contribution Guide
+## For The Impatients
+## Communicate
+## Get Ready
+### Refer the Issue
+### Use Feature Branch
+## Review and Merge

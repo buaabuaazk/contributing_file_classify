@@ -1,0 +1,5 @@
+# Rules for Pull Requests
+## Submitting new packages
+## Updating existing packages
+### Upstream x86 Arch Linux packages
+### Arch Linux ARM specific packages

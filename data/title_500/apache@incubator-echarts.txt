@@ -1,0 +1,7 @@
+# Contributing
+## What can you do for the ECharts community?
+## Issues
+## Release Milestone Discussion
+## Pull Requests
+## How to Debug ECharts
+## Some hints about using code from other authors

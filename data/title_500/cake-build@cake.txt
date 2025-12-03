@@ -1,0 +1,15 @@
+# Contribution Guidelines
+## Prerequisites
+## Definition of trivial contributions
+## Code
+### Code style
+### Dependencies
+### Unit tests
+## Contributing process
+### Get buyoff or find open community issues or features
+### Set up your environment
+### Prepare commits
+### Submit pull request
+### Respond to feedback on pull request
+## Other general information
+## Acknowledgement

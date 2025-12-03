@@ -1,0 +1,9 @@
+# Contributing to Azkaban
+## Reporting issues
+## Pull requests
+## IDE setup
+## Style guides
+### New line at the end of a file
+### todo style
+## Coding conventions
+# Misc

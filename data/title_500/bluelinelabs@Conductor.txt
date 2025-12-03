@@ -1,0 +1,9 @@
+# Community Contribution Guidelines
+#### Development Process
+#### Testing
+#### Ownership
+#### Why do we give out push access?
+#### How can we help you get comfortable contributing?
+#### Our expectations on you as a contributor
+#### What about if you have problems that cannot be discussed in a public issue?
+#### This is a different way to handle open source! Where did it come from?

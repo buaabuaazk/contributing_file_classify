@@ -1,0 +1,15 @@
+# Contributing to Linaria
+## [Code of Conduct](/CODE_OF_CONDUCT.md)
+## Our Development Process
+### Development workflow
+### Working on the website
+### Commit message convention
+### Linting and tests
+### Sending a pull request
+## How to try a development build of Linaria in a project
+### Debugging and deep dive into babel plugin
+### Publishing a release
+## Reporting New Issues
+## How to Get in Touch
+## Code Conventions
+## License

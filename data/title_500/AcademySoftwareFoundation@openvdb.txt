@@ -1,0 +1,17 @@
+# Overview
+# Project roles
+## Contributor
+### Process for becoming a contributor
+### Legal Requirements
+#### License
+#### Contributor License Agreements
+#### Commit Sign-Off
+## Committer
+### Process for becoming a committer
+### Committer responsibilities
+### When does a committer lose committer status?
+## Technical Steering Committee (TSC) member
+## Current TSC members
+# Release Process
+# Conflict resolution and voting
+# Communication

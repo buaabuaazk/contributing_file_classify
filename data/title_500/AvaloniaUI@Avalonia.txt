@@ -1,0 +1,6 @@
+# Contributing to Avalonia
+## Before You Start
+## Style
+## Pull requests
+## Tests
+## Code of Conduct

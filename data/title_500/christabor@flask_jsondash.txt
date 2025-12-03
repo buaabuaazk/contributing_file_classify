@@ -1,0 +1,5 @@
+## Filing issues
+### Requirements
+## Contributing
+### A couple requirements:
+### If adding new chart types, examples, etc... you must:

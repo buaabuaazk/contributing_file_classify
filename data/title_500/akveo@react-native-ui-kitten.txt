@@ -1,0 +1,18 @@
+# Contributing to UI Kitten
+## Code of Conduct
+## Got a Question or Problem?
+## Found an Issue?
+## Want a Feature?
+### Submitting an Issue
+### Submitting a Pull Request (PR)
+#### After your pull request is merged
+## Coding Rules
+## Debugging your changes
+## Commit Message Guidelines
+### Commit Message Format
+### Revert
+### Type
+### Scope
+### Subject
+### Body
+### Footer

@@ -1,0 +1,4 @@
+## If you’re looking for help or have a question
+## Reporting bugs
+## Requesting new features or improvements
+## Contributing code or documentation

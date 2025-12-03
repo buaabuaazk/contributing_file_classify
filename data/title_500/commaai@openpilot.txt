@@ -1,0 +1,8 @@
+# How to contribute
+## Getting Started
+## Testing
+### Local Testing
+### Automated Testing
+### Code Style and Linting
+## Car Ports (openpilot)
+## Pull Requests

@@ -1,0 +1,1445 @@
+找到 493 个同名文件
+
+============================================================
+
+[不同] (12/493) AcademySoftwareFoundation@openvdb.xlsx
+  生成文件行数: 57, sheets_500文件行数: 57
+  行 23 不同:
+    生成文件: Every commit must be signed off.  That is, every commit log message
+must include a “Signed-off-by” line (generated, for example, with
+“git commit --signoff”), indicating that the committer wrote the
+code and has the right to release it under the
+Mozilla Public License, version 2.0
+license. See https://github.com/AcademySoftwareFoundation/tac/blob/master/process/contributing.md#contribution-sign-off for more information on this requirement.
+    sheets_500: Every commit must be signed off.  That is, every commit log message
+must include a Signed-off-by
+git commit --signoff
+code and has the right to release it under the
+Mozilla Public License, version 2.0
+license. See https://github.com/AcademySoftwareFoundation/tac/blob/master/process/contributing.md#contribution-sign-off for more information on this requirement.
+  共 1 行内容不同
+
+[不同] (18/493) AngleSharp@AngleSharp.xlsx
+  生成文件行数: 74, sheets_500文件行数: 74
+  行 41 不同:
+    生成文件: 3.  Create a new branch—please don't work in the master branch directly. It is reserved for releases. We recommend naming the branch to match the issue being addressed (feature/#777 or issue-777).
+    sheets_500: 3.  Create a new branchmaster branch directly. It is reserved for releases. We recommend naming the branch to match the issue being addressed (feature/#777 or issue-777).
+  共 1 行内容不同
+
+[不同] (30/493) Automattic@jetpack.xlsx
+  生成文件行数: 24, sheets_500文件行数: 24
+  行 4 不同:
+    生成文件: Developers of all levels can help — whether you can barely recognize a filter (or don’t know what that means) or you’ve already authored your own plugins, there are ways for you to pitch in.
+    sheets_500: Developers of all levels can help
+  行 8 不同:
+    生成文件: If you find a bug, please file a GitHub issue. If you want to prefix the title with a “Question:”, “Bug:”, or the general area of the application, that would be helpful, but by no means mandatory. If you have write access, add the appropriate labels.
+    sheets_500: If you find a bug, please file a GitHub issue. If you want to prefix the title with a
+  行 9 不同:
+    生成文件: If you’re filing a bug, specific steps to reproduce are helpful. Please include the URL of the page that has the bug, along with what you expected to see and what happened instead. You can check our recommendations to create great bug reports here.
+    sheets_500: If youcheck our recommendations to create great bug reports here.
+  行 18 不同:
+    生成文件: We encourage you to ask for help at any point. We want your first experience with Jetpack to be a good one, so don’t be shy. If you’re wondering why something is the way it is, or how a decision was made, you can create an issue and prefix it with “Question:”.
+    sheets_500: We encourage you to ask for help at any point. We want your first experience with Jetpack to be a good one, so don’t be shy. If you’re wondering why something is the way it is, or how a decision was made, you can create an issue and prefix it with “Question:”.
+
+  共 4 行内容不同
+
+[不同] (32/493) Automattic@simplenote-electron.xlsx
+  生成文件行数: 60, sheets_500文件行数: 53
+  行 19 不同:
+    生成文件: export class MyComponent extends Component<Props> {
+…
+}
+    sheets_500: export class MyComponent extends Component<Props> {
+  行 30 不同:
+    生成文件: …
+    sheets_500: Connecting React components to Redux
+  行 31 不同:
+    生成文件: <input ref={this.entry}>
+    sheets_500: Components shall use the helpers from state in combination with the defined component types to provide typing.
+  行 32 不同:
+    生成文件: …
+}
+    sheets_500: import * as S from '../state';
+  行 33 不同:
+    生成文件: Connecting React components to Redux
+    sheets_500: Prefer the object form of mapDispatchToProps over the function form unless you can't avoid it.
+  行 34 不同:
+    生成文件: Components shall use the helpers from state in combination with the defined component types to provide typing.
+    sheets_500: If your prop-mapping functions don't depend on OwnProps it is safe to leave that out of the type annotation.
+  行 35 不同:
+    生成文件: import * as S from '../state';
+    sheets_500: Creating Reducers
+  行 36 不同:
+    生成文件: …
+    sheets_500: When adding new values into the global Redux app state we need to create a reducer to manage that data type.
+Use the Reducer helper type to define the type of the property being added to state.
+  行 37 不同:
+    生成文件: const mapStateToProps: S.MapState<StateProps, OwnProps> = (state, ownProps) => ({
+notes: ownProps.displayMode === 'expanded'
+? state.ui.filteredNotes
+: state.ui.filteredNotes.slice(0, 10)
+})
+    sheets_500: import * as A from '../action-types';
+import * as T from '../../types';
+  行 38 不同:
+    生成文件: const mapDispatchToProps: S.DispatchProps<DispatchProps> = {
+createNote: () => actionCreators.newNote({content: ''}),
+trashNote,
+}
+    sheets_500: const listMode = A.Reducer<T.ListDisplayMode> = (state = 'compact', action) => {
+switch (action.type) {
+case 'SET_LIST_DISPLAY_MODE':
+return action.displayMode;
+default:
+return state;
+}
+}
+  行 39 不同:
+    生成文件: export default connect(mapStateToProps, mapDispatchToProps)(MyComponent);
+    sheets_500: const loginAttempts: A.Reducer<number> = (state = 0, action) => {
+switch (action.type) {
+case 'LOGIN_SUBMIT':
+return state + 1;
+case 'SET_AUTH':
+return action.status === 'authorized' ? 0 : state;
+default:
+return state;
+}
+}
+  行 40 不同:
+    生成文件: Prefer the object form of mapDispatchToProps over the function form unless you can't avoid it.
+    sheets_500: const selectedNote: A.Reducer<T.NoteEntity[] | null> = (state = null, action) => {
+switch (action.type) {
+case 'CREATE_NOTE':
+return makeNote();
+  行 41 不同:
+    生成文件: If your prop-mapping functions don't depend on OwnProps it is safe to leave that out of the type annotation.
+    sheets_500: case 'TRASH_NOTE':
+return null;
+  行 42 不同:
+    生成文件: Creating Reducers
+    sheets_500: case 'FILTER_NOTES':
+return action.filteredNotes.has(state) ? state : null;
+  行 43 不同:
+    生成文件: When adding new values into the global Redux app state we need to create a reducer to manage that data type.
+Use the Reducer helper type to define the type of the property being added to state.
+    sheets_500: default:
+return state;
+}
+}
+  行 44 不同:
+    生成文件: import * as A from '../action-types';
+import * as T from '../../types';
+    sheets_500: Creating Action Types
+  行 45 不同:
+    生成文件: const listMode = A.Reducer<T.ListDisplayMode> = (state = 'compact', action) => {
+switch (action.type) {
+case 'SET_LIST_DISPLAY_MODE':
+return action.displayMode;
+default:
+return state;
+}
+}
+    sheets_500: Each state transition in the app should follow a semantically-oriented Redux ction.
+When creating new actions add the type specifying that action in action-types.
+  行 46 不同:
+    生成文件: const loginAttempts: A.Reducer<number> = (state = 0, action) => {
+switch (action.type) {
+case 'LOGIN_SUBMIT':
+return state + 1;
+case 'SET_AUTH':
+return action.status === 'authorized' ? 0 : state;
+default:
+return state;
+}
+}
+    sheets_500: import * as T from '../types';
+  行 47 不同:
+    生成文件: const selectedNote: A.Reducer<T.NoteEntity[] | null> = (state = null, action) => {
+switch (action.type) {
+case 'CREATE_NOTE':
+return makeNote();
+    sheets_500: export type CreateNote = Action<'CREATE_NOTE'>;
+export type TrashNote = Action<'TRASH_NOTE', { noteId: T.EntityId }>;
+export type FilterNotes = Action<'FILTER_NOTES', { notes: T.NoteEntity[] }>;
+export type SetListMode = Action<
+'SET_LIST_DISPLAY_MODE',
+{ displayMode: T.ListDisplayMode; irrelevantProp: boolean }
+>;
+  行 48 不同:
+    生成文件: case 'TRASH_NOTE':
+return null;
+    sheets_500: After defining the named action type add it to the type of "any possible action."
+  行 49 不同:
+    生成文件: case 'FILTER_NOTES':
+return action.filteredNotes.has(state) ? state : null;
+    sheets_500: export type ActionType = CreateNote | TrashNote | FilterNotes | SetListMode;
+  行 50 不同:
+    生成文件: default:
+return state;
+}
+}
+    sheets_500: Creating Action Creators
+  行 51 不同:
+    生成文件: Creating Action Types
+    sheets_500: Action creators should return dispatch-able actions.
+We should not create new thunk-returning actions.
+We shall annotate our action-creators with the ActionCreator helper type and specify the types of actions it might return for dispatch.
+  行 52 不同:
+    生成文件: Each state transition in the app should follow a semantically-oriented Redux ction.
+When creating new actions add the type specifying that action in action-types.
+    sheets_500: import * as A from '../action-types';
+import * as T from '../../types';
+  行 53 不同:
+    生成文件: import * as T from '../types';
+    sheets_500: const setListMode: A.ActionCreator<A.SetListMode> = (
+mode: T.ListDisplaymode
+) => ({
+type: 'SET_LIST_DISPLAY_MODE',
+displayMode: mode,
+});
+  行 54 不同:
+    生成文件: export type CreateNote = Action<'CREATE_NOTE'>;
+export type TrashNote = Action<'TRASH_NOTE', { noteId: T.EntityId }>;
+export type FilterNotes = Action<'FILTER_NOTES', { notes: T.NoteEntity[] }>;
+export type SetListMode = Action<
+'SET_LIST_DISPLAY_MODE',
+{ displayMode: T.ListDisplayMode; irrelevantProp: boolean }
+>;
+    sheets_500: const jumbleApp: A.ActionCreator<A.CreateNote | A.TrashNote> = () =>
+Math.random() > 0.5
+? { type: 'CREATE_NOTE' }
+: { type: 'TRASH_NOTE', noteId: randomNoteId() };
+  行 55 不同:
+    生成文件: After defining the named action type add it to the type of "any possible action."
+    sheets_500: [缺失]
+  行 56 不同:
+    生成文件: export type ActionType = CreateNote | TrashNote | FilterNotes | SetListMode;
+    sheets_500: [缺失]
+  行 57 不同:
+    生成文件: Creating Action Creators
+    sheets_500: [缺失]
+  行 58 不同:
+    生成文件: Action creators should return dispatch-able actions.
+We should not create new thunk-returning actions.
+We shall annotate our action-creators with the ActionCreator helper type and specify the types of actions it might return for dispatch.
+    sheets_500: [缺失]
+  行 59 不同:
+    生成文件: import * as A from '../action-types';
+import * as T from '../../types';
+    sheets_500: [缺失]
+  行 60 不同:
+    生成文件: const setListMode: A.ActionCreator<A.SetListMode> = (
+mode: T.ListDisplaymode
+) => ({
+type: 'SET_LIST_DISPLAY_MODE',
+displayMode: mode,
+});
+    sheets_500: [缺失]
+  行 61 不同:
+    生成文件: const jumbleApp: A.ActionCreator<A.CreateNote | A.TrashNote> = () =>
+Math.random() > 0.5
+? { type: 'CREATE_NOTE' }
+: { type: 'TRASH_NOTE', noteId: randomNoteId() };
+    sheets_500: [缺失]
+  共 33 行内容不同
+
+[不同] (45/493) Bash-it@bash-it.xlsx
+  生成文件行数: 40, sheets_500文件行数: 40
+  行 12 不同:
+    生成文件: - For complex changes, try to squash your changes into a single commit before
+pushing code. Once you've pushed your code and opened a PR, please refrain
+from force-pushing changes to the PR branch – remember, Bash-it is a
+distributed project and your branch may be in use already.
+    sheets_500: - For complex changes, try to squash your changes into a single commit before
+pushing code. Once you've pushed your code and opened a PR, please refrain
+from force-pushing changes to the PR branch
+distributed project and your branch may be in use already.
+  共 1 行内容不同
+
+[不同] (50/493) BlazeSoftware@atoms.xlsx
+  生成文件行数: 18, sheets_500文件行数: 18
+  行 16 不同:
+    生成文件: Be considerate: Your work will be used by other people, and you in turn will depend on the work of others. Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions. Remember that we’re a world-wide community, so you might not be communicating in someone else’s primary language.
+    sheets_500: Be considerate: Your work will be used by other people, and you in turn will depend on the work of others. Any decision you take will affect users and colleagues, and you should take those consequences into account when making decisions. Remember that we
+  行 17 不同:
+    生成文件: Be respectful: Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It’s important to remember that a community where people feel uncomfortable or threatened is not a productive one.
+    sheets_500: Be respectful: Not all of us will agree all the time, but disagreement is no excuse for poor behavior and poor manners. We might all experience some frustration now and then, but we cannot allow that frustration to turn into a personal attack. It
+  行 18 不同:
+    生成文件: Be careful in the words that we choose: we are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behavior aren’t acceptable.
+    sheets_500: Be careful in the words that we choose: we are a community of professionals, and we conduct ourselves professionally. Be kind to others. Do not insult or put down other participants. Harassment and other exclusionary behavior aren
+  行 19 不同:
+    生成文件: Try to understand why we disagree: Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. Remember that we’re different. The strength of our community comes from its diversity, people from a wide range of backgrounds. Different people have different perspectives on issues. Being unable to understand why someone holds a viewpoint doesn’t mean that they’re wrong. Don’t forget that it is human to err and blaming each other doesn’t get us anywhere. Instead, focus on helping to resolve issues and learning from mistakes.
+    sheets_500: Try to understand why we disagree: Disagreements, both social and technical, happen all the time. It is important that we resolve disagreements and differing views constructively. Remember that we
+  共 4 行内容不同
+
+[不同] (55/493) BoostIO@Boostnote.xlsx
+  生成文件行数: 70, sheets_500文件行数: 70
+  行 64 不同:
+    生成文件: Contributing to Boostnote (Français)
+    sheets_500: Contributing to Boostnote (Fran
+  行 65 不同:
+    生成文件: Lorsque vous signalez un problème ou un bug
+    sheets_500: Lorsque vous signalez un probl
+  行 66 不同:
+    生成文件: Il n'y a pas de modèle pour un signaler problème. Mais nous vous demandons :
+    sheets_500: Il n'y a pas de mod
+  行 67 不同:
+    生成文件: Merci de founir une capture d'écran de Boostnote avec l'outil de développement ouvert
+(vous pouvez l'ouvrir avec Ctrl+Shift+I)
+    sheets_500: Merci de founir une capture d'
+(vous pouvez l'ouvrir avec Ctrl+Shift+I)
+  行 69 不同:
+    生成文件: À propos des droits d'auteurs et des requêtes (Pull Request)
+    sheets_500: Pull Request)
+  行 70 不同:
+    生成文件: Si vous faites une requête, vous acceptez de transmettre les modifications du code à BoostIO.
+    sheets_500: Si vous faites une requ
+  行 71 不同:
+    生成文件: Cela ne veut pas dire que Boostnote deviendra une application payante. Si nous voulons gagner de l'argent, nous trouverons un autre moyen, comme un service de sauvegarde sur le Cloud, une application mobile ou des options payantes.
+Puisque GPL v3 est trop strict pour être compatible avec n'importe quelle autre licence, nous pensons avoir un jour besoin de la remplacer avec une licence bien plus libre (comme BSD, MIT).
+    sheets_500: Cela ne veut pas dire que Boostnote deviendra une application payante. Si nous voulons gagner de l'argent, nous trouverons un autre moyen, comme un service de sauvegarde sur le Cloud, une application mobile ou des options payantes.
+Puisque GPL v3 est trop strict pour
+  共 7 行内容不同
+
+[不同] (71/493) Chocobozzz@PeerTube.xlsx
+  生成文件行数: 87, sheets_500文件行数: 87
+  行 31 不同:
+    生成文件: PeerTube's website is joinpeertube.org, where people can learn about the project and how it works – note that it is not a PeerTube instance, but rather the project's homepage.
+    sheets_500: PeerTube's website is joinpeertube.org, where people can learn about the project and how it works
+  共 1 行内容不同
+
+[不同] (75/493) CloudCompare@CloudCompare.xlsx
+  生成文件行数: 83, sheets_500文件行数: 83
+  行 7 不同:
+    生成文件: - static variables: should always begin with prefix s_ (in lower case – like s_defaultFilename
+    sheets_500: - static variables: should always begin with prefix s_ (in lower case s_defaultFilename
+  行 9 不同:
+    生成文件: - classes: should always begin with prefix cc (in lower case – like ccConsole)
+    sheets_500: - classes: should always begin with prefix cc (in lower case ccConsole)
+  行 23 不同:
+    生成文件: - Filenames shouldn’t contain any space character. Use underscore instead.
+    sheets_500: - Filenames shouldn
+  行 33 不同:
+    生成文件: For avoiding incompatible syntax with Unix environments, the following rules must be respected:
+¬	use only "/" for include paths.
+    sheets_500: For avoiding incompatible syntax with Unix environments, the following rules must be respected:
+  行 46 不同:
+    生成文件: 1.  Simply “copy” and paste the qDummyPlugin folder it in the same directory (trunk\plugins)
+    sheets_500: 1.  Simply qDummyPlugin folder it in the same directory (trunk\plugins)
+  行 47 不同:
+    生成文件: 2.  You should see now a new folder (“copy of qDummyPlugin” or “copie de qDummyPLugin” in French)
+    sheets_500: 2.  You should see now a new folder (
+  行 48 不同:
+    生成文件: 3.  Rename this directory with you own plugin name (for instance “qMyPlygin” for this tutorial).
+    sheets_500: 3.  Rename this directory with you own plugin name (for instance
+  行 59 不同:
+    生成文件: - Replace all occurrences of DUMMY with your plugin name (don’t forget any or conflicts may occur with existing CMake variables
+    sheets_500: - Replace all occurrences of DUMMY with your plugin name (don
+  共 8 行内容不同
+
+[不同] (77/493) CocoaPods@CocoaPods.xlsx
+  生成文件行数: 39, sheets_500文件行数: 39
+  行 2 不同:
+    生成文件: Do’s and Don’ts
+    sheets_500: Do
+  行 5 不同:
+    生成文件: - Only file tickets about the CocoaPods tool itself. This includes CocoaPods,
+CocoaPods/Core, and Xcodeproj.
+If your question is regarding a library (to be) distributed through CocoaPods, refer to the spec repo.
+If your question is “How do I […]”, then please ask on StackOverflow or our mailing-list.
+    sheets_500: - Only file tickets about the CocoaPods tool itself. This includes CocoaPods,
+CocoaPods/Core, and Xcodeproj.
+If your question is regarding a library (to be) distributed through CocoaPods, refer to the spec repo.
+If your question is StackOverflow or our mailing-list.
+  行 9 不同:
+    生成文件: - Do not litter. Don’t add +1’s unless specifically asked for and don’t discuss offtopic issues.
+    sheets_500: - Do not litter. Donunless specifically asked for and don
+  行 39 不同:
+    生成文件: No Brown M&M’s
+    sheets_500: No Brown M&M
+  共 4 行内容不同
+
+[不同] (83/493) CookPete@react-player.xlsx
+  生成文件行数: 12, sheets_500文件行数: 12
+  行 12 不同:
+    生成文件: This project uses karma with mocha and chai for testing in the browser. Be sure to test ReactPlayer after making changes and, if you’re feeling generous, add some tests of your own.
+    sheets_500: This project uses karma with mocha and chai for testing in the browser. Be sure to test ReactPlayer after making changes and, if you
+  共 1 行内容不同
+
+[不同] (95/493) abseil@abseil-cpp.xlsx
+  生成文件行数: 37, sheets_500文件行数: 37
+  行 9 不同:
+    生成文件: Potential contributors sometimes ask us if the Abseil project is the appropriate
+home for their utility library code or for specific functions implementing
+missing portions of the standard. Often, the answer to this question is "no".
+We’d like to articulate our thinking on this issue so that our choices can be
+understood by everyone and so that contributors can have a better intuition
+about whether Abseil might be interested in adopting a new library.
+    sheets_500: Potential contributors sometimes ask us if the Abseil project is the appropriate
+home for their utility library code or for specific functions implementing
+missing portions of the standard. Often, the answer to this question is "no".
+We
+understood by everyone and so that contributors can have a better intuition
+about whether Abseil might be interested in adopting a new library.
+  共 1 行内容不同
+
+[不同] (111/493) addyosmani@critical.xlsx
+  生成文件行数: 4, sheets_500文件行数: 4
+  行 4 不同:
+    生成文件: 2.  Working on a patch? File a bug at https://github.com/addyosmani/critical/issues (if there
+isn’t one already). If your patch is going to be large it might be a good idea
+to get the discussion started early. We are happy to discuss it in a new issue beforehand.
+    sheets_500: 2.  Working on a patch? File a bug at https://github.com/addyosmani/critical/issues (if there
+isn
+to get the discussion started early. We are happy to discuss it in a new issue beforehand.
+  共 1 行内容不同
+
+[不同] (119/493) airbnb@react-sketchapp.xlsx
+  生成文件行数: 48, sheets_500文件行数: 48
+  行 5 不同:
+    生成文件: For support or usage questions like “how do I do X with react-sketchapp” and “my code doesn't work”, please search and ask on StackOverflow with a react-sketchapp tag first.
+    sheets_500: For support or usage questions like StackOverflow with a react-sketchapp tag first.
+  行 39 不同:
+    生成文件: For non-trivial changes, please open an issue with a proposal for a new feature or refactoring before starting work — we don't want you to waste your time on a pull request that won't be accepted.
+    sheets_500: For non-trivial changes, please open an issue with a proposal for a new feature or refactoring before starting work
+  共 2 行内容不同
+
+[不同] (130/493) alanmcgovern@monotorrent.xlsx
+  生成文件行数: 32, sheets_500文件行数: 31
+  行 21 不同:
+    生成文件: 0
+    sheets_500: The code of the Tracker is located in MonoTorrent.Tracker. There is one sample Tracker implementation
+in MonoTorrent.TrackerApp.
+  行 22 不同:
+    生成文件: The code of the Tracker is located in MonoTorrent.Tracker. There is one sample Tracker implementation
+in MonoTorrent.TrackerApp.
+    sheets_500: The Tracker is a piece of Software which listens for HttpRequests. Each Request can either be an Announce
+or Scrape request. Therefore the Tracker needs code which handles HttpRequests. The Tracker was programmed
+in such a way that it is independent of the http handling code. The http handling code is called Frontend.
+There are currently two Frontends implemented. The first uses the class HttpListener. This implementation
+got most attention. The second one uses the Asp.Net infrastructe and the HttpHandles classes. It therefore
+could be used in xsp2, mod_mono or even in IIS. But the second implementation was just a proof of concept
+and is not tested but should be functional. There exists and Frontend directory which contains all the
+Frontend handling code.
+  行 23 不同:
+    生成文件: The Tracker is a piece of Software which listens for HttpRequests. Each Request can either be an Announce
+or Scrape request. Therefore the Tracker needs code which handles HttpRequests. The Tracker was programmed
+in such a way that it is independent of the http handling code. The http handling code is called Frontend.
+There are currently two Frontends implemented. The first uses the class HttpListener. This implementation
+got most attention. The second one uses the Asp.Net infrastructe and the HttpHandles classes. It therefore
+could be used in xsp2, mod_mono or even in IIS. But the second implementation was just a proof of concept
+and is not tested but should be functional. There exists and Frontend directory which contains all the
+Frontend handling code.
+    sheets_500: There is also a Backend part of the Tracker. The backend is responsible for storing the Informations per
+Torrent which should be Announced to the peers. There is currently one Backend implementation which uses
+the .Net internal Datastructes List<> and Dictionary<> called SimpleTorrentManager. A Backend needs to
+implement the ITorrentManager interface.
+  行 24 不同:
+    生成文件: There is also a Backend part of the Tracker. The backend is responsible for storing the Informations per
+Torrent which should be Announced to the peers. There is currently one Backend implementation which uses
+the .Net internal Datastructes List<> and Dictionary<> called SimpleTorrentManager. A Backend needs to
+implement the ITorrentManager interface.
+    sheets_500: If you would like to start the Tracker the TrackerEngine is the class you would like to use. The sequence
+below is enough to start the Tracker:
+  行 25 不同:
+    生成文件: If you would like to start the Tracker the TrackerEngine is the class you would like to use. The sequence
+below is enough to start the Tracker:
+    sheets_500: TrackerEngine engine = TrackerEngine.Instance
+engine.Address = "127.0.0.1";
+engine.Port = 10000;
+engine.Frontend = TrackerFrontend.InternalHttp;
+engine.Start();
+  行 26 不同:
+    生成文件: TrackerEngine engine = TrackerEngine.Instance
+engine.Address = "127.0.0.1";
+engine.Port = 10000;
+engine.Frontend = TrackerFrontend.InternalHttp;
+engine.Start();
+    sheets_500: Adding Torrents is easy too. Just get an Tracker instance and call AddTorrent:
+  行 27 不同:
+    生成文件: Adding Torrents is easy too. Just get an Tracker instance and call AddTorrent:
+    sheets_500: Torrent t = new Torrent();
+t.LoadTorrent(path);
+TrackerEngine.Instance.Tracker.AddTorrent(t);
+  行 28 不同:
+    生成文件: Torrent t = new Torrent();
+t.LoadTorrent(path);
+TrackerEngine.Instance.Tracker.AddTorrent(t);
+    sheets_500: The two code snippets are enough to start a simple tracker. If you would like to tune the Tracker to use
+less Bandwidth you can set various things in the Tracker instance. One such thing would be to use the
+compact response format:
+  行 29 不同:
+    生成文件: The two code snippets are enough to start a simple tracker. If you would like to tune the Tracker to use
+less Bandwidth you can set various things in the Tracker instance. One such thing would be to use the
+compact response format:
+    sheets_500: Tracker.Instance.AllowNonCompact = true;
+  行 30 不同:
+    生成文件: Tracker.Instance.AllowNonCompact = true;
+    sheets_500: The other place where you can tune is to implement the IIntervalAlgorithm. An implementor can controll at
+which rate the peers should request an Announce or Scrape. Currently we have an static implementation
+which uses static defaults taken from the original BitTorrent implementation. It's even possible to higher
+the intervals based on the number of peers using the Torrent.
+  行 31 不同:
+    生成文件: The other place where you can tune is to implement the IIntervalAlgorithm. An implementor can controll at
+which rate the peers should request an Announce or Scrape. Currently we have an static implementation
+which uses static defaults taken from the original BitTorrent implementation. It's even possible to higher
+the intervals based on the number of peers using the Torrent.
+    sheets_500: Tracker.cs is the code where everything is glued together. It is something like the heart of the Tracker
+implementation.
+  行 32 不同:
+    生成文件: Tracker.cs is the code where everything is glued together. It is something like the heart of the Tracker
+implementation.
+    sheets_500: Howto Test:
+If you want to test the Tracker just compile it with MonoDevelop. The Tracker searches (and creates if not
+found) for a directory named ./torrents. In this Directory every Torrent is loaded on startup. To test
+the Torrent you need some torrents pointing at the Tracker. This can be done with the unit test. Just
+run gnunit2 and load the Common.dll in src/bin/Debug. Copy the single.torrent and torrentcreator.torrent
+into src/bin/Debug/torrents and start the Tracker in MonoDevelop. Then you can load the Torrents in Azureus
+or BitTorrent and check if the Tracker reacts on Announces and Scrapes.
+  行 33 不同:
+    生成文件: Howto Test:
+If you want to test the Tracker just compile it with MonoDevelop. The Tracker searches (and creates if not
+found) for a directory named ./torrents. In this Directory every Torrent is loaded on startup. To test
+the Torrent you need some torrents pointing at the Tracker. This can be done with the unit test. Just
+run gnunit2 and load the Common.dll in src/bin/Debug. Copy the single.torrent and torrentcreator.torrent
+into src/bin/Debug/torrents and start the Tracker in MonoDevelop. Then you can load the Torrents in Azureus
+or BitTorrent and check if the Tracker reacts on Announces and Scrapes.
+    sheets_500: [缺失]
+  共 13 行内容不同
+
+[不同] (137/493) alibaba@GCanvas.xlsx
+  生成文件行数: 25, sheets_500文件行数: 25
+  行 11 不同:
+    生成文件: - If your issue is resolved but still open, don’t hesitate to close it. In case you found a solution by yourself, it could be helpful to explain how you fixed it.
+    sheets_500: - If your issue is resolved but still open, don
+  共 1 行内容不同
+
+[不同] (143/493) alibaba@formily.xlsx
+  生成文件行数: 31, sheets_500文件行数: 31
+  行 15 不同:
+    生成文件: - If your issue is resolved but still open, don’t hesitate to close it. In case you found a solution by yourself, it could be helpful to explain how you fixed it.
+    sheets_500: If your issue is resolved but still open, don’t hesitate to close it. In case you found a solution by yourself, it could be helpful to explain how you fixed it.
+  共 1 行内容不同
+
+[不同] (144/493) alibaba@ice.xlsx
+  生成文件行数: 48, sheets_500文件行数: 48
+  行 44 不同:
+    生成文件: - If your issue is resolved but still open, don’t hesitate to close it. In case you found a solution by yourself, it could be helpful to explain how you fixed it.
+    sheets_500: - If your issue is resolved but still open, don
+  共 1 行内容不同
+
+[不同] (146/493) alibaba@pipcook.xlsx
+  生成文件行数: 23, sheets_500文件行数: 23
+  行 9 不同:
+    生成文件: - If your issue is resolved but still open, don’t hesitate to close it. In case you found a solution by yourself, it could be helpful to explain how you fixed it.
+    sheets_500: - If your issue is resolved but still open, don
+  共 1 行内容不同
+
+[不同] (147/493) alibaba@rax.xlsx
+  生成文件行数: 38, sheets_500文件行数: 38
+  行 22 不同:
+    生成文件: - If your issue is resolved but still open, don’t hesitate to close it. In case you found a solution by yourself, it could be helpful to explain how you fixed it.
+    sheets_500: - If your issue is resolved but still open, don
+  共 1 行内容不同
+
+[不同] (150/493) alipay@SoloPi.xlsx
+  生成文件行数: 12, sheets_500文件行数: 12
+  行 5 不同:
+    生成文件: Before we accept a non-trivial patch or pull request we will need you to sign the Contributor License Agreement. Signing the contributor’s agreement does not grant anyone commit rights to the main repository, but it does mean that we can accept your contributions, and you will get an author credit if we do. Active contributors might be asked to join the core team, and given the ability to merge pull requests.
+    sheets_500: Before we accept a non-trivial patch or pull request we will need you to sign the Contributor License Agreement. Signing the contributor
+  共 1 行内容不同
+
+[不同] (157/493) an-tao@drogon.xlsx
+  生成文件行数: 28, sheets_500文件行数: 28
+  行 6 不同:
+    生成文件: 2.  Follow the official installation steps on
+DocsForge. It’s best to
+make sure to have the drogon_ctl executable in your shell’s PATH
+environment variable in case you use a terminal.
+    sheets_500: 2.  Follow the official installation steps on
+DocsForge. It
+make sure to have the drogon_ctl executable in your shellPATH
+environment variable in case you use a terminal.
+  行 10 不同:
+    生成文件: There are also some recommendations you can follow. These aren’t requirements,
+but they will make the development more straightforward:
+    sheets_500: There are also some recommendations you can follow. These aren
+but they will make the development more straightforward:
+  行 16 不同:
+    生成文件: - If there’s no open issue and no need to open one you can skip the number,
+and just use the descriptive part: bugfix/fix-typo-in-docs.
+    sheets_500: - If there
+and just use the descriptive part: bugfix/fix-typo-in-docs.
+  行 17 不同:
+    生成文件: 4.  Write a brief, but good, and descriptive commit message / pull request title in English,
+e. g. “Added Internationalization and Localization”.
+    sheets_500: 4.  Write a brief, but good, and descriptive commit message / pull request title in English,
+e.
+  行 23 不同:
+    生成文件: 1.  In case it is a bugfix, it’s best to write a test that breaks in the old
+version, but works in the new one. This way regressions can be tracked
+over time.
+    sheets_500: 1.  In case it is a bugfix, it
+version, but works in the new one. This way regressions can be tracked
+over time.
+  行 29 不同:
+    生成文件: This way the history in the master branch will be free of small
+corrections and easier to follow for people who aren’t engaged in the
+project on a day-to-day basis.
+    sheets_500: This way the history in the master branch will be free of small
+corrections and easier to follow for people who aren
+project on a day-to-day basis.
+  共 6 行内容不同
+
+[不同] (160/493) andlabs@libui.xlsx
+  生成文件行数: 60, sheets_500文件行数: 60
+  行 19 不同:
+    生成文件: Private API names — specifcally those used by more than one source file — should begin with uipriv and be followed by a capital letter. This avoids namespace collisions in static libraries.
+    sheets_500: Private API names uipriv and be followed by a capital letter. This avoids namespace collisions in static libraries.
+  行 33 不同:
+    生成文件: If you do plead your case, keep in mind that "it's old" is not a sufficient reason to drop things. If you can prove that virtually no one uses the minimum version anymore, then that is stronger evidence. The best evidence, however, is that not upgrading will hold libui back in some significant way — but beware that there are some things I won't add to libui itself.
+    sheets_500: If you do plead your case, keep in mind that "it's old" is not a sufficient reason to drop things. If you can prove that virtually no one uses the minimum version anymore, then that is stronger evidence. The best evidence, however, is that not upgrading will hold libui back in some significant way
+  共 2 行内容不同
+
+[不同] (168/493) angular-gantt@angular-gantt.xlsx
+  生成文件行数: 82, sheets_500文件行数: 82
+  行 10 不同:
+    生成文件: ##  Issues Guidelines
+    sheets_500: ## Issues Guidelines
+  行 19 不同:
+    生成文件: ##  Coding Rules
+    sheets_500: ## Coding Rules
+  共 2 行内容不同
+
+[不同] (199/493) apache@incubator-echarts.xlsx
+  生成文件行数: 52, sheets_500文件行数: 52
+  行 32 不同:
+    生成文件: - We can be inspired from other people’s work. There is no problem with copying ideas and no problems associated with that so long as the code is entirely yours and you aren’t violating the license of the inspirational work. You can just follow "normal" source code rules.
+    sheets_500: - We can be inspired from other people
+  共 1 行内容不同
+
+[不同] (201/493) apache@incubator-superset.xlsx
+  生成文件行数: 422, sheets_500文件行数: 422
+  行 108 不同:
+    生成文件: Bug fixes: If you’re only fixing a small bug, it’s fine to submit a pull request right away but we highly recommend to file an issue detailing what you’re fixing. This is helpful in case we don’t accept that specific fix but want to keep track of the issue. Please keep in mind that the project maintainers reserve the rights to accept or reject incoming PRs, so it is better to separate the issue and the code to fix it from each other. In some cases, project maintainers may request you to create a separate issue from PR before proceeding.
+    sheets_500: Bug fixes: If you
+  共 1 行内容不同
+
+[不同] (203/493) apache@jmeter.xlsx
+  生成文件行数: 56, sheets_500文件行数: 56
+  行 7 不同:
+    生成文件: - or send a note to the user mailing list.
+Be sure to include all relevant information, like the versions of JMeter you’re using as long as Java version.
+A Test plan  that caused the issue as well as any error messages are also very helpful.
+    sheets_500: - or send a note to the user mailing list.
+Be sure to include all relevant information, like the versions of JMeter you
+A Test plan  that caused the issue as well as any error messages are also very helpful.
+  共 1 行内容不同
+
+[不同] (210/493) api-platform@core.xlsx
+  生成文件行数: 74, sheets_500文件行数: 74
+  行 66 不同:
+    生成文件: When you open a Pull Request to the API Platform project, you agree to license your code under the MIT license
+and to transfer the copyright on the submitted code to Kévin Dunglas.
+    sheets_500: When you open a Pull Request to the API Platform project, you agree to license your code under the MIT license
+and to transfer the copyright on the submitted code to K
+  共 1 行内容不同
+
+[不同] (237/493) atlanhq@camelot.xlsx
+  生成文件行数: 52, sheets_500文件行数: 52
+  行 18 不同:
+    生成文件: 1.  Fork the project repository. Click on the ‘Fork’ button near the top of the page. This creates a copy of the code under your account on the GitHub.
+    sheets_500: 1.  Fork the project repository. Click on the
+  共 1 行内容不同
+
+[不同] (239/493) atom@atom.xlsx
+  生成文件行数: 245, sheets_500文件行数: 245
+  行 117 不同:
+    生成文件: - Check the debugging guide for tips  you might discover that the enhancement is already available. Most importantly, check if you're using the latest version of Atom and if you can get the desired behavior by changing Atom's or packages' config settings.
+    sheets_500: - Check the debugging guide for tips the latest version of Atom and if you can get the desired behavior by changing Atom's or packages' config settings.
+  共 1 行内容不同
+
+[不同] (240/493) atoum@atoum.xlsx
+  生成文件行数: 68, sheets_500文件行数: 68
+  行 42 不同:
+    生成文件: - You should squash your commits to hide non-valudable commits (coding style fix, unit tests, …),
+    sheets_500: - You should squash your commits to hide non-valudable commits (coding style fix, unit tests,
+  行 56 不同:
+    生成文件: - …
+    sheets_500: -
+  共 2 行内容不同
+
+[不同] (244/493) avajs@ava.xlsx
+  生成文件行数: 38, sheets_500文件行数: 38
+  行 5 不同:
+    生成文件: Translations: Español, Français, Italiano, ???, Português, ???????, ????
+    sheets_500: Translations: Espa, Fran, Italiano, ???, Portugu, ???????, ????
+  共 1 行内容不同
+
+[不同] (248/493) aws-amplify@amplify-js.xlsx
+  生成文件行数: 134, sheets_500文件行数: 134
+  行 20 不同:
+    生成文件: First and foremost Amplify exposes to you WHAT things do and then HOW best to do them. The WHAT is at a functional use case with HOW being an opinionated implementation that you can override with “escape hatches.” This will allow you to have higher velocity and build better applications by focusing less on implementation choices. Secondly, Amplify should be a manifestation of The Rule of Least Power when developing against AWS. This means it encourages architectural and programmatic best practices and the ability to start quickly. This shows by encouraging certain services (API Gateway usage vs. direct DynamoDB interaction) or certain connection patterns (Circuit breaker, retry counts and throttle up/down).
+    sheets_500: First and foremost Amplify exposes to you WHAT things do and then HOW best to do them. The WHAT is at a functional use case with HOW being an opinionated implementation that you can override with
+  行 22 不同:
+    生成文件: Declarative actions: Amplify will provide you a reference to a generic client object and the ability to perform common actions. “RegisterUser”, “Login”, “SendObject”, “UpdateObject”, “StreamData”. By default you should not need to worry about AWS Service specific API operations like putItem() with a unique hash or even HTTP verbs.
+    sheets_500: Declarative actions: Amplify will provide you a reference to a generic client object and the ability to perform common actions.
+  行 76 不同:
+    生成文件: Yarn Linking
+The best way to develop locally and test is to link the individual package you’re working on and run lerna in watch mode.
+    sheets_500: Yarn Linking
+The best way to develop locally and test is to link the individual package you
+  行 83 不同:
+    生成文件: These tests are only necessary if you’re looking to contribute a Pull Request. If you’re just playing locally you don’t need them. However if you’re contributing a Pull Request for anything other than bug fixes it would be best to validate that first because depending on the scope of the change.
+    sheets_500: These tests are only necessary if you
+  行 93 不同:
+    生成文件: This is mostly the same as GitHub's guide on creating a pull request.
+    sheets_500: This is mostly the same as
+  共 5 行内容不同
+
+[不同] (251/493) aws@aws-cdk.xlsx
+  生成文件行数: 372, sheets_500文件行数: 372
+  行 142 不同:
+    生成文件: - Discuss review comments and iterate until you get at least one Approve. When iterating, push new commits to the
+same branch. Usually all these are going to be squashed when you merge to master. The commit messages should be hints
+for you when you finalize your merge commit message.
+    sheets_500: - Discuss review comments and iterate until you get at least one
+same branch. Usually all these are going to be squashed when you merge to master. The commit messages should be hints
+for you when you finalize your merge commit message.
+  共 1 行内容不同
+
+[不同] (256/493) aws@aws-sdk-ruby.xlsx
+  生成文件行数: 23, sheets_500文件行数: 23
+  行 16 不同:
+    生成文件: 1.  Waiters – Waiter configurations are located in the apis directory.
+    sheets_500: 1.  Waiters
+  行 17 不同:
+    生成文件: 2.  Docs – We  greatly appreciate contributions to our documentation. The docs are written as code comments
+and via a pair of YARD plugins.
+    sheets_500: 2.  Docs
+and via a pair of YARD plugins.
+  行 18 不同:
+    生成文件: 3.  Tests – We maintain high code coverage, but if there are any tests you feel are missing, please add them.
+    sheets_500: 3.  Tests
+  行 19 不同:
+    生成文件: 4.  Convenience features – Are there any features you feel would add value to the SDK? Contributions in this
+area would be greatly appreciated. See the feature requests document for a list of ideas.
+    sheets_500: 4.  Convenience features
+area would be greatly appreciated. See the feature requests document for a list of ideas.
+  共 4 行内容不同
+
+[不同] (267/493) babel@babel.xlsx
+  生成文件行数: 139, sheets_500文件行数: 138
+  行 76 不同:
+    生成文件: - Generally, there are two kinds of tests for plugins
+    sheets_500: - Generally, there are two kinds of tests for plugins
+input.js file and an output.js file. This kind of test only works in sub-subdirectories of /fixtures, i.e. /fixtures/exponentian-operator/binary/input.js and not /fixtures/exponentian-operator/input.js.
+  行 77 不同:
+    生成文件: - The first is a simple test of the input and output produced by running Babel on some code. We do this by creating an input.js file and an output.js file. This kind of test only works in sub-subdirectories of /fixtures, i.e. /fixtures/exponentian-operator/binary/input.js and not /fixtures/exponentian-operator/input.js.
+    sheets_500: - If you need to expect an error, you can ignore creating the output.js file and pass a new throws key to the options.json that contains the error string that is created.
+  行 78 不同:
+    生成文件: - If you need to expect an error, you can ignore creating the output.js file and pass a new throws key to the options.json that contains the error string that is created.
+    sheets_500: - The second and preferred type is a test that actually evaluates the produced code and asserts that certain properties are true or false. We do this by creating an exec.js file.
+  行 79 不同:
+    生成文件: - The second and preferred type is a test that actually evaluates the produced code and asserts that certain properties are true or false. We do this by creating an exec.js file.
+    sheets_500: In a fixture test, you simply write out the code you want to transform in input.js.
+  行 80 不同:
+    生成文件: In a fixture test, you simply write out the code you want to transform in input.js.
+    sheets_500: // input.js
+2 ** 2;
+  行 81 不同:
+    生成文件: // input.js
+2 ** 2;
+    sheets_500: and the expected output after transforming it with your options.json in output.js.
+  行 82 不同:
+    生成文件: and the expected output after transforming it with your options.json in output.js.
+    sheets_500: // output.js
+Math.pow(2, 2);
+  行 83 不同:
+    生成文件: // output.js
+Math.pow(2, 2);
+    sheets_500: In an exec.js test, we run or check that the code actually does what it's supposed to do rather than just check the static output.
+  行 84 不同:
+    生成文件: In an exec.js test, we run or check that the code actually does what it's supposed to do rather than just check the static output.
+    sheets_500: // exec.js
+expect(2 ** 3).toBe(8);
+expect(3 * 2 ** 3).toBe(24);
+  行 85 不同:
+    生成文件: // exec.js
+expect(2 ** 3).toBe(8);
+expect(3 * 2 ** 3).toBe(24);
+    sheets_500: If you need to check for an error that is thrown you can add to the options.json
+  行 86 不同:
+    生成文件: If you need to check for an error that is thrown you can add to the options.json
+    sheets_500: // options.json example
+{
+"plugins": [["@babel/plugin-proposal-object-rest-spread", { "useBuiltIns": "invalidOption" }]],
+"throws": "@babel/plugin-proposal-object-rest-spread currently only accepts a boolean option for useBuiltIns (defaults to false)"
+}
+  行 87 不同:
+    生成文件: // options.json example
+{
+"plugins": [["@babel/plugin-proposal-object-rest-spread", { "useBuiltIns": "invalidOption" }]],
+"throws": "@babel/plugin-proposal-object-rest-spread currently only accepts a boolean option for useBuiltIns (defaults to false)"
+}
+    sheets_500: If the test requires a minimum Node version, you can add minNodeVersion (must be in semver format).
+  行 88 不同:
+    生成文件: If the test requires a minimum Node version, you can add minNodeVersion (must be in semver format).
+    sheets_500: // options.json example
+{
+"minNodeVersion": "5.0.0"
+}
+  行 89 不同:
+    生成文件: // options.json example
+{
+"minNodeVersion": "5.0.0"
+}
+    sheets_500: @babel/parser (babylon)
+  行 90 不同:
+    生成文件: @babel/parser (babylon)
+    sheets_500: Writing tests for the babel parser is very
+similar to the other packages.
+Inside the packages/babel-parser/test/fixtures folder are categories/groupings of test fixtures (es2015, flow,
+etc.). To add a test, create a folder under one of these groupings (or create a new one) with a
+descriptive name, and add the following:
+  行 91 不同:
+    生成文件: Writing tests for the babel parser is very
+similar to the other packages.
+Inside the packages/babel-parser/test/fixtures folder are categories/groupings of test fixtures (es2015, flow,
+etc.). To add a test, create a folder under one of these groupings (or create a new one) with a
+descriptive name, and add the following:
+    sheets_500: - Create an input.js file that contains the code you want the babel parser to parse.
+  行 92 不同:
+    生成文件: - Create an input.js file that contains the code you want the babel parser to parse.
+    sheets_500: - Add an output.json file with the expected parser output. For added convenience, if there is no output.json present, the test runner will generate one for you.
+  行 93 不同:
+    生成文件: - Add an output.json file with the expected parser output. For added convenience, if there is no output.json present, the test runner will generate one for you.
+    sheets_500: After writing tests for @babel/parser, just build it by running:
+  行 94 不同:
+    生成文件: After writing tests for @babel/parser, just build it by running:
+    sheets_500: $ make build
+  行 95 不同:
+    生成文件: $ make build
+    sheets_500: Then, to run the tests, use:
+  行 96 不同:
+    生成文件: Then, to run the tests, use:
+    sheets_500: $ TEST_ONLY=babel-parser make test-only
+  行 97 不同:
+    生成文件: $ TEST_ONLY=babel-parser make test-only
+    sheets_500: Bootstrapping expected output
+  行 98 不同:
+    生成文件: Bootstrapping expected output
+    sheets_500: For both @babel/plugin-x and @babel/parser, you can easily generate an output.js/output.json automatically by just providing input.js and running the tests as you usually would.
+  行 99 不同:
+    生成文件: For both @babel/plugin-x and @babel/parser, you can easily generate an output.js/output.json automatically by just providing input.js and running the tests as you usually would.
+    sheets_500: // Example
+  行 100 不同:
+    生成文件: // Example
+    sheets_500: - packages
+  行 101 不同:
+    生成文件: - packages
+    sheets_500: - babel-parser
+  行 102 不同:
+    生成文件: - babel-parser
+    sheets_500: - test
+  行 103 不同:
+    生成文件: - test
+    sheets_500: - fixtures
+  行 104 不同:
+    生成文件: - fixtures
+    sheets_500: - comments
+  行 105 不同:
+    生成文件: - comments
+    sheets_500: - basic
+  行 106 不同:
+    生成文件: - basic
+    sheets_500: - block-trailing-comment
+  行 107 不同:
+    生成文件: - block-trailing-comment
+    sheets_500: - input.js
+  行 108 不同:
+    生成文件: - input.js
+    sheets_500: - output.json (will be generated if not created)
+  行 109 不同:
+    生成文件: - output.json (will be generated if not created)
+    sheets_500: Debugging code
+  行 110 不同:
+    生成文件: Debugging code
+    sheets_500: A common approach to debugging JavaScript code is to walk through the code using the Chrome DevTools debugger.
+For illustration purposes, we are going to assume that we need to get a better understanding of Generator.generate(), which is responsible for generating code for a given AST.
+To get a better understanding of what is actually going on for this particular piece of code, we are going to make use of breakpoints.
+  行 111 不同:
+    生成文件: A common approach to debugging JavaScript code is to walk through the code using the Chrome DevTools debugger.
+For illustration purposes, we are going to assume that we need to get a better understanding of Generator.generate(), which is responsible for generating code for a given AST.
+To get a better understanding of what is actually going on for this particular piece of code, we are going to make use of breakpoints.
+    sheets_500: generate() {
+  行 112 不同:
+    生成文件: generate() {
+    sheets_500: + debugger; // breakpoint
+return super.generate(this.ast);
+}
+  行 113 不同:
+    生成文件: + debugger; // breakpoint
+return super.generate(this.ast);
+}
+    sheets_500: To include the changes, we have to make sure to build Babel:
+  行 114 不同:
+    生成文件: To include the changes, we have to make sure to build Babel:
+    sheets_500: $ make build
+  行 115 不同:
+    生成文件: $ make build
+    sheets_500: Next, we need to execute Generator.generate(), which can be achieved by running a test case in the @babel/generator package.
+For example, we can run the test case that tests the generation of class declarations:
+  行 116 不同:
+    生成文件: Next, we need to execute Generator.generate(), which can be achieved by running a test case in the @babel/generator package.
+For example, we can run the test case that tests the generation of class declarations:
+    sheets_500: $ TEST_DEBUG=true TEST_GREP=ClassDeclaration make test-only
+  行 117 不同:
+    生成文件: $ TEST_DEBUG=true TEST_GREP=ClassDeclaration make test-only
+    sheets_500: ./scripts/test.sh
+Debugger listening on port 9229.
+To start debugging, open the following URL in Chrome:
+chrome-devtools://devtools/remote/serve_file/@60cd6e859b9f557d2312f5bf532f6aec5f284980/inspector.html?experiments=true&v8only=true&ws=127.0.0.1:9229/3cdaebd2-be88-4e7b-a94b-432950ab72d0
+  行 118 不同:
+    生成文件: ./scripts/test.sh
+Debugger listening on port 9229.
+To start debugging, open the following URL in Chrome:
+chrome-devtools://devtools/remote/serve_file/@60cd6e859b9f557d2312f5bf532f6aec5f284980/inspector.html?experiments=true&v8only=true&ws=127.0.0.1:9229/3cdaebd2-be88-4e7b-a94b-432950ab72d0
+    sheets_500: To start the debugging in Chrome DevTools, open the given URL.
+The debugger starts at the first executed line of code, which is Mocha's first line by default.
+Click Resume script execution  to jump to the set breakpoint.
+Note that the code shown in Chrome DevTools is compiled code and therefore differs.
+  行 119 不同:
+    生成文件: To start the debugging in Chrome DevTools, open the given URL.
+The debugger starts at the first executed line of code, which is Mocha's first line by default.
+Click Resume script execution  to jump to the set breakpoint.
+Note that the code shown in Chrome DevTools is compiled code and therefore differs.
+    sheets_500: Creating a new plugin (spec-new)
+  行 120 不同:
+    生成文件: Creating a new plugin (spec-new)
+    sheets_500: Example: https://github.com/babel/babel/pull/11640
+  行 121 不同:
+    生成文件: Example: https://github.com/babel/babel/pull/11640
+    sheets_500: - Create a new PR that describes the proposed AST shape in ESTree (ex: Decimal AST). The new AST should follow ESTree's design philosophy.
+  行 122 不同:
+    生成文件: - Create a new PR that describes the proposed AST shape in ESTree (ex: Decimal AST). The new AST should follow ESTree's design philosophy.
+    sheets_500: - After the ESTree PR is accepted, update ast/spec.md. Note that there are differences between Babel AST and ESTree. In these cases, consistency with current Babel AST outweighs alignment to ESTree. Otherwise it should follow ESTree.
+  行 123 不同:
+    生成文件: - After the ESTree PR is accepted, update ast/spec.md. Note that there are differences between Babel AST and ESTree. In these cases, consistency with current Babel AST outweighs alignment to ESTree. Otherwise it should follow ESTree.
+    sheets_500: - [ ] Implement parser plugins based on the new AST. The parser plugin name should be the unprefixed slug of the TC39 proposal URL in camelcase, i.e. exportDefaultFrom from https://github.com/tc39/proposal-export-default-from.
+  行 124 不同:
+    生成文件: - [ ] Implement parser plugins based on the new AST. The parser plugin name should be the unprefixed slug of the TC39 proposal URL in camelcase, i.e. exportDefaultFrom from https://github.com/tc39/proposal-export-default-from.
+    sheets_500: - [ ] Use the this.expectPlugin("newSyntax") check within @babel/parser to ensure your new plugin code only runs when that flag is turned on (not default behavior), and a friendly error is thrown if users forget to enable a plugin.
+  行 125 不同:
+    生成文件: - [ ] Use the this.expectPlugin("newSyntax") check within @babel/parser to ensure your new plugin code only runs when that flag is turned on (not default behavior), and a friendly error is thrown if users forget to enable a plugin.
+    sheets_500: - [ ] Add failing/passing tests according to spec behavior
+  行 126 不同:
+    生成文件: - [ ] Add failing/passing tests according to spec behavior
+    sheets_500: - [ ] Add @babel/syntax-new-syntax package. You can copy packages/babel-plugin-syntax-decimal and replace decimal to new-syntax.
+  行 127 不同:
+    生成文件: - [ ] Add @babel/syntax-new-syntax package. You can copy packages/babel-plugin-syntax-decimal and replace decimal to new-syntax.
+    sheets_500: - [ ] Add @babel/syntax-new-syntax to @babel/standalone.
+  行 128 不同:
+    生成文件: - [ ] Add @babel/syntax-new-syntax to @babel/standalone.
+    sheets_500: - [ ] Add @babel/syntax-new-syntax to package.json
+  行 129 不同:
+    生成文件: - [ ] Add @babel/syntax-new-syntax to package.json
+    sheets_500: - [ ] Add @babel/syntax-new-syntax to pluginsConfig.json, run make generate-standalone.
+  行 130 不同:
+    生成文件: - [ ] Add @babel/syntax-new-syntax to pluginsConfig.json, run make generate-standalone.
+    sheets_500: - [ ] Add @babel/syntax-new-syntax to src/preset-stage-x.
+  行 131 不同:
+    生成文件: - [ ] Add @babel/syntax-new-syntax to src/preset-stage-x.
+    sheets_500: - [ ] Add "newSyntax" to parser typings
+  行 132 不同:
+    生成文件: - [ ] Add "newSyntax" to parser typings
+    sheets_500: - [ ] Implement generator support in packages/babel-generator/src/generators. The generator converts AST to source code.
+  行 133 不同:
+    生成文件: - [ ] Implement generator support in packages/babel-generator/src/generators. The generator converts AST to source code.
+    sheets_500: - [ ] If this feature can be transpiled, start working on the Babel transform.
+  行 134 不同:
+    生成文件: - [ ] If this feature can be transpiled, start working on the Babel transform.
+    sheets_500: Internals
+  行 135 不同:
+    生成文件: Internals
+    sheets_500: - AST spec (babel-parser/ast/spec.md)
+  行 136 不同:
+    生成文件: - AST spec (babel-parser/ast/spec.md)
+    sheets_500: - Versioning (doc/design/versioning.md)
+  行 137 不同:
+    生成文件: - Versioning (doc/design/versioning.md)
+    sheets_500: - Monorepo (doc/design/monorepo.md)
+  行 138 不同:
+    生成文件: - Monorepo (doc/design/monorepo.md)
+    sheets_500: - Compiler environment support (doc/design/compiler-environment-support.md)
+  行 139 不同:
+    生成文件: - Compiler environment support (doc/design/compiler-environment-support.md)
+    sheets_500: - Compiler assumptions (doc/design/compiler-assumptions.md)
+  行 140 不同:
+    生成文件: - Compiler assumptions (doc/design/compiler-assumptions.md)
+    sheets_500: [缺失]
+  共 65 行内容不同
+
+[不同] (273/493) balenalabs@balena-sound.xlsx
+  生成文件行数: 57, sheets_500文件行数: 57
+  行 38 不同:
+    生成文件: Change-type: major
+Signed-off-by: Tomás Migone <tomas@balena.io>
+    sheets_500: Change-type: major
+Signed-off-by: Tom
+  共 1 行内容不同
+
+[不同] (274/493) ballerina-platform@ballerina-lang.xlsx
+  生成文件行数: 68, sheets_500文件行数: 68
+  行 20 不同:
+    生成文件: - Twitter: to tweet about Ballerina (use the “#ballerinalang” hashtag)
+    sheets_500: - Twitter: to tweet about Ballerina (use the
+  行 53 不同:
+    生成文件: For more information about the Ballerina compiler, go to Ballerina Compiler — Design.
+    sheets_500: For more information about the Ballerina compiler, go to Ballerina Compiler .
+  共 2 行内容不同
+
+[不同] (276/493) barbajs@barba.xlsx
+  生成文件行数: 24, sheets_500文件行数: 24
+  行 11 不同:
+    生成文件: Please, be sure to properly configure your editor…
+    sheets_500: Please, be sure to properly configure your editor
+  行 20 不同:
+    生成文件: Do not pay attention to the few console.error logs…
+In watch mode, you can select a specific package by pressing l > :arrow_down: > space > :leftwards_arrow_with_hook:
+    sheets_500: Do not pay attention to the few console.error logs
+In watch mode, you can select a specific package by pressing l > :arrow_down: > space > :leftwards_arrow_with_hook:
+  共 2 行内容不同
+
+[不同] (282/493) bcit-ci@CodeIgniter.xlsx
+  生成文件行数: 49, sheets_500文件行数: 49
+  行 10 不同:
+    生成文件: Before we look into how, here are the guidelines. If your Pull Requests fail
+to pass these guidelines it will be declined and you will need to re-submit
+when you’ve made the changes. This might sound a bit tough, but it is required
+for us to maintain quality of the code-base.
+    sheets_500: Before we look into how, here are the guidelines. If your Pull Requests fail
+to pass these guidelines it will be declined and you will need to re-submit
+when you
+for us to maintain quality of the code-base.
+  行 27 不同:
+    生成文件: If you are using Tower there is a "Sign-Off" checkbox in the commit window. You could even alias git commit to use the -s flag so you don’t have to think about it.
+    sheets_500: If you are using Tower there is a "Sign-Off" checkbox in the commit window. You could even alias git commit to use the -s flag so you don
+  共 2 行内容不同
+
+[不同] (299/493) binarylogic@authlogic.xlsx
+  生成文件行数: 51, sheets_500文件行数: 51
+  行 20 不同:
+    生成文件: ruby –I test path/to/test.rb
+    sheets_500: ruby
+  共 1 行内容不同
+
+[不同] (303/493) bitpay@copay.xlsx
+  生成文件行数: 44, sheets_500文件行数: 43
+  行 44 不同:
+    生成文件: 0
+    sheets_500: This file is based on @necolas's https://github.com/necolas/issue-guidelines/blob/master/CONTRIBUTING.md
+  行 45 不同:
+    生成文件: This file is based on @necolas's https://github.com/necolas/issue-guidelines/blob/master/CONTRIBUTING.md
+    sheets_500: [缺失]
+  共 2 行内容不同
+
+[不同] (310/493) bluelinelabs@Conductor.xlsx
+  生成文件行数: 36, sheets_500文件行数: 36
+  行 27 不同:
+    生成文件: We want contributors to provide ideas, keep the ship shipping and to take some of the load from others. It is non-obligatory; we’re here to get things done in an enjoyable way. :trophy:
+    sheets_500: We want contributors to provide ideas, keep the ship shipping and to take some of the load from others. It is non-obligatory; we
+  共 1 行内容不同
+
+[不同] (313/493) bobthecow@genghis.xlsx
+  生成文件行数: 32, sheets_500文件行数: 32
+  行 31 不同:
+    生成文件: - Don't bump version numbers. Those will be updated — per semver — once your change is merged into
+master.
+    sheets_500: - Don't bump version numbers. Those will be updated semver
+master.
+  共 1 行内容不同
+
+[不同] (314/493) bobthecow@mustache.php.xlsx
+  生成文件行数: 21, sheets_500文件行数: 21
+  行 16 不同:
+    生成文件: - Don't bump version numbers. Those will be updated — per semver — once your change is merged into master.
+    sheets_500: - Don't bump version numbers. Those will be updated semver master.
+  共 1 行内容不同
+
+[不同] (331/493) bridgedotnet@Bridge.xlsx
+  生成文件行数: 45, sheets_500文件行数: 45
+  行 3 不同:
+    生成文件: So, you’ve developed something interesting or fixed a defect and want to have it added to our official release? Lets learn about the contribution process so we can get your code baked into the next release.
+    sheets_500: So, you
+  行 26 不同:
+    生成文件: Your Pull Request will be reviewed by the Object.NET team. We will analyze your change and if it fits the coding standards and feature demand, we’ll add it to the main project.
+    sheets_500: Your Pull Request will be reviewed by the Object.NET team. We will analyze your change and if it fits the coding standards and feature demand, we
+  行 36 不同:
+    生成文件: Your reward is the sweet karma in knowing you’ve helped the community.
+    sheets_500: Your reward is the sweet karma in knowing you
+  行 37 不同:
+    生成文件: If you turn out to be a bug squashing and feature adding wizard... we would like to get to know you better. There’s always an open seat at Object.NET for a talented engineer.
+    sheets_500: If you turn out to be a bug squashing and feature adding wizard... we would like to get to know you better. There
+  共 4 行内容不同
+
+[不同] (333/493) brunch@brunch.xlsx
+  生成文件行数: 32, sheets_500文件行数: 32
+  行 27 不同:
+    生成文件: It won't make much sense to blindly edit the Brunch's sources and get no feedback on whether you are heading in the right direction.
+If you are making changes, you most likely are either a) fixing a bug, or b) adding a feature — in both of which cases you probably already have a sample app.
+    sheets_500: It won't make much sense to blindly edit the Brunch's sources and get no feedback on whether you are heading in the right direction.
+If you are making changes, you most likely are either a) fixing a bug, or b) adding a feature
+  共 1 行内容不同
+
+[不同] (340/493) c3js@c3.xlsx
+  生成文件行数: 33, sheets_500文件行数: 33
+  行 4 不同:
+    生成文件: If a bug, please include the following —
+    sheets_500: If a bug, please include the following
+  共 1 行内容不同
+
+[不同] (349/493) capistrano@capistrano.xlsx
+  生成文件行数: 35, sheets_500文件行数: 35
+  行 3 不同:
+    生成文件: - If you’re looking for help or have a question
+    sheets_500: - If you
+  行 7 不同:
+    生成文件: If you’re looking for help or have a question
+    sheets_500: If you
+  行 14 不同:
+    生成文件: If you think you’ve found a bug in Capistrano itself, then…
+    sheets_500: If you think you
+  行 17 不同:
+    生成文件: In case you’ve run across an already-known issue, check the FAQs first on the official Capistrano site.
+    sheets_500: In case youofficial Capistrano site.
+  行 21 不同:
+    生成文件: - Versions of Ruby, Capistrano, and any plugins you’re using (if doctor didn't already do this for you)
+    sheets_500: - Versions of Ruby, Capistrano, and any plugins youdoctor didn't already do this for you)
+  行 22 不同:
+    生成文件: - A description of the troubleshooting steps you’ve taken
+    sheets_500: - A description of the troubleshooting steps you
+  行 33 不同:
+    生成文件: Generally speaking the maintainers are very conservative about adding new features, and we can’t guarantee that the community will agree with or implement your idea. Please don’t be offended if we say no! The Capistrano team will do our best to review all suggestions and at least weigh in with a comment or suggest a workaround, if applicable.
+    sheets_500: Generally speaking the maintainers are very conservative about adding new features, and we can
+  共 7 行内容不同
+
+[不同] (357/493) catboost@catboost.xlsx
+  生成文件行数: 18, sheets_500文件行数: 18
+  行 4 不同:
+    生成文件: Hello! In order for us (YANDEX LLC) to accept patches and other contributions from you, you will have to adopt our Yandex Contributor License Agreement (the “CLA”). The current version of the CLA can be found here:
+    sheets_500: Hello! In order for us (YANDEX LLC) to accept patches and other contributions from you, you will have to adopt our Yandex Contributor License Agreement (the CLA
+  共 1 行内容不同
+
+[不同] (369/493) checkpoint-restore@criu.xlsx
+  生成文件行数: 106, sheets_500文件行数: 106
+  行 103 不同:
+    生成文件: Be patient. Most CRIU developers are pretty busy people so if
+there is no immediate response on your patch  don't be surprised,
+sometimes a patch may fly around a week before it gets reviewed.
+    sheets_500: Be patient. Most CRIU developers are pretty busy people so if
+there is no immediate response on your patch
+sometimes a patch may fly around a week before it gets reviewed.
+  共 1 行内容不同
+
+[不同] (395/493) cnabio@cnab-spec.xlsx
+  生成文件行数: 18, sheets_500文件行数: 18
+  行 14 不同:
+    生成文件: In addition, by making a contribution to specifications in this repository, you, on behalf of yourself, your employer, and its affiliates, are making those contributions subject to the obligations set forth in the OWF Contributor License Agreement 1.0 - Copyright and Patent.
+Final specifications developed in this repository will be subject to the Open Web Foundation Final Specification Agreement (“OWFa 1.0”).  OWFa 1.0 will be applied as follows:
+    sheets_500: In addition, by making a contribution to specifications in this repository, you, on behalf of yourself, your employer, and its affiliates, are making those contributions subject to the obligations set forth in the OWF Contributor License Agreement 1.0 - Copyright and Patent.
+Final specifications developed in this repository will be subject to the Open Web Foundation Final Specification Agreement (.  OWFa 1.0 will be applied as follows:
+  行 16 不同:
+    生成文件: - During that 30 day period, contributors may provide written notice to the maintainer that the contributor is not making the forgoing commitment under OWFa 1.0 for the designated specification (“Exclusion”).
+    sheets_500: - During that 30 day period, contributors may provide written notice to the maintainer that the contributor is not making the forgoing commitment under OWFa 1.0 for the designated specification (
+  共 2 行内容不同
+
+[不同] (397/493) cocos2d@cocos2d-x.xlsx
+  生成文件行数: 52, sheets_500文件行数: 52
+  行 27 不同:
+    生成文件: - Send a “pull request” to user “cocos2d”
+    sheets_500: "- Send a “pull request” to user “cocos2d”"
+  共 1 行内容不同
+
+[不同] (400/493) codeigniter4@CodeIgniter4.xlsx
+  生成文件行数: 48, sheets_500文件行数: 48
+  行 14 不同:
+    生成文件: Before we look into how to contribute to CodeIgniter4, here are some guidelines. If your Pull Requests fail
+to pass these guidelines, they will be declined, and you will need to re-submit
+when you’ve made the changes. This might sound a bit tough, but it is required
+for us to maintain the quality of the codebase.
+    sheets_500: Before we look into how to contribute to CodeIgniter4, here are some guidelines. If your Pull Requests fail
+to pass these guidelines, they will be declined, and you will need to re-submit
+when you
+for us to maintain the quality of the codebase.
+  共 1 行内容不同
+
+[不同] (409/493) collectd@collectd.xlsx
+  生成文件行数: 29, sheets_500文件行数: 29
+  行 14 不同:
+    生成文件: Please open a GitHub Pull Request
+(PR) to contribute bug fixes, features, cleanups, new plugins, … Patches sent to
+the mailing list have a tendency to fall through the cracks.
+    sheets_500: Please open a GitHub Pull Request
+(PR) to contribute bug fixes, features, cleanups, new plugins,
+the mailing list have a tendency to fall through the cracks.
+  共 1 行内容不同
+
+[不同] (418/493) commitizen@cz-cli.xlsx
+  生成文件行数: 17, sheets_500文件行数: 17
+  行 4 不同:
+    生成文件: You consider contributing changes to commitizen – thank you!
+Please consider these guidelines when filing a pull request:
+    sheets_500: You consider contributing changes to commitizen
+Please consider these guidelines when filing a pull request:
+  共 1 行内容不同
+
+[不同] (428/493) consul@consul.xlsx
+  生成文件行数: 34, sheets_500文件行数: 34
+  行 29 不同:
+    生成文件: - Javi Martín
+    sheets_500: - Javi Mart
+  行 30 不同:
+    生成文件: - Julián Herrero
+    sheets_500: - Juli
+  行 31 不同:
+    生成文件: - Raimond García
+    sheets_500: - Raimond Garc
+  行 35 不同:
+    生成文件: Juanjo Bazán, Enrique García Cota, Alberto Calderón, María Checa, Alberto García
+    sheets_500: Juanjo Baz, Enrique Garc, Alberto Calder, Mar, Alberto Garc
+  共 4 行内容不同
+
+[不同] (430/493) conventional-changelog@commitlint.xlsx
+  生成文件行数: 36, sheets_500文件行数: 36
+  行 16 不同:
+    生成文件: You consider contributing changes to commitlint – we dig that!
+Please consider these guidelines when filing a pull request:
+    sheets_500: You consider contributing changes to commitlint
+Please consider these guidelines when filing a pull request:
+  共 1 行内容不同
+
+[不同] (432/493) coralproject@talk.xlsx
+  生成文件行数: 167, sheets_500文件行数: 167
+  行 31 不同:
+    生成文件: If you decide to fix an issue, please be sure to check the comment thread in
+case somebody is already working on a fix. If nobody is working on it at the
+moment, please leave a comment stating that you intend to work on it so other
+people don’t accidentally duplicate your effort.
+    sheets_500: If you decide to fix an issue, please be sure to check the comment thread in
+case somebody is already working on a fix. If nobody is working on it at the
+moment, please leave a comment stating that you intend to work on it so other
+people don
+  行 32 不同:
+    生成文件: If somebody claims an issue but doesn’t follow up for more than two weeks, it’s
+fine to take it over but you should still leave a comment.
+    sheets_500: If somebody claims an issue but doesn
+fine to take it over but you should still leave a comment.
+  行 65 不同:
+    生成文件: While we don't have any automated tools at the time of writing that will
+verify this in CI, any strings being added that are presented to the end user
+should be wrapped in localization components to support other languages.
+    sheets_500: While we don't have any automated tools at the time of writing that will
+verify this in CI, any strings
+should be wrapped in localization components to support other languages.
+  共 3 行内容不同
+
+[不同] (438/493) cossacklabs@themis.xlsx
+  生成文件行数: 16, sheets_500文件行数: 16
+  行 11 不同:
+    生成文件: If you'd like to do independent parts (implement new procedures/objects, create a language wrapper or a set of examples for languages or architectures we don't have and don't even plan yet) — just go ahead and let us know when you finish.
+    sheets_500: If you'd like to do independent parts (implement new procedures/objects, create a language wrapper or a set of examples for languages or architectures we don't have and don't even plan yet)
+  共 1 行内容不同
+
+[不同] (440/493) coursera-dl@coursera-dl.xlsx
+  生成文件行数: 79, sheets_500文件行数: 79
+  行 3 不同:
+    生成文件: For the record, when this document mentions "I", it mostly means Rogério
+Brito's (@rbrito) is the one to blame.
+    sheets_500: For the record, when this document mentions "I", it mostly means Rog
+Brito's (@rbrito) is the one to blame.
+  共 1 行内容不同
+
+[不同] (448/493) ctripcorp@apollo.xlsx
+  生成文件行数: 20, sheets_500文件行数: 20
+  行 5 不同:
+    生成文件: Before we accept a non-trivial patch or pull request we will need you to sign the Contributor License Agreement. Signing the contributor’s agreement does not grant anyone commit rights to the main repository, but it does mean that we can accept your contributions, and you will get an author credit if we do. Active contributors might be asked to join the core team, and given the ability to merge pull requests.
+    sheets_500: Before we accept a non-trivial patch or pull request we will need you to sign the Contributor License Agreement. Signing the contributor
+  共 1 行内容不同
+
+[不同] (449/493) cube-js@cube.js.xlsx
+  生成文件行数: 69, sheets_500文件行数: 69
+  行 8 不同:
+    生成文件: When you contribute code, you affirm that the contribution is your original work and that you license the work to the project under the project’s open source license. Whether or not you state this explicitly, by submitting any copyrighted material via pull request, email, or other means you agree to license the material under the project’s open source license and warrant that you have the legal authority to do so.
+    sheets_500: When you contribute code, you affirm that the contribution is your original work and that you license the work to the project under the project
+  共 1 行内容不同
+
+[不同] (451/493) cucumber@aruba.xlsx
+  生成文件行数: 101, sheets_500文件行数: 101
+  行 98 不同:
+    生成文件: - Aslak Hellesøy (@aslakhellesoy)
+    sheets_500: - Aslak Helles@aslakhellesoy)
+  共 1 行内容不同
+
+[不同] (461/493) cyclejs@cyclejs.xlsx
+  生成文件行数: 16, sheets_500文件行数: 16
+  行 2 不同:
+    生成文件: First of all, thank you for contributing. It’s appreciated.
+    sheets_500: First of all, thank you for contributing. It
+  行 11 不同:
+    生成文件: 8.  Run cd dom && pnpm test (replace dom with the package you are testing) to lint and test. Don’t commit before fixing all errors and warnings.
+    sheets_500: 8.  Run cd dom && pnpm test (replace dom with the package you are testing) to lint and test. Don
+  共 2 行内容不同
+
+[不同] (463/493) cypress-io@cypress.xlsx
+  生成文件行数: 308, sheets_500文件行数: 308
+  行 111 不同:
+    生成文件: - Explain why it doesnt fit into the scope of Cypress, and offer clear suggestions for improvement, if youre able. Be kind, but firm.
+    sheets_500: - Explain why it doesn
+  行 112 不同:
+    生成文件: - Link to relevant documentation, if there is any. If you notice repeated requests for things you dont want to accept, add them into the documentation to avoid repeating yourself.
+    sheets_500: - Link to relevant documentation, if there is any. If you notice repeated requests for things you dondocumentation to avoid repeating yourself.
+  行 121 不同:
+    生成文件: - Explain that there is not enough information to reproduce the bug. Provide information on how you went about recreating the scenario, if youre able. Note your OS, Browser, Cypress version and any other information.
+    sheets_500: - Explain that there is not enough information to reproduce the bug. Provide information on how you went about recreating the scenario, if you
+  行 269 不同:
+    生成文件: - If you dont understand why some piece of code is required, ask for clarification! Likely the contributor had a reason and can provide the answer quicker than investigating yourself.
+    sheets_500: - If you don
+  行 291 不同:
+    生成文件: - [ ] Tests are testing the codes intended functionality in the best way possible.
+    sheets_500: - [ ] Tests are testing the code
+  共 5 行内容不同
+
+[不同] (481/493) davidjbradshaw@iframe-resizer.xlsx
+  生成文件行数: 30, sheets_500文件行数: 30
+  行 27 不同:
+    生成文件: Good pull requests—patches, improvements, new features—are a fantastic
+help. They should remain focused in scope and avoid containing unrelated
+commits.
+    sheets_500: Good pull requests
+help. They should remain focused in scope and avoid containing unrelated
+commits.
+  共 1 行内容不同
+
+[不同] (483/493) davidmoreno@onion.xlsx
+  生成文件行数: 48, sheets_500文件行数: 48
+  行 5 不同:
+    生成文件: Onion is an open source project and we love to receive contributions from our
+community — you! There are many ways to contribute, from writing tutorials or
+blog posts, improving the documentation, submitting bug reports and feature
+requests or writing code which can be incorporated into onion.
+    sheets_500: Onion is an open source project and we love to receive contributions from our
+community
+blog posts, improving the documentation, submitting bug reports and feature
+requests or writing code which can be incorporated into onion.
+  共 1 行内容不同
+
+[不同] (492/493) deepmind@pysc2.xlsx
+  生成文件行数: 7, sheets_500文件行数: 7
+  行 4 不同:
+    生成文件: Before we can use your code, you must sign the
+[Google Individual Contributor License Agreement]
+(https://cla.developers.google.com/about/google-individual)
+(CLA), which you can do online. The CLA is necessary mainly because you own the
+copyright to your changes, even after your contribution becomes part of our
+codebase, so we need your permission to use and distribute your code. We also
+need to be sure of various other things—for instance that you'll tell us if you
+know that your code infringes on other people's patents. You don't have to sign
+the CLA until after you've submitted your code for review and a member has
+approved it, but you must do it before we can put your code into our codebase.
+Before you start working on a larger contribution, you should get in touch with
+us first through the issue tracker with your idea so that we can help out and
+possibly guide you. Coordinating up front makes it much easier to avoid
+frustration later on.
+    sheets_500: Before we can use your code, you must sign the
+[Google Individual Contributor License Agreement]
+(https://cla.developers.google.com/about/google-individual)
+(CLA), which you can do online. The CLA is necessary mainly because you own the
+copyright to your changes, even after your contribution becomes part of our
+codebase, so we need your permission to use and distribute your code. We also
+need to be sure of various other things
+know that your code infringes on other people's patents. You don't have to sign
+the CLA until after you've submitted your code for review and a member has
+approved it, but you must do it before we can put your code into our codebase.
+Before you start working on a larger contribution, you should get in touch with
+us first through the issue tracker with your idea so that we can help out and
+possibly guide you. Coordinating up front makes it much easier to avoid
+frustration later on.
+  共 1 行内容不同
+
+============================================================
+✓ 对比完成！
+相同: 424 个
+不同: 69 个
+
+不同的文件列表:
+  - AcademySoftwareFoundation@openvdb.xlsx
+  - AngleSharp@AngleSharp.xlsx
+  - Automattic@jetpack.xlsx
+  - Automattic@simplenote-electron.xlsx
+  - Bash-it@bash-it.xlsx
+  - BlazeSoftware@atoms.xlsx
+  - BoostIO@Boostnote.xlsx
+  - Chocobozzz@PeerTube.xlsx
+  - CloudCompare@CloudCompare.xlsx
+  - CocoaPods@CocoaPods.xlsx
+  - CookPete@react-player.xlsx
+  - abseil@abseil-cpp.xlsx
+  - addyosmani@critical.xlsx
+  - airbnb@react-sketchapp.xlsx
+  - alanmcgovern@monotorrent.xlsx
+  - alibaba@GCanvas.xlsx
+  - alibaba@formily.xlsx
+  - alibaba@ice.xlsx
+  - alibaba@pipcook.xlsx
+  - alibaba@rax.xlsx
+  - alipay@SoloPi.xlsx
+  - an-tao@drogon.xlsx
+  - andlabs@libui.xlsx
+  - angular-gantt@angular-gantt.xlsx
+  - apache@incubator-echarts.xlsx
+  - apache@incubator-superset.xlsx
+  - apache@jmeter.xlsx
+  - api-platform@core.xlsx
+  - atlanhq@camelot.xlsx
+  - atom@atom.xlsx
+  - atoum@atoum.xlsx
+  - avajs@ava.xlsx
+  - aws-amplify@amplify-js.xlsx
+  - aws@aws-cdk.xlsx
+  - aws@aws-sdk-ruby.xlsx
+  - babel@babel.xlsx
+  - balenalabs@balena-sound.xlsx
+  - ballerina-platform@ballerina-lang.xlsx
+  - barbajs@barba.xlsx
+  - bcit-ci@CodeIgniter.xlsx
+  - binarylogic@authlogic.xlsx
+  - bitpay@copay.xlsx
+  - bluelinelabs@Conductor.xlsx
+  - bobthecow@genghis.xlsx
+  - bobthecow@mustache.php.xlsx
+  - bridgedotnet@Bridge.xlsx
+  - brunch@brunch.xlsx
+  - c3js@c3.xlsx
+  - capistrano@capistrano.xlsx
+  - catboost@catboost.xlsx
+  - checkpoint-restore@criu.xlsx
+  - cnabio@cnab-spec.xlsx
+  - cocos2d@cocos2d-x.xlsx
+  - codeigniter4@CodeIgniter4.xlsx
+  - collectd@collectd.xlsx
+  - commitizen@cz-cli.xlsx
+  - consul@consul.xlsx
+  - conventional-changelog@commitlint.xlsx
+  - coralproject@talk.xlsx
+  - cossacklabs@themis.xlsx
+  - coursera-dl@coursera-dl.xlsx
+  - ctripcorp@apollo.xlsx
+  - cube-js@cube.js.xlsx
+  - cucumber@aruba.xlsx
+  - cyclejs@cyclejs.xlsx
+  - cypress-io@cypress.xlsx
+  - davidjbradshaw@iframe-resizer.xlsx
+  - davidmoreno@onion.xlsx
+  - deepmind@pysc2.xlsx

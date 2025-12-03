@@ -1,0 +1,5 @@
+# Contributing to Tiled
+## Reporting an Issue
+## Requesting a Feature
+## Submitting a Patch
+## Making a Donation

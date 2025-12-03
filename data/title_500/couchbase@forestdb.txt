@@ -1,0 +1,3 @@
+# Contributing to Forestdb
+### Sign the CLA
+### Submitting a Patch
