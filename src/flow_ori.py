@@ -3,6 +3,7 @@ import json
 import os
 import pandas as pd
 import sys
+import argparse
 from config import API_KEY, API_HOST, API_MODEL
 
 # 自定义输出类，同时写入文件和终端
@@ -22,17 +23,22 @@ class DualOutput:
     def close(self):
         self.log.close()
 
+# 解析命令行参数
+parser = argparse.ArgumentParser(description='段落级分类处理')
+parser.add_argument('--index', type=int, default=None, help='处理第N个文件（从1开始），-1表示最后一个')
+parser.add_argument('--all', action='store_true', help='处理所有文件')
+parser.add_argument('--data-dir', type=str, default='data/sheets_with_titles_433', help='数据源目录')
+parser.add_argument('--output-dir', type=str, default='model_outputs', help='输出目录')
+args = parser.parse_args()
+
 # 重定向输出
 output_logger = DualOutput('output.txt')
 sys.stdout = output_logger
 
 # ============ 配置区域 ============
-# 设置要处理的Excel文件
-# None = 处理所有文件
-# 整数 = 只处理第N个文件 (例如: FILE_INDEX = 3 只处理第3个文件, 从1开始计数)
-FILE_INDEX = 8
-# 设置大模型输出JSON文件的保存目录
-OUTPUT_JSON_DIR = "model_outputs"
+FILE_INDEX = args.index if not args.all else None
+OUTPUT_JSON_DIR = args.output_dir
+DATA_DIR = args.data_dir
 # ==================================
 
 # 创建输出目录(如果不存在)
@@ -43,18 +49,22 @@ if not os.path.exists(OUTPUT_JSON_DIR):
 with open('resources/prompts/prompt.md', 'r', encoding='utf-8') as f:
     prompt_content = f.read().strip()
 
-data_dir = "data/sheets_500"
-xlsx_files = [f for f in os.listdir(data_dir) if f.endswith('.xlsx') and not f.startswith('.')]
+xlsx_files = sorted([f for f in os.listdir(DATA_DIR) if f.endswith('.xlsx') and not f.startswith('.')])
 
 # 根据配置选择要处理的文件
 if FILE_INDEX is not None:
-    if FILE_INDEX < 1 or FILE_INDEX > len(xlsx_files):
+    if FILE_INDEX == -1:
+        # -1表示最后一个文件
+        xlsx_files = [xlsx_files[-1]]
+        print(f"[配置] 只处理最后一个文件（第{len(xlsx_files)}个）: {xlsx_files[0]}\n")
+    elif FILE_INDEX < 1 or FILE_INDEX > len(xlsx_files):
         print(f"[配置错误] FILE_INDEX={FILE_INDEX} 超出范围 (1-{len(xlsx_files)})")
         output_logger.close()
         sys.stdout = output_logger.terminal
         sys.exit(1)
-    xlsx_files = [xlsx_files[FILE_INDEX - 1]]  # 从1开始计数,转换为0索引
-    print(f"[配置] 只处理第 {FILE_INDEX} 个文件: {xlsx_files[0]}\n")
+    else:
+        xlsx_files = [xlsx_files[FILE_INDEX - 1]]  # 从1开始计数,转换为0索引
+        print(f"[配置] 只处理第 {FILE_INDEX} 个文件: {xlsx_files[0]}\n")
 else:
     print(f"[配置] 处理所有 {len(xlsx_files)} 个文件\n")
 
@@ -63,7 +73,7 @@ for xlsx_file in xlsx_files:
     
     paragraphs_to_classify = []
     ground_truth = []
-    xlsx_path = os.path.join(data_dir, xlsx_file)
+    xlsx_path = os.path.join(DATA_DIR, xlsx_file)
     
     df = pd.read_excel(xlsx_path, header=None)
     category_columns = {1: "CF", 2: "CT", 3: "TC", 4: "BW", 5: "DC", 6: "SC"}
